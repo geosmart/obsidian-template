@@ -1,0 +1,5 @@
+APPIMAGE env is not defined, current application is not an AppImage
+APPIMAGE env is not defined, current application is not an AppImage
+[42379:1008/101505.610232:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1 times!
+[42379:1008/101505.611002:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 2 times!
+[42379:1008/101506.088306:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 3 times!
