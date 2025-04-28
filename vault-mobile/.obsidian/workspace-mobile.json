@@ -57,9 +57,59 @@
               "icon": "lucide-file",
               "title": "Inbox"
             }
+          },
+          {
+            "id": "1d3dca594d667977",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          },
+          {
+            "id": "b8b50593379c65e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Inbox"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -218,8 +268,8 @@
         "state": {
           "type": "tasks_timeline_view",
           "state": {},
-          "icon": "lucide-file",
-          "title": "插件不再活动"
+          "icon": "calendar-clock",
+          "title": "Tasks Timeline"
         }
       },
       {
@@ -287,20 +337,21 @@
       "command-palette:打开命令面板": false,
       "random-note:开始漫游笔记": false,
       "workspaces:管理工作区布局": false,
-      "periodic-notes:Open today": false,
       "templater-obsidian:Templater": false,
       "quickadd:QuickAdd": false,
       "outliner-md:New outliner file": false,
       "obsidian-weread-plugin:同步微信读书笔记": false,
       "homepage:Open homepage": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "670c938bc96ba628",
+  "active": "b8b50593379c65e6",
   "lastOpenFiles": [
-    "Readme.md",
+    "Home.md",
     "Inbox.md",
+    "Readme.md",
     "Diary/2025/极客工具-输出计划.md",
     "Diary/2025/Obsidian多端同步-git+termux.md",
     "01Project/Blog/content/draft/files/手机和服务器在git同步时如何解决冲突，gitignore忽略哪些？-image-20250305.png",
@@ -331,7 +382,6 @@
     "Diary/2025/开放API接口新增-目录树保存.md",
     "Context/Home.md",
     "02Area/技术/AI人工智能/prompts/通用助手.md",
-    "02Area/工具/obsidian/quickAdd.md",
     "02Area/工具/思维模型",
     "02Area/技术/AI人工智能/prompts",
     "03Resource/账号/证件附件/files/吴为-身份证-反面.jpg",
