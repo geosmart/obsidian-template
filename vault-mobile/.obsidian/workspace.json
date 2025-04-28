@@ -82,9 +82,33 @@
               "icon": "lucide-file",
               "title": "Inbox"
             }
+          },
+          {
+            "id": "f358f82d5fcd6df3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Inbox"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -352,11 +376,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "317c5dd6dfd8cdd5",
+  "active": "f358f82d5fcd6df3",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Inbox.md",
     "Home.md",
     "Diary/Inbox.md",
-    "Inbox.md",
     "02Area/工具/obsidian/template/template/穴位.md",
     "02Area/工具/obsidian/template/template/月总结.md",
     "02Area/工具/obsidian/template/template/yesterday-tasks-undo.md",
@@ -384,7 +409,6 @@
     "02Area/工具/obsidian/template/月总结.md",
     "02Area/工具/obsidian/template/微信公众号封面设计-1.html",
     "02Area/工具/obsidian/template/yesterday-tasks-undo.md",
-    "02Area/工具/obsidian/template/weekly.md",
     "02Area/工具/obsidian/template/template",
     "02Area/工具/obsidian/dataview/tasksCalendar",
     "02Area/工具/obsidian/dataview/habit",
