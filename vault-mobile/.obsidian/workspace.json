@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Inbox.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -80,7 +80,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Inbox"
             }
           }
         ],
@@ -317,13 +317,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "Inbox.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Home 的大纲"
+              "title": "Inbox 的大纲"
             }
           }
         ]
@@ -354,9 +354,9 @@
   },
   "active": "317c5dd6dfd8cdd5",
   "lastOpenFiles": [
+    "Home.md",
     "Diary/Inbox.md",
     "Inbox.md",
-    "Home.md",
     "02Area/工具/obsidian/template/template/穴位.md",
     "02Area/工具/obsidian/template/template/月总结.md",
     "02Area/工具/obsidian/template/template/yesterday-tasks-undo.md",
