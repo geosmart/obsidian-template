@@ -1,58 +1,23 @@
 {
   "main": {
-    "id": "8f44d6ab8648293c",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "4b21908ff4ce3b59",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "89c94f7aa834ce04",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diary/Inbox.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Inbox"
-            }
-          },
-          {
-            "id": "2f93bb702a766134",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Home.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "backlinks": false
               },
               "pinned": true,
               "icon": "lucide-file",
@@ -60,55 +25,37 @@
             }
           },
           {
-            "id": "317c5dd6dfd8cdd5",
+            "id": "4e975fe9fec7d07d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox.md",
+                "file": "01Project/Blog/draft/极客工具-输出记录.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Inbox"
+              "title": "极客工具-输出记录"
             }
           },
           {
-            "id": "f358f82d5fcd6df3",
+            "id": "0321aa22436e663b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox.md",
+                "file": "01Project/Blog/draft/Qwen3-4B模型+Obsidian本地问答.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Inbox"
+              "title": "Qwen3-4B模型+Obsidian本地问答"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -141,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "GoogleSearchWith",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,7 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 248.5
   },
   "right": {
     "id": "a6608b99877d51a5",
@@ -192,14 +139,25 @@
       {
         "id": "6a99a311cc58466d",
         "type": "tabs",
+        "dimension": 66.83599419448475,
         "children": [
+          {
+            "id": "658089a0b325b338",
+            "type": "leaf",
+            "state": {
+              "type": "tasks_timeline_view",
+              "state": {},
+              "icon": "calendar-clock",
+              "title": "Tasks Timeline"
+            }
+          },
           {
             "id": "402a8952cdb75504",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Diary/2025/Weekly/测试数据-周总结.md",
+                "file": "01Project/Blog/draft/手机端日记实践：问答 + 语音 +AI.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -227,50 +185,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "测试数据-周总结 的关系图"
-            }
-          },
-          {
-            "id": "934ce3b229eb5e27",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
-          },
-          {
-            "id": "94f65578f9efe450",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Diary/2025/2025-03-19.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "2025-03-19 的出链列表"
-            }
-          },
-          {
-            "id": "e38252ebb39234e3",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Diary/2025/2025-03-19.md",
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "2025-03-19 的反向链接列表"
+              "title": "手机端日记实践：问答 + 语音 +AI 的关系图"
             }
           },
           {
@@ -289,51 +204,31 @@
             }
           },
           {
-            "id": "d90b9c0f2efc4133",
+            "id": "df1ac4c7b77bf807",
             "type": "leaf",
             "state": {
-              "type": "tasks_timeline_view",
+              "type": "oz-calendar",
               "state": {},
-              "icon": "calendar-clock",
-              "title": "Tasks Timeline"
+              "icon": "OZCAL_ICON",
+              "title": "OZ Calendar"
             }
           },
           {
-            "id": "79b08da0282bd67b",
+            "id": "43ae0f0c55580770",
             "type": "leaf",
             "state": {
-              "type": "tasks_timeline_view",
+              "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
-            }
-          },
-          {
-            "id": "8ec87cf6d04896d1",
-            "type": "leaf",
-            "state": {
-              "type": "tasks_timeline_view",
-              "state": {},
-              "icon": "calendar-clock",
-              "title": "Tasks Timeline"
-            }
-          },
-          {
-            "id": "98c3e6d156054d47",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {},
-              "icon": "history",
-              "title": "History"
+              "icon": "SpacedRepIcon",
+              "title": "笔记复习序列"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       },
       {
-        "id": "69c33552fce4e920",
+        "id": "1193842c3e957e0e",
         "type": "tabs",
+        "dimension": 33.16400580551524,
         "children": [
           {
             "id": "8439d4c35c2dfe22",
@@ -341,24 +236,35 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox.md",
+                "file": "01Project/Blog/draft/Qwen3-4B模型+Obsidian本地问答.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Inbox 的大纲"
+              "title": "Qwen3-4B模型+Obsidian本地问答 的大纲"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 469.5
+    "width": 476.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "dbfolder:创建一个新数据库表": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "media-extended:Open media": false,
+      "smart-composer:Open smart composer": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
+      "better-plugins-manager:插件管理器": false,
+      "obsidian-spaced-repetition:复习卡片": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
+      "quickadd:QuickAdd": false,
       "command-palette:打开命令面板": false,
       "switcher:打开快速切换": false,
       "daily-notes:打开/创建今天的日记": false,
@@ -367,63 +273,67 @@
       "workspaces:管理工作区布局": false,
       "graph:查看关系图谱": false,
       "templater-obsidian:Templater": false,
-      "quickadd:QuickAdd": false,
-      "outliner-md:New outliner file": false,
-      "obsidian-weread-plugin:同步微信读书笔记": false,
+      "templify:Templify 市场": false,
+      "vscode-editor:新建代码文件": false,
+      "terminal:Open terminal": false,
+      "dashboard-navigator:Open dashboard navigator": false,
+      "emoji-picker:Open emoji picker": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "copilot:Open Copilot Chat": false,
       "homepage:Open homepage": false,
-      "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "f358f82d5fcd6df3",
+  "active": "0321aa22436e663b",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Inbox.md",
+    "01Project/Blog/draft/Qwen3-4B模型+Obsidian本地问答.md",
+    "01Project/Blog/draft/极客工具-输出记录.md",
     "Home.md",
-    "Diary/Inbox.md",
-    "02Area/工具/obsidian/template/template/穴位.md",
-    "02Area/工具/obsidian/template/template/月总结.md",
-    "02Area/工具/obsidian/template/template/yesterday-tasks-undo.md",
-    "02Area/工具/obsidian/template/template/weekly.md",
-    "02Area/工具/obsidian/template/template/weekly-gdd-template.md",
-    "02Area/工具/obsidian/template/template/weekly-gdd-dataview.md",
-    "02Area/工具/obsidian/template/template/templify-四象限模板.md",
-    "02Area/工具/obsidian/template/template/tasks.md",
-    "02Area/工具/obsidian/template/template/set_cursor_position.md",
-    "02Area/工具/obsidian/template/template/select_section.md",
-    "02Area/工具/obsidian/template/template/reading.md",
-    "02Area/工具/obsidian/template/template/quarterly.md",
-    "02Area/工具/obsidian/template/template/monthly.md",
-    "02Area/工具/obsidian/template/template/memos-api.md",
-    "02Area/工具/obsidian/template/template/meeting.md",
-    "02Area/工具/obsidian/template/template/habitat.md",
-    "02Area/工具/obsidian/template/template/diary.md",
-    "02Area/工具/obsidian/template/template/calendar.md",
-    "02Area/工具/obsidian/template/template/SearchEngineBook.md",
-    "02Area/工具/obsidian/dataview/habit/view.js",
+    "01Project/Blog/content/零门槛实现 Obsidian 多端实时同步：非开发人士也能轻松上手.md",
+    "01Project/Blog/content/assets/零门槛实现 Obsidian 多端实时同步：非开发人士也能轻松上手",
+    "01Project/Blog/content/assets/零门槛实现 Obsidian 多端实时同步：非开发人士也能轻松上手/零门槛实现 Obsidian 多端实时同步：非开发人士也能轻松上手-image-20250429.png",
+    "01Project/Blog/draft/assets/零门槛实现 Obsidian 多端实时同步：非开发人士也能轻松上手",
+    "01Project/Blog/content/obsidian-sync-livesync.md",
+    "01Project/Blog/content/obsidian-sync-git.md",
+    "03Resource/账号/ssh.md",
+    "Diary/2025/2025-04-28.md",
+    "01Project/Blog/content/obsidian-method.md",
+    "01Project/Blog/content/obsidian-plugin-install.md",
+    "01Project/Blog/content/obsidian-quickadd-mandala.md",
+    "01Project/Blog/content/Obsidian AI 最佳实践.md",
+    "01Project/Blog/content/mdpb-zhihu.md",
+    "01Project/Blog/content/kbase-ingestion-reading.md",
+    "01Project/Blog/content/diary-method.md",
+    "01Project/Blog/content/client-cherrystudio.md",
+    "01Project/Blog/content/ai-tool-compare.md",
+    "01Project/Blog/content/cline-mcp-fetch-search.md",
+    "01Project/Blog/content/MCP协议解读：STDIO高效通信与JSON-RPC实战.md",
+    "01Project/Blog/content/kbase-ai-ingestion.md",
+    "01Project/Blog/content/docker-obsidian.md",
+    "01Project/01Project.md",
+    "01Project/Blog/draft/ppt制作图文.md",
+    "01Project/Blog/draft/ppt制作视频.md",
+    "01Project/Blog/draft/roocode-mcp-fetch-search.md",
+    "01Project/Blog/draft/toolism-开源工具的结构化模板.md",
+    "01Project/Blog/content/assets/MCP协议解读：MCP-Server通信原理（SSE）/MCP协议解读：MCP-Server通信原理（SSE）-image-20250426.png",
+    "01Project/Work/智能体中心/知识库MCP服务",
+    "01Project/Work/知识内容中台/数据采集/稽查案例",
+    "02Area/工具/obsidian/scripts_quickadd/weekly_memos.js",
+    "02Area/工具/obsidian/scripts_quickadd/sample.ts",
+    "02Area/工具/obsidian/scripts_quickadd/weekly_memos.ts",
+    "02Area/工具/obsidian/scripts/get_weather.js",
     "02Area/工具/obsidian/dataview/tasksCalendar/view.js",
-    "02Area/工具/obsidian/dataview/tasksCalendar/view.css",
-    "02Area/工具/obsidian/dataview/habit/view.css",
-    "02Area/工具/obsidian/template/穴位.md",
-    "02Area/工具/obsidian/template/月总结.md",
-    "02Area/工具/obsidian/template/微信公众号封面设计-1.html",
-    "02Area/工具/obsidian/template/yesterday-tasks-undo.md",
-    "02Area/工具/obsidian/template/template",
-    "02Area/工具/obsidian/dataview/tasksCalendar",
-    "02Area/工具/obsidian/dataview/habit",
-    "02Area/工具/obsidian/template",
-    "02Area/工具/obsidian/dataview",
-    "01Project/Blog/content/files/cover-obsidian-gtd-diary.png",
-    "01Project/Blog/content/files/obsidian-gtd-diary-image-20250319-1.png",
-    "01Project/Blog/content/files/diary-template.png",
-    "01Project/Blog/draft/files/obsidian-gtd-diary-image-20250319.png",
-    "01Project/Blog/content/files/agent-metagpt-manus-cover.png",
-    "01Project/Blog/draft/files/Screenshot from 2025-03-19 09-23-53.png",
-    "01Project/Blog/draft/files/Screenshot from 2025-03-19 09-24-29.png",
-    "01Project/Blog/draft/files/Screenshot from 2025-03-19 09-40-19.png",
-    "01Project/Blog/content/files/cover-obsidian-ai-link.png",
-    "01Project/Blog/draft/files/640.jpeg",
+    "02Area/工具/obsidian/dataview/habit/view.js",
+    "01Project/Blog/content/assets/MCP协议解读：MCP-Server通信原理（SSE）/MCP协议解读：MCP-Server通信原理（SSE）-mcp-sse-uml-20250425.png",
+    "01Project/Blog/content/assets/MCP协议解读：MCP-Server通信原理（SSE）/MCP协议解读：MCP-Server通信原理（SSE）-Editor _ Mermaid Chart-2025-04-25-130309-20250425.webp",
+    "01Project/Blog/content/assets/MCP协议解读：MCP-Server通信原理（SSE）/mcp-sse-flow.jpg.webp",
+    "01Project/Blog/content/assets/个人知识库构建 - 剪藏网页内图片一键下载/个人知识库构建 - 剪藏网页内图片一键下载-2025-04-25-09-41-56-20250425.webp",
+    "01Project/Blog/content/assets/个人知识库构建 - 剪藏网页内图片一键下载/个人知识库构建 - 实现剪藏文章内图片一键批量下载-image-20250425-1.webp",
+    "01Project/Blog/content/assets/个人知识库构建 - 剪藏网页内图片一键下载/个人知识库构建 - 实现剪藏文章内图片一键批量下载-image-20250425.webp",
+    "01Project/Blog/content/assets/个人知识库构建 - 剪藏网页内图片一键下载/知识采集：剪藏文章的图片一键下载到本地-20250424220516.jpg",
+    "01Project/Blog/content/assets/个人知识库构建 - 剪藏网页内图片一键下载/知识采集：剪藏文章的图片一键下载到本地-20250424220620.jpg",
     "Diary/2025/未命名.canvas",
     "01Project/税友/知识库/AI搜税/系统设计/知识库-搜索词纠错流程.canvas",
     "01Project/税友/机器学习平台/产品规划/算法平台.canvas",

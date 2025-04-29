@@ -23,48 +23,28 @@ updated: 2025-04-28T22:03:48
 	1. 自动汇总周总结
 	2. OKR 实践月计划
 
-## 目录结构
-
-```bash
-# 安装包
-├── installer 
-│   ├── android
-│   └── pc
-# obsidian库
-├── vault-mobile
-## PARA目录
-│   ├── 01Project
-│   ├── 02Area
-│   ├── 03Resource
-│   ├── 04Archive
-## 日记目录
-│   ├── Diary
-## 主页
-│   ├── Home.md
-```
-
 ## Obsidian 插件
 模板已经集成以下插件
 
 **集成与自动化**
 
-|插件名|描述|
-|---|---|
-|ai-providers|管理和切换多个 AI 提供者，实现 AI 功能集成|
-|local-gpt|在本地运行 GPT 模型，实现离线 AI 辅助|
-|obsidian-weread-plugin|同步并导入微信读书笔记至 Obsidian|
+| 插件名                    | 描述                        |
+| ---------------------- | ------------------------- |
+| ai-providers           | 管理和切换多个 AI 提供者，实现 AI 功能集成 |
+| local-gpt              | 在本地运行 GPT 模型，实现离线 AI 辅助   |
+| obsidian-weread-plugin | 同步并导入微信读书笔记至 Obsidian     |
 
 **视觉与可视化**
 
-|插件名|描述|
-|---|---|
-|colored-tags|为标签添加颜色，高亮区分不同类别|
-|file-explorer-note-count|在资源管理器显示每个文件夹的笔记数量|
-|obsidian-show-file-path|在编辑界面中显示当前文件的完整路径|
-|image-converter|批量转换图片格式，优化图片质量|
-|image-upload-toolkit|一键上传图片到图床并插入链接|
-|dataview|基于查询语言分析和展示笔记数据|
-|obsidian-chartsview-plugin|在笔记中嵌入可交互图表，以可视化数据|
+| 插件名                        | 描述                 |
+| -------------------------- | ------------------ |
+| colored-tags               | 为标签添加颜色，高亮区分不同类别   |
+| file-explorer-note-count   | 在资源管理器显示每个文件夹的笔记数量 |
+| obsidian-show-file-path    | 在编辑界面中显示当前文件的完整路径  |
+| image-converter            | 批量转换图片格式，优化图片质量    |
+| image-upload-toolkit       | 一键上传图片到图床并插入链接     |
+| dataview                   | 基于查询语言分析和展示笔记数据    |
+| obsidian-chartsview-plugin | 在笔记中嵌入可交互图表，以可视化数据 |
 
 **搜索与导航**
 
