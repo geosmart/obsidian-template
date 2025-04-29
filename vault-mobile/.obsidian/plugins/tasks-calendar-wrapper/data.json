@@ -1,0 +1,73 @@
+{
+  "openViewOnStartup": true,
+  "filterEmpty": true,
+  "excludePaths": [],
+  "includePaths": [
+    "Diary/2023",
+    "Diary/2024",
+    "Diary/2025",
+    "Diary/Inbox.md"
+  ],
+  "useIncludeTags": true,
+  "taskIncludeTags": [],
+  "fileIncludeTags": [],
+  "useExcludeTags": false,
+  "taskExcludeTags": [],
+  "fileExcludeTags": [],
+  "styles": [
+    "style1"
+  ],
+  "dailyNoteFolder": "Diary/2025",
+  "dailyNoteFormat": "YYYY-MM-DD",
+  "sectionForNewTasks": "# tasks",
+  "hideTags": [],
+  "forward": true,
+  "sort": "(t1, t2) => t1.order <= t2.order ? -1 : 1",
+  "taskStatusOrder": [
+    "overdue",
+    "due",
+    "scheduled",
+    "start",
+    "process",
+    "unplanned",
+    "done",
+    "cancelled"
+  ],
+  "dateFormat": "MM-DD",
+  "inbox": "",
+  "taskFiles": [
+    ""
+  ],
+  "tagColorPalette": {
+    "#问答": "#339988",
+    "#工具": "#56983e",
+    "#RPA": "#cc7e3e",
+    "#知识库": "#babc29",
+    "#健身": "#4d86f9",
+    "#阅读": "#3761b3",
+    "#沟通": "#d36f6f"
+  },
+  "useCounters": true,
+  "counterBehavior": "Filter",
+  "useQuickEntry": true,
+  "entryPosition": "today",
+  "useYearHeader": false,
+  "useRelative": true,
+  "useRecurrence": true,
+  "usePriority": true,
+  "useTags": true,
+  "useFileBadge": false,
+  "useSection": true,
+  "hideStatusTasks": [
+    "x",
+    "-",
+    ">",
+    "!",
+    "?",
+    "+"
+  ],
+  "defaultTodayFocus": false,
+  "defaultFilters": "todoFilter",
+  "useBuiltinStyle": true,
+  "convert24HourTimePrefix": false
+}

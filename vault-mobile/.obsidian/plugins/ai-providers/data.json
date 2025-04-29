@@ -1,0 +1,53 @@
+{
+  "_version": 1,
+  "debugLogging": true,
+  "useNativeFetch": true,
+  "providers": [
+    {
+      "id": "id-1741528845298",
+      "name": "local-deepseek",
+      "apiKey": "lm-studio",
+      "url": "http://localhost:1234/v1",
+      "type": "lmstudio",
+      "model": "deepseek-r1-distill-qwen-7b",
+      "availableModels": [
+        "deepseek-r1-distill-qwen-7b",
+        "text-embedding-bge-m3",
+        "text-embedding-bce-embedding-base_v1",
+        "deepseek-r1-distill-qwen-1.5b-uncensored",
+        "text-embedding-nomic-embed-text-v1.5"
+      ]
+    },
+    {
+      "id": "id-1741528984352",
+      "name": "local-bge",
+      "apiKey": "ss",
+      "url": "http://localhost:1234/v1",
+      "type": "lmstudio",
+      "model": "text-embedding-bge-m3",
+      "availableModels": [
+        "deepseek-r1-distill-qwen-7b",
+        "text-embedding-bge-m3",
+        "text-embedding-bce-embedding-base_v1",
+        "deepseek-r1-distill-qwen-1.5b-uncensored",
+        "text-embedding-nomic-embed-text-v1.5"
+      ]
+    },
+    {
+      "id": "id-1742210321619",
+      "name": "siliconflow-deepseek-v3",
+      "apiKey": "",
+      "url": "https://api.siliconflow.cn/v1",
+      "type": "openai",
+      "model": "deepseek-ai/DeepSeek-V3"
+    },
+    {
+      "id": "id-1742308268727",
+      "name": "siliconflow-deepseek-r1",
+      "apiKey": "",
+      "url": "https://api.siliconflow.cn/v1",
+      "type": "openai",
+      "model": "deepseek-ai/DeepSeek-R1"
+    }
+  ]
+}

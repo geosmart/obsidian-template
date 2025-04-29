@@ -1,0 +1,14 @@
+
+
+
+/* 去除删除线效果 */
+.markdown-source-view.mod-cm6 .HyperMD-task-line[data-task="x"], .markdown-source-view.mod-cm6 .HyperMD-task-line[data-task="X"] {
+    text-decoration: none;
+    color: var(--checklist-done-color);
+}
+
+/* dataview 去除删除线效果*/
+ul > li.task-list-item[data-task="x"], ul > li.task-list-item[data-task="X"] {
+    text-decoration: none;
+    color: var(--checklist-done-color);
+}

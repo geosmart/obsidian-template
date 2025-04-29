@@ -1,0 +1,30 @@
+/*
+ * @Author          : 稻米鼠
+ * @Date            : 2022-11-22 13:18:46
+ * @LastEditTime    : 2022-11-25 08:35:56
+ * @FilePath        : \ob-templates\snippets\Split-Page-Callout.css
+ * @Description     : 笔记内容分栏
+ * @HomePage        : https://github.com/dmscode/Obsidian-Templates
+ */
+.callout[data-callout="split-2"],
+.callout[data-callout="split-3"] {
+  --callout-icon: "layout";
+  float: left;
+  width: calc(50% - 10px);
+  margin: 5px;
+  background-color: var(--background-primary);
+  border: 1px solid rgba(128, 128, 128, .1);
+  box-sizing: border-box;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, .1);
+}
+.callout[data-callout="split-2"] {
+  width: calc(50% - 10px);
+}
+.callout[data-callout="split-3"] {
+  width: calc(33% - 10px);
+}
+.callout[data-callout="split-4"] {
+  width: calc(25% - 10px);
+}
+/* 用来清除浮动 */
+br { clear: both; }
