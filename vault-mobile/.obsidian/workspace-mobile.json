@@ -196,7 +196,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "2f37fbf71dfe1a7f",
@@ -347,7 +347,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b8b50593379c65e6",
+  "active": "48f05f121365c155",
   "lastOpenFiles": [
     "Home.md",
     "Inbox.md",
