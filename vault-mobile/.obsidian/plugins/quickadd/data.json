@@ -5,7 +5,7 @@
       "name": "QA日记",
       "type": "Macro",
       "command": true,
-      "macroId": "773475c3-ddf4-42dd-b5aa-13124b8919c9"
+      "macroId": "159d306c-cb29-4dfb-89cc-817242c4be59"
     },
     {
       "id": "9c8e821c-09fa-465f-8f1e-64edff5e6d96",
@@ -122,14 +122,171 @@
       "collapsed": true
     },
     {
-      "id": "9ff9f8a5-7043-4d71-86a8-0771bcbd3567",
-      "name": "Mandala九宫格思考",
+      "id": "e8e00b90-c594-4902-899a-72c938b8a95f",
+      "name": "AI生成-指定提示词和输入",
       "type": "Macro",
       "command": true,
-      "macroId": "46dc4d97-1d19-49ae-8a4b-32efb36304e1"
+      "macroId": "9fed6f01-5aed-4647-94f2-08f91b738070"
+    },
+    {
+      "id": "be7b7a5d-b2b3-40f4-a32f-835484fd3493",
+      "name": "AI总结",
+      "type": "Macro",
+      "command": true,
+      "macroId": "c4e57f91-aa4e-4e72-8b42-8b63f1c0f2a4"
+    },
+    {
+      "id": "c38c450b-6935-4c59-8b15-b154a3357950",
+      "name": "周总结-汇总",
+      "type": "Macro",
+      "command": true,
+      "macroId": "3fc352eb-bf03-4d34-bae3-cc912d7ccd2e"
+    },
+    {
+      "id": "4c2e0082-c24b-487e-aa38-ab7515a12a68",
+      "name": "AI批量打标",
+      "type": "Macro",
+      "command": true,
+      "macroId": "6597d968-84ee-4ad7-ad7e-68606975bc0e"
     }
   ],
   "macros": [
+    {
+      "name": "AI生成-指定提示词和输入",
+      "id": "9fed6f01-5aed-4647-94f2-08f91b738070",
+      "commands": [
+        {
+          "name": "AI Assistant",
+          "type": "AIAssistant",
+          "id": "72934d9c-a079-450d-ae2d-3d9ba7b687a5",
+          "model": "Ask me",
+          "systemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+          "outputVariableName": "output",
+          "promptTemplate": {
+            "enable": false,
+            "name": "通用助手.md"
+          },
+          "modelParameters": {
+            "temperature": 1,
+            "top_p": 1,
+            "frequency_penalty": 0,
+            "presence_penalty": 0
+          }
+        },
+        {
+          "name": "插入当前文件",
+          "type": "NestedChoice",
+          "id": "8735feda-38de-4dd3-8f09-7d06fcf5cbea",
+          "choice": {
+            "id": "b81d288d-386a-40be-8968-0f5a1b0a9611",
+            "name": "插入当前文件",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "",
+            "captureToActiveFile": true,
+            "createFileIfItDoesntExist": {
+              "enabled": true,
+              "createWithTemplate": true,
+              "template": ""
+            },
+            "format": {
+              "enabled": true,
+              "format": "{{value:output}}"
+            },
+            "insertAfter": {
+              "enabled": false,
+              "after": "",
+              "insertAtEnd": false,
+              "considerSubsections": false,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": true,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        },
+        {
+          "name": "Linter: 格式化当前文件",
+          "type": "Obsidian",
+          "id": "570f52dc-2293-4e21-9d89-f8a507f5adf7",
+          "commandId": "obsidian-linter:lint-file"
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "AI总结",
+      "id": "c4e57f91-aa4e-4e72-8b42-8b63f1c0f2a4",
+      "commands": [
+        {
+          "name": "AI Assistant",
+          "type": "AIAssistant",
+          "id": "586bcb2d-a8e7-4cf0-a08c-2412210e8a1f",
+          "model": "deepseek-chat",
+          "systemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+          "outputVariableName": "output",
+          "promptTemplate": {
+            "enable": true,
+            "name": "AI总结.md"
+          },
+          "modelParameters": {
+            "temperature": 1,
+            "top_p": 1,
+            "frequency_penalty": 0,
+            "presence_penalty": 0
+          }
+        },
+        {
+          "name": "插入当前文件",
+          "type": "NestedChoice",
+          "id": "d85096f8-dcdc-46a8-a8a5-4c341e8efbe0",
+          "choice": {
+            "id": "9fd52d4f-45ee-46ae-ad8e-8fa5d312aa63",
+            "name": "插入当前文件",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "",
+            "captureToActiveFile": true,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": true,
+              "format": "# 总结\n{{value:output}}"
+            },
+            "insertAfter": {
+              "enabled": false,
+              "after": "",
+              "insertAtEnd": true,
+              "considerSubsections": false,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": true,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
     {
       "name": "copy-note-with-embedded-link",
       "id": "a739099c-33f1-47fb-a928-05936670c89a",
@@ -244,16 +401,16 @@
       "runOnStartup": false
     },
     {
-      "name": "问答式日记",
+      "name": "QA日记",
       "id": "159d306c-cb29-4dfb-89cc-817242c4be59",
       "commands": [
         {
-          "name": "observe",
+          "name": "observe-环境",
           "type": "NestedChoice",
           "id": "eaef1033-2b11-44d5-a4ad-5fe51cf4f098",
           "choice": {
             "id": "2fbd5861-6d12-4fc9-9a72-de54c3539083",
-            "name": "observe",
+            "name": "observe-环境",
             "type": "Capture",
             "command": false,
             "appendLink": false,
@@ -266,7 +423,7 @@
             },
             "format": {
               "enabled": true,
-              "format": "### 🧐 observe - 观察类（聚焦感官 / 外部世界 / 注意力所在）\n* #observe #环境 {{value:今天在你身边，有哪些细节引起了你的注意？可能是天气、光影变化、空气的味道、人群的状态，或是空间布置的不同？}}\n* #observe #互动 {{value:有没有一次对话或互动让你停顿了一下？是对方的语气、用词、肢体动作，还是你自己的反应？它给你什么感觉？}}\n* #observe #节奏 {{value:今天的一天是顺流而下还是被卡住了？有没有哪个瞬间你特别感受到节奏快慢的变化？是什么触发了它？}}\n"
+              "format": "* #observe #环境 {{VALUE:观察-环境：今天哪些细节引起了你的注意？（天气、声音，光影、味道、空间布局）}}\n"
             },
             "insertAfter": {
               "enabled": true,
@@ -288,12 +445,52 @@
           }
         },
         {
-          "name": "good",
+          "name": "observe-他人",
+          "type": "NestedChoice",
+          "id": "60bf59e2-97f7-46a8-a75f-0ceba52140a0",
+          "choice": {
+            "id": "b1039c12-ab45-407d-baaf-e54d4ebaf1c9",
+            "name": "observe-他人",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "",
+            "captureToActiveFile": true,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": true,
+              "format": "* #observe #他人 {{VALUE:观察-他人：今天谁（家人、孩子、同事、伴侣）做了什么具体的事？他们说了哪句话、有什么面部表情或动作？}}\n"
+            },
+            "insertAfter": {
+              "enabled": true,
+              "after": "## memos",
+              "insertAtEnd": true,
+              "considerSubsections": true,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": false,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        },
+        {
+          "name": "good-成就",
           "type": "NestedChoice",
           "id": "ee28d16d-9fa2-49ca-936d-444408972720",
           "choice": {
             "id": "b3c1fd02-9235-4ac4-9c07-37f568668522",
-            "name": "good",
+            "name": "good-成就",
             "type": "Capture",
             "command": false,
             "appendLink": false,
@@ -306,7 +503,7 @@
             },
             "format": {
               "enabled": true,
-              "format": "### 😊 good - 积极类（捕捉正向情绪 / 支持 / 成果）\n* #good #喜悦 {{value:有没有一个小片段让你不自觉笑了、轻松了、心里暖了一下？是哪句话、哪件事、哪种氛围带来的？}}\n* #good #感激 {{value:今天有没有一个人、一个决定或一个偶遇让你觉得“真好”？你是否对什么产生了感谢或珍惜的感觉？}}\n* #good #进展 {{value:有没有一个微小但实质的推进，让你觉得离目标近了一点？是解决问题了、拖延的事开始了，还是一次对话促成了什么？}}\n"
+              "format": "* #good #成就 {{VALUE:积极-成就：今天你做成了什么事？推进了哪个计划？有没有哪怕一点小突破？}}\n"
             },
             "insertAfter": {
               "enabled": true,
@@ -328,12 +525,92 @@
           }
         },
         {
-          "name": "difficult",
+          "name": "good-喜悦",
+          "type": "NestedChoice",
+          "id": "61b2a4a7-fbea-4f23-a386-5dba6d4e96d0",
+          "choice": {
+            "id": "740d603b-4f45-4686-ba9d-0764a568b3f0",
+            "name": "good-喜悦",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "",
+            "captureToActiveFile": true,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": true,
+              "format": "* #good #喜悦 {{VALUE:积极-喜悦：什么时候你感到开心、轻松或觉得有趣？和谁一起，是哪句话，哪件事，哪种氛围带来的？}}\n"
+            },
+            "insertAfter": {
+              "enabled": true,
+              "after": "## memos",
+              "insertAtEnd": true,
+              "considerSubsections": true,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": false,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        },
+        {
+          "name": "good-感恩",
+          "type": "NestedChoice",
+          "id": "65052245-52aa-4906-a9d9-075e965a7476",
+          "choice": {
+            "id": "88951f1c-c81e-43b6-a39b-5ae5cac947f0",
+            "name": "good-感恩",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "",
+            "captureToActiveFile": true,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": true,
+              "format": "* #good #感恩 {{VALUE:积极-感恩：今天你收到了哪些支持或善意（回应/帮助/理解/陪伴/美景/美食/体贴）？是否对什么人或事物心怀感激？}}\n"
+            },
+            "insertAfter": {
+              "enabled": true,
+              "after": "## memos",
+              "insertAtEnd": true,
+              "considerSubsections": true,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": false,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        },
+        {
+          "name": "difficult-挑战",
           "type": "NestedChoice",
           "id": "a013fc5d-43c2-4da1-ae7e-587e0899dde6",
           "choice": {
             "id": "5a9fc026-beaa-402d-874e-ce7bcbcf449e",
-            "name": "difficult",
+            "name": "difficult-挑战",
             "type": "Capture",
             "command": false,
             "appendLink": false,
@@ -346,7 +623,7 @@
             },
             "format": {
               "enabled": true,
-              "format": "### 😣 difficult - 困难类（识别挑战 / 阻力 / 情绪波动）\n* #difficult #阻碍 {{value:今天什么事情让你停下来、卡住了？是别人没回应？自己提不起劲？还是计划被打乱？你怎么处理的？}}\n* #difficult #情绪 {{value:你有没有一个瞬间突然情绪泛起？是哪件事、哪句话、哪个念头触发的？你试图压抑、表达，还是没管它？}}\n* #difficult #疲惫 {{value:有没有哪个时段你突然感觉“好累”？是身心俱疲、专注力耗尽，还是因为一直切换任务？你当下是怎么回应这种疲惫的？}}\n"
+              "format": "* #difficult #挑战 {{VALUE:困难-挑战：外部挑战：今天你遇到了哪些外部挑战？事情进行到哪被打断或卡住了？}}\n"
             },
             "insertAfter": {
               "enabled": true,
@@ -368,12 +645,12 @@
           }
         },
         {
-          "name": "different",
+          "name": "difficult-身体",
           "type": "NestedChoice",
-          "id": "c631e3a6-9873-4823-86bb-4eda5e97c1d8",
+          "id": "083391ea-86e0-40cf-85ca-e5fb6e3d69ad",
           "choice": {
-            "id": "cf2ba135-5a6d-4e6e-bfaa-aa44b574e34a",
-            "name": "different",
+            "id": "58552b8c-978d-451c-b3c3-58dbec2d42ed",
+            "name": "difficult-身体",
             "type": "Capture",
             "command": false,
             "appendLink": false,
@@ -386,7 +663,127 @@
             },
             "format": {
               "enabled": true,
-              "format": "### ✨ different - 变化类（觉察 / 反思 / 优化）\n* #different #觉察 {{value:有没有哪一刻你心里闪过“我怎么又来了”？比如又拖延了、又急着回应了别人、又忽略了自己的感受……}}\n* #different #反思 {{value:你之所以这样反应，是不是跟一些老习惯或深层动机有关？比如怕被拒绝、追求完美、控制感、习惯讨好？你还需要这样吗？}}\n* #different #优化 {{value:如果下次类似的情况再来，你想怎么“试着不同”？哪怕只是一点点调整，比如提前5分钟准备、换个语气表达、停一下再回应。}}\n"
+              "format": "* #difficult #身体 {{VALUE:困难-身体：身体反馈：你的身体有没有发出一些信号（疲惫/酸痛/困倦/紧绷/头晕/心悸）？是否感到不舒服或异常？你是怎么回应的？}}\n"
+            },
+            "insertAfter": {
+              "enabled": true,
+              "after": "## memos",
+              "insertAtEnd": true,
+              "considerSubsections": true,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": false,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        },
+        {
+          "name": "different-情绪",
+          "type": "NestedChoice",
+          "id": "c631e3a6-9873-4823-86bb-4eda5e97c1d8",
+          "choice": {
+            "id": "cf2ba135-5a6d-4e6e-bfaa-aa44b574e34a",
+            "name": "different-情绪",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "",
+            "captureToActiveFile": true,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": true,
+              "format": "* #difficult #情绪 {{VALUE:困难-情绪：负面情绪：你在什么时候感受到不适的情绪（自卑/焦虑/愤怒/失落/烦躁/羞愧/恐惧/紧张）？那一刻发生了什么？}}\n"
+            },
+            "insertAfter": {
+              "enabled": true,
+              "after": "## memos",
+              "insertAtEnd": true,
+              "considerSubsections": true,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": false,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        },
+        {
+          "name": "different-觉察",
+          "type": "NestedChoice",
+          "id": "8837035c-1272-4550-bed6-1aba166821a9",
+          "choice": {
+            "id": "2868e073-feba-4d2e-91ec-42e9804af4b5",
+            "name": "different-觉察",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "",
+            "captureToActiveFile": true,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": true,
+              "format": "* #different #觉察 {{VALUE:变化-觉察：我今天又出现了什么反应模式？比如有没有哪一刻你心里闪过我怎么又拖延了、又没有用心倾听、又急着回应了别人、又忽略了自己的感受……}}\n"
+            },
+            "insertAfter": {
+              "enabled": true,
+              "after": "## memos",
+              "insertAtEnd": true,
+              "considerSubsections": true,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": false,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        },
+        {
+          "name": "different-改进",
+          "type": "NestedChoice",
+          "id": "97526245-285d-49c3-b46b-fd878ce6bf4a",
+          "choice": {
+            "id": "dc8fb9ac-bcf1-4cd5-ae78-7302d99ee367",
+            "name": "different-改进",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "",
+            "captureToActiveFile": true,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": true,
+              "format": "* #different #改进 {{VALUE:变化-改进：针对今日问题（挑战，情绪，身体）制定明日可行的小步优化（时间分配，情绪管理，沟通方式，寻求外援）}}\n"
             },
             "insertAfter": {
               "enabled": true,
@@ -417,33 +814,61 @@
           "name": "Wait",
           "type": "Wait",
           "id": "aca41f87-6222-443d-9cb2-5af79a31aa8b",
-          "time": 2000
+          "time": 1000
         },
         {
           "name": "Local GPT: 1 | 日记总结",
           "type": "Obsidian",
-          "id": "7cae647d-57f5-4ffd-918d-d4e9900a330b",
+          "id": "c2ab9b14-9962-4c2e-b653-0bf7f84787f7",
           "commandId": "local-gpt:quick-access-1"
         }
       ],
       "runOnStartup": false
     },
     {
-      "name": "日记",
-      "id": "79f78ce6-5eef-4e30-9d27-c38e02c89e36",
-      "commands": [],
+      "name": "周总结-汇总",
+      "id": "3fc352eb-bf03-4d34-bae3-cc912d7ccd2e",
+      "commands": [
+        {
+          "name": "weekly_memos",
+          "type": "UserScript",
+          "id": "8a05e9bb-8abc-42f1-9cec-8fdcc6839806",
+          "path": "02Area/工具/obsidian/scripts_quickadd/weekly_memos.js",
+          "settings": {}
+        },
+        {
+          "name": "Linter: 格式化当前文件",
+          "type": "Obsidian",
+          "id": "0ef245c9-4c51-4d5f-826b-20d3e25515f0",
+          "commandId": "obsidian-linter:lint-file"
+        }
+      ],
       "runOnStartup": false
     },
     {
-      "name": "QA日记",
-      "id": "773475c3-ddf4-42dd-b5aa-13124b8919c9",
-      "commands": [],
+      "name": "批量打标",
+      "id": "6597d968-84ee-4ad7-ad7e-68606975bc0e",
+      "commands": [
+        {
+          "name": "AI批量打标",
+          "type": "UserScript",
+          "id": "a7f2501f-6dac-4473-bbee-a635f25f99f1",
+          "path": "02Area/工具/obsidian/scripts/AI批量打标.js",
+          "settings": {}
+        },
+        {
+          "name": "Git: Open history view",
+          "type": "Obsidian",
+          "id": "caf7cd12-d1c9-4a53-a063-4a25c37bc92a",
+          "commandId": "obsidian-git:open-history-view"
+        }
+      ],
       "runOnStartup": false
     }
   ],
   "inputPrompt": "multi-line",
   "devMode": false,
-  "templateFolderPath": "",
+  "templateFolderPath": "02Area/工具/obsidian/template",
   "announceUpdates": true,
   "version": "1.13.2",
   "disableOnlineFeatures": false,
@@ -453,7 +878,23 @@
     "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
     "promptTemplatesFolderPath": "02Area/技术/AI人工智能/prompts",
     "showAssistant": true,
-    "providers": []
+    "providers": [
+      {
+        "name": "DeepSeek",
+        "endpoint": "https://api.deepseek.com",
+        "apiKey": "",
+        "models": [
+          {
+            "name": "deepseek-chat",
+            "maxTokens": 8012
+          },
+          {
+            "name": "deepseek-reasoner",
+            "maxTokens": 8012
+          }
+        ]
+      }
+    ]
   },
   "migrations": {
     "migrateToMacroIDFromEmbeddedMacro": true,

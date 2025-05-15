@@ -4,7 +4,7 @@ title: Readme
 aliases: [轻松做好周总结：PDCA 循环 + Obsidian 自动化工作流]
 tags: []
 created: 2025-03-23T09:10:01
-updated: 2025-04-28T22:03:48
+updated: 2025-05-15T21:05:21
 ---
 
 # Readme

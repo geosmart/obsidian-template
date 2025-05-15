@@ -1,5 +1,6 @@
 [
   "obsidian-git",
   "obsidian-linter",
-  "colored-tags"
+  "colored-tags",
+  "dataview"
 ]

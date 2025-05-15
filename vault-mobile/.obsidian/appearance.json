@@ -3,12 +3,12 @@
   "monospaceFontFamily": "CommitMono Nerd Font Mono",
   "nativeMenus": false,
   "theme": "moonstone",
-  "cssTheme": "Things",
+  "cssTheme": "Border",
   "enabledCssSnippets": [
     "Split-Page-Callout",
     "custom"
   ],
-  "baseFontSize": 18,
+  "baseFontSize": 15,
   "interfaceFontFamily": "CommitMono Nerd Font,LXGW WenKai GB Screen R,WenQuanYi Micro Hei Mono",
   "textFontFamily": "CommitMono Nerd Font Mono,CommitMono Nerd Font,LXGW WenKai GB Screen R,WenQuanYi Micro Hei Mono",
   "baseFontSizeAction": true,

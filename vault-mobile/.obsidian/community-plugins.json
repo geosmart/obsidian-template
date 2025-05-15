@@ -6,7 +6,6 @@
   "remember-cursor-position",
   "templater-obsidian",
   "sample-plugin",
-  "quickadd",
   "various-complements",
   "obsidian-show-file-path",
   "ai-providers",
@@ -25,5 +24,8 @@
   "tasks-calendar-wrapper",
   "homepage",
   "omnisearch",
-  "obsidian-git"
+  "obsidian-git",
+  "completed-tasks",
+  "obsidian-checklist-reset",
+  "quickadd"
 ]

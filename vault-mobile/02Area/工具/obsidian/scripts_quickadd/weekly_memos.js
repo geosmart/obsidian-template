@@ -1,40 +1,4 @@
-⚠️ 文件名格式错误，请使用 'YYYY-Wxx' 格式。
-## Plan
-### 本周最重要的3件事
-1. 项目：推进完成「XX项目」设计/开发/上线
-2. 学习：每天投入1小时，整理个人知识库，极客工具输出。
-3. 习惯：每日xx前睡觉，保证xx小时睡眠，记录打卡。
-
-### 周末安排
-* 户外运动：爬山，乒乓
-* 极客工具输出
-* 亲密关系
-* 亲子游戏
-
-### GDD 总结
->- 列举具体数据支持的亮点成果
->- 分析困难事件的根本原因
->- 对比本周与上周的差异化
-
-### Task 总结
-#### 关键成果（KR）
-> - 量化的指标突破
-##### 工作成果
-
-##### 输入：阅读
-
-##### 输出：极客工具
-
-
-#### 阻塞情况
-> - 标注延期任务的关键影响因素
-> - 明确技术/资源/沟通类卡点
-> - 说明已尝试的解决方案
-> - 标注需要外部介入的任务
-
-
-```dataviewjs
-// GDD 明细生成脚本
+// GDD & Task 周报生成脚本 - QuickAdd版本
 const GDD_CONFIG = { 
   diaryPath: "Diary",   //日记目录
   gddHeader: "## memos",  // gdd所属目录
@@ -45,12 +9,14 @@ const GDD_CONFIG = {
   resetSuccessNotice: "✨ GDD周报重置完成", // 重置成功提示
   errorNotice: "文件名需符合 YYYY-WXX 格式", // 错误提示
   gddTags: {                     // 标签配置
+    '#observe': { emoji: '👍', title: 'Observe' },
     '#good': { emoji: '👍', title: 'Good' },
     '#difficult': { emoji: '💪', title: 'Difficult' },
     '#different': { emoji: '🌟', title: 'Different' }
   }
-}
-// Task 明细生成脚本
+};
+
+// Task 明细生成脚本配置
 const TASK_CONFIG = {
   diaryPath: "Diary",
   sectionHeader: "### Task 明细", // 要替换的目标段落标题
@@ -62,10 +28,11 @@ const TASK_CONFIG = {
   errorNotice: "当前文件名不符合周报格式 (YYYY-WXX)", // 错误通知文本
   subheadingLevel: "####"      // 子标题级别
 };
+
 // 重置某个部分的内容
-async function resetSection(sectionHeader, successNotice) {
+async function resetSection(sectionHeader, successNotice, app, activeFile) {
   // 获取当前文件
-  const file = app.vault.getFileByPath(dv.current().file.path);
+  const file = activeFile;
   const content = await app.vault.read(file);
   
   // 提取当前标题的级别（有多少个#）
@@ -88,7 +55,6 @@ async function resetSection(sectionHeader, successNotice) {
   
   // 寻找下一个同级别或更高级别的标题
   // 精确匹配同级别或更高级别的标题（即 #, ##, … 直到当前标题级别）
-  // 注意：此处需要确保匹配的是行首的标题，避免匹配内容中的标签或文本
   const nextHeaderRegex = new RegExp(`\\n^#{1,${headerLevel}}\\s`, 'm');
   const nextHeaderMatch = contentAfterHeader.match(nextHeaderRegex);
   
@@ -112,11 +78,11 @@ async function resetSection(sectionHeader, successNotice) {
   return true;
 }
 
-// 主处理函数
-async function generateGDD() {
+// GDD明细生成函数
+async function generateGDD(app, dv, activeFile) {
   // 获取当前周报信息
-  const currentFile = dv.current().file.name;
-  const weekMatch = currentFile.match(/(\d+)-W(\d+)/);
+  const currentFileName = activeFile.basename;
+  const weekMatch = currentFileName.match(/(\d+)-W(\d+)/);
   
   if (!weekMatch) {
     new Notice(GDD_CONFIG.errorNotice);
@@ -193,20 +159,20 @@ async function generateGDD() {
   }
 
   // 更新文档内容
-  const file = app.vault.getFileByPath(dv.current().file.path);
-  const originalContent = await app.vault.read(file);
+  const originalContent = await app.vault.read(activeFile);
   
   // 使用改进后的章节替换逻辑
-  let newContent = await replaceSection(originalContent, GDD_CONFIG.sectionHeader, mdContent);
+  let newContent = await replaceSection(originalContent, GDD_CONFIG.sectionHeader, mdContent, app, activeFile);
 
   // 写入更新
-  await app.vault.modify(file, newContent);
+  await app.vault.modify(activeFile, newContent);
   new Notice(GDD_CONFIG.successNotice, 3000);
 }
 
-async function generateTasks() {
+// Task明细生成函数
+async function generateTasks(app, dv, activeFile) {
   // 获取当前文件名并解析年份和周数
-  const currentFileName = dv.current().file.name;
+  const currentFileName = activeFile.basename;
   const weekMatch = currentFileName.match(/(\d+)-W(\d+)/);
   
   if (!weekMatch) {
@@ -271,8 +237,6 @@ async function generateTasks() {
   let markdownContent = "";
   for (const tag in tasksByTag) {
     let taskSize=tasksByTag[tag].length
-    // 标题中去掉 # 符号
-    // const cleanTag = tag.replace(/#/g, '');
     markdownContent += `${TASK_CONFIG.subheadingLevel} ${tag} · ${taskSize}项\n\n`;
     
     for (const task of tasksByTag[tag]) {
@@ -292,21 +256,20 @@ async function generateTasks() {
   }
   
   // 获取当前文件内容
-  const file = app.vault.getFileByPath(dv.current().file.path);
-  const fileContent = await app.vault.read(file);
+  const fileContent = await app.vault.read(activeFile);
 
   // 使用改进的章节替换逻辑
-  const updatedContent = await replaceSection(fileContent, TASK_CONFIG.sectionHeader, markdownContent);
+  const updatedContent = await replaceSection(fileContent, TASK_CONFIG.sectionHeader, markdownContent, app, activeFile);
   
   // 保存更新后的内容
-  await app.vault.modify(file, updatedContent);
+  await app.vault.modify(activeFile, updatedContent);
   
   // 通知用户
   new Notice(TASK_CONFIG.successNotice, 3000);
 }
 
 // 共用的章节替换逻辑函数（改进版）
-async function replaceSection(content, sectionHeader, newContent) {
+async function replaceSection(content, sectionHeader, newContent, app, activeFile) {
   // 提取标题级别
   const headerLevel = sectionHeader.match(/^(#+)/)[0].length;
   
@@ -350,103 +313,36 @@ function escapeRegExp(string) {
   return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 }
 
-// 创建 GDD 生成按钮
-const gddBtn = this.container.createEl('button', {
-  text: GDD_CONFIG.buttonText,
-  cls: 'gdd-generate-btn'
-});
-gddBtn.style.marginRight = '1em';
-gddBtn.style.marginBottom = '1em';
-gddBtn.addEventListener('click', async () => {
-  gddBtn.textContent = '生成中…';
-  gddBtn.disabled = true;
-  try {
-    await generateGDD();
-  } catch (error) {
-    console.error('生成失败:', error);
-    new Notice('❌ GDD生成失败，请查看控制台', 5000);
-  } finally {
-    gddBtn.textContent = GDD_CONFIG.buttonText;
-    gddBtn.disabled = false;
+// 导出提供给 QuickAdd 使用的函数
+module.exports = async (params) => {
+  const { app } = params;
+  const dv = app.plugins.plugins.dataview.api;
+  
+  // 获取当前活动文件
+  const activeFile = app.workspace.getActiveFile();
+  if (!activeFile) {
+    new Notice("请先打开一个文件", 3000);
+    return;
   }
-});
-
-// 创建 GDD 重置按钮
-const gddResetBtn = this.container.createEl('button', {
-  text: GDD_CONFIG.resetButtonText,
-  cls: 'gdd-reset-btn'
-});
-gddResetBtn.style.marginBottom = '1em';
-gddResetBtn.addEventListener('click', async () => {
-  gddResetBtn.textContent = '重置中…';
-  gddResetBtn.disabled = true;
+  
+  // 用户可以选择要执行的功能
+  const choice = await params.quickAddApi.suggester(
+    ["📝 生成本周GDD明细", "🗑️ 删除本周GDD明细", "✅ 生成本周tasks执行明细", "🗑️ 删除本周tasks执行明细"],
+    ["gdd", "gddReset", "tasks", "tasksReset"]
+  );
+  
   try {
-    await resetSection(GDD_CONFIG.sectionHeader, GDD_CONFIG.resetSuccessNotice);
+    if (choice === "gdd") {
+      await generateGDD(app, dv, activeFile);
+    } else if (choice === "gddReset") {
+      await resetSection(GDD_CONFIG.sectionHeader, GDD_CONFIG.resetSuccessNotice, app, activeFile);
+    } else if (choice === "tasks") {
+      await generateTasks(app, dv, activeFile);
+    } else if (choice === "tasksReset") {
+      await resetSection(TASK_CONFIG.sectionHeader, TASK_CONFIG.resetSuccessNotice, app, activeFile);
+    }
   } catch (error) {
-    console.error('重置失败:', error);
-    new Notice('❌ GDD重置失败，请查看控制台', 5000);
-  } finally {
-    gddResetBtn.textContent = GDD_CONFIG.resetButtonText;
-    gddResetBtn.disabled = false;
+    console.error('操作失败:', error);
+    new Notice(`❌ 执行失败，请查看控制台`, 5000);
   }
-});
-
-// 初始渲染 GDD 占位提示
-dv.el('div', '点击按钮生成本周GDD明细', {
-  cls: 'gdd-placeholder',
-  attr: { style: 'color: #666; margin-bottom: 1em;' }
-});
-
-// 创建 Task 生成按钮
-const taskBtn = this.container.createEl('button', {
-  text: TASK_CONFIG.buttonText,
-  cls: 'task-generate-btn'
-});
-taskBtn.style.marginRight = '1em';
-taskBtn.style.marginBottom = '1em';
-taskBtn.addEventListener('click', async () => {
-  taskBtn.textContent = '生成中…';
-  taskBtn.disabled = true;
-  try {
-    await generateTasks();
-  } catch (error) {
-    console.error('生成失败:', error);
-    new Notice('❌ Task生成失败，请查看控制台', 5000);
-  } finally {
-    taskBtn.textContent = TASK_CONFIG.buttonText;
-    taskBtn.disabled = false;
-  }
-});
-
-// 创建 Task 重置按钮
-const taskResetBtn = this.container.createEl('button', {
-  text: TASK_CONFIG.resetButtonText,
-  cls: 'task-reset-btn'
-});
-taskResetBtn.style.marginBottom = '1em';
-taskResetBtn.addEventListener('click', async () => {
-  taskResetBtn.textContent = '重置中…';
-  taskResetBtn.disabled = true;
-  try {
-    await resetSection(TASK_CONFIG.sectionHeader, TASK_CONFIG.resetSuccessNotice);
-  } catch (error) {
-    console.error('重置失败:', error);
-    new Notice('❌ Task重置失败，请查看控制台', 5000);
-  } finally {
-    taskResetBtn.textContent = TASK_CONFIG.resetButtonText;
-    taskResetBtn.disabled = false;
-  }
-});
-
-// 初始渲染 Task 占位提示
-dv.el('div', '点击按钮生成本周Task执行明细', {
-  cls: 'task-placeholder',
-  attr: { style: 'color: #666; margin-bottom: 1em;' }
-});
-```
-## Memos
-### GDD 明细
-> 自动汇总的数据：good,difficult,different
-## Task
-### Task 明细
-> 自动汇总的数据：按标签分组的task执行情况
+};
