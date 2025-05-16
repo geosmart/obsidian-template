@@ -4,7 +4,7 @@ title: Readme
 aliases: [轻松做好周总结：PDCA 循环 + Obsidian 自动化工作流]
 tags: []
 created: 2025-03-23T09:10:01
-updated: 2025-05-16T09:03:27
+updated: 2025-05-16T09:05:29
 ---
 
 # Readme
@@ -81,4 +81,4 @@ updated: 2025-05-16T09:03:27
 | completed-tasks          | 自动将完成的待办移动到列表底部                  |
 | obsidian-checklist-reset | 任务清单全选打钩 / 全不选                   |
 
-![[Readme-index-xtool-csdn-qr-20250406-20250516.png|760x234]]
+![极客工具](files/xtool-logo.png)
