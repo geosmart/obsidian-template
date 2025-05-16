@@ -4,33 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "e6f6d9b299751b3c",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Home"
-            }
-          },
-          {
-            "id": "126a5a9e4effe16b",
+            "id": "7a8ac49124f081d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2025/2025-05-15.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -45,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-05-15"
+              "title": "Readme"
             }
           }
         ]
@@ -123,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 234.5
   },
   "right": {
     "id": "a6608b99877d51a5",
@@ -211,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2025/2025-05-15.md",
+                "file": "Readme.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-05-15 的大纲"
+              "title": "Readme 的大纲"
             }
           },
           {
@@ -257,7 +240,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 485.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -279,10 +263,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "7a8ac49124f081d3",
   "lastOpenFiles": [
+    "02Area/教程/Obsidian GTD演示教程.md",
+    "Readme.md",
+    "02Area/教程",
+    "Diary/Inbox.md",
+    "Diary/2025/Monthly/2025-05.md",
+    "Diary/2025/Weekly/2025-W20.md",
     "Diary/2025/2025-05-15.md",
     "Diary/2025/2025-05-14.md",
+    "Diary/2025/2025-05-16.md",
+    "03Resource/checklist/🏕️ 露营物料清单.md",
+    "Home.md",
     "Diary/演示内容：周报汇总日记待办.md",
     "Diary/2025/📦 整理夏季出行行李清单2.md",
     "02Area/工具/obsidian/template/diary.md",
@@ -298,17 +291,8 @@
     "02Area/工具/obsidian/template/weekly-gdd-dataview.md",
     "02Area/工具/obsidian/template/穴位.md",
     "02Area/工具/obsidian/template/月总结.md",
-    "Diary/2025/Weekly/2025-W20.md",
-    "03Resource/checklist/🏕️ 露营物料清单.md",
-    "Diary/Inbox.md",
-    "02Area/工具/obsidian/template/weekly.md",
-    "02Area/02Area.md",
     "02Area/工具/obsidian/scripts_quickadd/weekly_memos.js",
     "02Area/工具/obsidian/scripts_quickadd",
-    "未命名.md",
-    "Home.md",
-    "Inbox.md",
-    "Readme.md",
     "03Resource/checklist",
     "01Project/Blog/content/assets/零门槛实现 Obsidian 多端实时同步：非开发人士也能轻松上手",
     "01Project/Blog/content/assets/零门槛实现 Obsidian 多端实时同步：非开发人士也能轻松上手/零门槛实现 Obsidian 多端实时同步：非开发人士也能轻松上手-image-20250429.png",
@@ -318,7 +302,6 @@
     "01Project/Work/知识内容中台/数据采集/稽查案例",
     "02Area/工具/obsidian/scripts_quickadd/sample.ts",
     "02Area/工具/obsidian/scripts_quickadd/weekly_memos.ts",
-    "02Area/工具/obsidian/scripts/get_weather.js",
     "01Project/Blog/content/assets/MCP协议解读：MCP-Server通信原理（SSE）/MCP协议解读：MCP-Server通信原理（SSE）-mcp-sse-uml-20250425.png",
     "01Project/Blog/content/assets/MCP协议解读：MCP-Server通信原理（SSE）/MCP协议解读：MCP-Server通信原理（SSE）-Editor _ Mermaid Chart-2025-04-25-130309-20250425.webp",
     "01Project/Blog/content/assets/MCP协议解读：MCP-Server通信原理（SSE）/mcp-sse-flow.jpg.webp",

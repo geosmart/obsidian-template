@@ -1,0 +1,27 @@
+---
+draft: true
+title: Obsidian GTD演示教程
+aliases: [Obsidian GTD 演示教程]
+tags: []
+created: 2025-05-15T20:35:42
+updated: 2025-05-16T07:26:28
+---
+
+# Obsidian GTD 演示教程
+## 🔧 我使用的 Obsidian 插件 & 自动化脚本
+
+| Obsidian 插件 / 脚本         | 用法说明               |
+| ------------------------ | ------------------ |
+| tasks                    | 待办核心插件，支持多状态、多时间字段 |
+| completed-tasks          | 自动将完成的待办移动到列表底部    |
+| templater 自定义脚本          | 自动把昨天未完成的任务迁移到今天   |
+| task calendar wrapper    | 日历视图展示未来任务         |
+| quickadd + 自定义脚本         | 汇总本周待办到周总结笔记       |
+| obsidian-checklist-reset | 全选打钩 / 全不选         |
+
+## 演示内容
+* [x] 自动将完成的待办移动到列表底部：completed-tasks
+* [x] 昨天未完成待办移动到今天
+* [x] 待办周汇总：汇总后，日记可以删除
+* [x] 任务清单 checklist
+* [x] 日历视图：task calendar wrapper: 按时间线安排 TODO

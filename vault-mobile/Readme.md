@@ -4,7 +4,7 @@ title: Readme
 aliases: [轻松做好周总结：PDCA 循环 + Obsidian 自动化工作流]
 tags: []
 created: 2025-03-23T09:10:01
-updated: 2025-05-15T21:05:21
+updated: 2025-05-16T08:46:26
 ---
 
 # Readme
@@ -69,9 +69,11 @@ updated: 2025-05-15T21:05:21
 
 **任务与日历**
 
-| 插件名                    | 描述                               |
-| ---------------------- | -------------------------------- |
-| obsidian-tasks-plugin  | 在笔记中创建和跟踪任务，支持重复设置和状态管理          |
-| periodic-notes         | 自动生成每日/周/月笔记，支持周期性日志记录           |
-| tasksCalendar          | 以日历视图展示 Obsidian 任务              |
-| tasks-calendar-wrapper | 将任务日历与其他日历插件（如 Tasks Calendar）集成 |
+| 插件名                      | 描述                               |
+| ------------------------ | -------------------------------- |
+| obsidian-tasks-plugin    | 在笔记中创建和跟踪任务，支持重复设置和状态管理          |
+| periodic-notes           | 自动生成每日/周/月笔记，支持周期性日志记录           |
+| tasksCalendar            | 以日历视图展示 Obsidian 任务              |
+| tasks-calendar-wrapper   | 将任务日历与其他日历插件（如 Tasks Calendar）集成 |
+| completed-tasks          | 自动将完成的待办移动到列表底部                  |
+| obsidian-checklist-reset | 任务清单全选打钩 / 全不选                   |

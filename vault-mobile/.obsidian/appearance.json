@@ -3,7 +3,7 @@
   "monospaceFontFamily": "CommitMono Nerd Font Mono",
   "nativeMenus": false,
   "theme": "moonstone",
-  "cssTheme": "Border",
+  "cssTheme": "Things",
   "enabledCssSnippets": [
     "Split-Page-Callout",
     "custom"
