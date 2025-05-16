@@ -4,10 +4,13 @@ title: Readme
 aliases: [轻松做好周总结：PDCA 循环 + Obsidian 自动化工作流]
 tags: []
 created: 2025-03-23T09:10:01
-updated: 2025-05-16T08:46:26
+updated: 2025-05-16T09:03:27
 ---
 
 # Readme
+
+[极客工具-构建个人知识库-系列](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4Nzg2NTY2Mw==&action=getalbum&album_id=3880988817024614400&subscene=159&subscene=&scenenote=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVyDepofPltPfEFn7nzXHKw%3Fpoc_token%3DHDqOJmijINYRJRbY358yBW_HxONeInwbK3sfqUtn&nolastread=1#wechat_redirect)
+
 ## Obsidian 模板
 模板围绕以 PARA 方法论
 
@@ -77,3 +80,5 @@ updated: 2025-05-16T08:46:26
 | tasks-calendar-wrapper   | 将任务日历与其他日历插件（如 Tasks Calendar）集成 |
 | completed-tasks          | 自动将完成的待办移动到列表底部                  |
 | obsidian-checklist-reset | 任务清单全选打钩 / 全不选                   |
+
+![[Readme-index-xtool-csdn-qr-20250406-20250516.png|760x234]]

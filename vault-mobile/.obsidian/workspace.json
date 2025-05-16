@@ -240,8 +240,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 485.5,
-    "collapsed": true
+    "width": 485.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,6 +264,8 @@
   },
   "active": "7a8ac49124f081d3",
   "lastOpenFiles": [
+    "files/Readme-index-xtool-csdn-qr-20250406-20250516.png",
+    "files",
     "02Area/教程/Obsidian GTD演示教程.md",
     "Readme.md",
     "02Area/教程",
@@ -301,7 +302,6 @@
     "01Project/Work/智能体中心/知识库MCP服务",
     "01Project/Work/知识内容中台/数据采集/稽查案例",
     "02Area/工具/obsidian/scripts_quickadd/sample.ts",
-    "02Area/工具/obsidian/scripts_quickadd/weekly_memos.ts",
     "01Project/Blog/content/assets/MCP协议解读：MCP-Server通信原理（SSE）/MCP协议解读：MCP-Server通信原理（SSE）-mcp-sse-uml-20250425.png",
     "01Project/Blog/content/assets/MCP协议解读：MCP-Server通信原理（SSE）/MCP协议解读：MCP-Server通信原理（SSE）-Editor _ Mermaid Chart-2025-04-25-130309-20250425.webp",
     "01Project/Blog/content/assets/MCP协议解读：MCP-Server通信原理（SSE）/mcp-sse-flow.jpg.webp",
