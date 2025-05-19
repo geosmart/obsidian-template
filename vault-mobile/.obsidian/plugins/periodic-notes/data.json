@@ -5,24 +5,24 @@
   "daily": {
     "format": "",
     "folder": "Diary/2025",
-    "template": "02Area/工具/obsidian/template/diary.md",
+    "template": "03Resource/工具/obsidian/template/diary.md",
     "enabled": true
   },
   "weekly": {
     "format": "",
-    "template": "02Area/工具/obsidian/template/weekly.md",
+    "template": "03Resource/工具/obsidian/template/weekly.md",
     "folder": "Diary/2025/Weekly",
     "enabled": true
   },
   "monthly": {
     "format": "",
-    "template": "02Area/工具/obsidian/template/monthly.md",
+    "template": "03Resource/工具/obsidian/template/monthly.md",
     "folder": "Diary/2025/Monthly",
     "enabled": true
   },
   "quarterly": {
     "format": "",
-    "template": "02Area/工具/obsidian/template/quarterly.md",
+    "template": "03Resource/工具/obsidian/template/quarterly.md",
     "folder": "Diary/2025/Quarterly",
     "enabled": true
   },

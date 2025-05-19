@@ -1,10 +1,16 @@
 ---
-draft: true
-title: Obsidian GTD演示教程
+category: 工具技术
+title: Obsidian GTD 演示教程
 aliases: [Obsidian GTD 演示教程]
-tags: []
+description: |-
+  介绍如何利用 Obsidian 插件和脚本搭建 GTD 任务管理系统。
+  - 待办核心插件，支持多状态、多时间字段
+  - 自动将完成的待办移动到列表底部
+  - 日历视图展示未来任务
+tags: [Obsidian, 方法论, 知识管理]
 created: 2025-05-15T20:35:42
-updated: 2025-05-16T07:26:28
+updated: 2025-05-18T10:23:51
+draft: true
 ---
 
 # Obsidian GTD 演示教程

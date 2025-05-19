@@ -8,6 +8,48 @@
       "macroId": "159d306c-cb29-4dfb-89cc-817242c4be59"
     },
     {
+      "id": "4c2e0082-c24b-487e-aa38-ab7515a12a68",
+      "name": "AI批量打标",
+      "type": "Macro",
+      "command": true,
+      "macroId": "6597d968-84ee-4ad7-ad7e-68606975bc0e"
+    },
+    {
+      "id": "b9c9485e-25ef-4a10-b1a5-9e2fa77e73b5",
+      "name": "观察记录",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "",
+      "captureToActiveFile": true,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "* #observe #{{VALUE:环境,他人}} {{VALUE:观察到的外部环境|他人的言语动作}}"
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "## memos",
+        "insertAtEnd": true,
+        "considerSubsections": true,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
       "id": "9c8e821c-09fa-465f-8f1e-64edff5e6d96",
       "name": "GDD",
       "type": "Multi",
@@ -24,7 +66,7 @@
           "createFileIfItDoesntExist": {
             "enabled": true,
             "createWithTemplate": true,
-            "template": "02Area/工具/obsidian/template/diary.md"
+            "template": "03Resource/工具/obsidian/template/diary.md"
           },
           "format": {
             "enabled": true,
@@ -59,7 +101,7 @@
           "createFileIfItDoesntExist": {
             "enabled": true,
             "createWithTemplate": true,
-            "template": "02Area/工具/obsidian/template/diary.md"
+            "template": "03Resource/工具/obsidian/template/diary.md"
           },
           "format": {
             "enabled": true,
@@ -94,7 +136,7 @@
           "createFileIfItDoesntExist": {
             "enabled": true,
             "createWithTemplate": true,
-            "template": "02Area/工具/obsidian/template/diary.md"
+            "template": "03Resource/工具/obsidian/template/diary.md"
           },
           "format": {
             "enabled": true,
@@ -119,7 +161,7 @@
           "openFileInMode": "default"
         }
       ],
-      "collapsed": true
+      "collapsed": false
     },
     {
       "id": "e8e00b90-c594-4902-899a-72c938b8a95f",
@@ -136,18 +178,18 @@
       "macroId": "c4e57f91-aa4e-4e72-8b42-8b63f1c0f2a4"
     },
     {
+      "id": "9ff9f8a5-7043-4d71-86a8-0771bcbd3567",
+      "name": "Mandala九宫格思考",
+      "type": "Macro",
+      "command": false,
+      "macroId": "46dc4d97-1d19-49ae-8a4b-32efb36304e1"
+    },
+    {
       "id": "c38c450b-6935-4c59-8b15-b154a3357950",
       "name": "周总结-汇总",
       "type": "Macro",
       "command": true,
       "macroId": "3fc352eb-bf03-4d34-bae3-cc912d7ccd2e"
-    },
-    {
-      "id": "4c2e0082-c24b-487e-aa38-ab7515a12a68",
-      "name": "AI批量打标",
-      "type": "Macro",
-      "command": true,
-      "macroId": "6597d968-84ee-4ad7-ad7e-68606975bc0e"
     }
   ],
   "macros": [
@@ -805,10 +847,10 @@
           }
         },
         {
-          "name": "Templater: Insert 02Area/工具/obsidian/template/set_cursor_position.md",
+          "name": "Templater: Insert 03Resource/工具/obsidian/template/set_cursor_position.md",
           "type": "Obsidian",
           "id": "aee78f60-e3fb-487c-90ff-0f46c26f8df6",
-          "commandId": "templater-obsidian:02Area/工具/obsidian/template/set_cursor_position.md"
+          "commandId": "templater-obsidian:03Resource/工具/obsidian/template/set_cursor_position.md"
         },
         {
           "name": "Wait",
@@ -832,8 +874,8 @@
         {
           "name": "weekly_memos",
           "type": "UserScript",
-          "id": "8a05e9bb-8abc-42f1-9cec-8fdcc6839806",
-          "path": "02Area/工具/obsidian/scripts_quickadd/weekly_memos.js",
+          "id": "46f20792-9d86-4c3f-8fba-50750573230f",
+          "path": "03Resource/工具/obsidian/scripts_quickadd/weekly_memos.js",
           "settings": {}
         },
         {
@@ -853,7 +895,7 @@
           "name": "AI批量打标",
           "type": "UserScript",
           "id": "a7f2501f-6dac-4473-bbee-a635f25f99f1",
-          "path": "02Area/工具/obsidian/scripts/AI批量打标.js",
+          "path": "03Resource/工具/obsidian/scripts/AI批量打标.js",
           "settings": {}
         },
         {
@@ -868,7 +910,7 @@
   ],
   "inputPrompt": "multi-line",
   "devMode": false,
-  "templateFolderPath": "02Area/工具/obsidian/template",
+  "templateFolderPath": "03Resource/工具/obsidian/template",
   "announceUpdates": true,
   "version": "1.13.2",
   "disableOnlineFeatures": false,
@@ -882,7 +924,7 @@
       {
         "name": "DeepSeek",
         "endpoint": "https://api.deepseek.com",
-        "apiKey": "",
+        "apiKey": "sk-3bcfd904d8c74937b2fa4c11b773826a",
         "models": [
           {
             "name": "deepseek-chat",

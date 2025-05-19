@@ -22,7 +22,7 @@
     },
     "insert-yaml-attributes": {
       "enabled": true,
-      "text-to-insert": "draft: true\ntags: \n"
+      "text-to-insert": "tags: "
     },
     "move-tags-to-yaml": {
       "enabled": false,
@@ -35,7 +35,7 @@
     },
     "yaml-key-sort": {
       "enabled": true,
-      "yaml-key-priority-sort-order": "aliases\ntags\ncreated\nupdated",
+      "yaml-key-priority-sort-order": "category\ntitle\naliases\ndescription\nsummary\ntags\nsource\nauthor\ncreated\nupdated\ndraft",
       "priority-keys-at-start-of-yaml": false,
       "yaml-sort-order-for-other-keys": "Ascending Alphabetical"
     },
@@ -54,7 +54,7 @@
     "yaml-title": {
       "enabled": true,
       "title-key": "title",
-      "mode": "filename"
+      "mode": "first-h1"
     },
     "yaml-title-alias": {
       "enabled": true,
@@ -254,8 +254,8 @@
     "dedupe-yaml-array-values": {
       "enabled": true,
       "dedupe-alias-key": true,
-      "dedupe-tag-key": true,
-      "dedupe-array-keys": true,
+      "dedupe-tag-key": false,
+      "dedupe-array-keys": false,
       "ignore-keys": ""
     },
     "sort-yaml-array-values": {
@@ -278,13 +278,21 @@
   "settingsConvertedToConfigKeyValues": true,
   "foldersToIgnore": [
     "files",
-    "02Area/工具/obsidian/template",
+    "03Resource/工具/obsidian/template",
     "01Project/Blog/content/template",
     "Chats",
     "02Area/技术/AI人工智能/prompts",
+    "Diary/2025/Weekly",
+    "Diary/2024/Weekly",
     ""
   ],
-  "filesToIgnore": [],
+  "filesToIgnore": [
+    {
+      "label": "Inbox",
+      "match": "Diary/Inbox",
+      "flags": "i"
+    }
+  ],
   "linterLocale": "zh-cn",
   "logLevel": "ERROR",
   "lintCommands": [],

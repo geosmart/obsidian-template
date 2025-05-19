@@ -1,10 +1,16 @@
 ---
-draft: true
-title: SWOT分析
+category: 知识管理
+title: SWOT 分析 思维模型
 aliases: [SWOT 分析 思维模型]
-tags: []
+description: |-
+  SWOT分析是通过评估内外部因素制定战略的经典工具。
+  - 通过分析内部优势 (Strengths)、劣势 (Weaknesses) 和外部机会 (Opportunities)、威胁 (Threats) 的战略规划工具
+  - 全面评估组织竞争力
+  - 适用于企业战略制定
+tags: [商业分析, 思维模型, 战略分析]
 created: 2025-03-20T09:06:40
-updated: 2025-04-28T11:59:48
+updated: 2025-05-17T11:40:48
+draft: true
 ---
 
 # SWOT 分析 [[思维模型]]

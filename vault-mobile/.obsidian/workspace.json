@@ -4,16 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "e6f6d9b299751b3c",
+        "id": "c597052640426125",
         "type": "tabs",
         "children": [
           {
-            "id": "7a8ac49124f081d3",
+            "id": "30d54119bc0d5d82",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          },
+          {
+            "id": "0f81423f81362f9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "02Area/思维模型/5W1H模型.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Readme"
+              "title": "5W1H模型"
             }
           }
         ]
@@ -64,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#task",
+                "query": "tag:思维模型",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +132,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 412.5
   },
   "right": {
     "id": "a6608b99877d51a5",
@@ -235,6 +261,16 @@
               "icon": "links-going-out",
               "title": "Home 的出链列表"
             }
+          },
+          {
+            "id": "f689610dba371f61",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
         ]
       }
@@ -262,13 +298,28 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7a8ac49124f081d3",
+  "active": "30d54119bc0d5d82",
   "lastOpenFiles": [
+    "02Area/思维模型/5W1H模型.md",
+    "Home.md",
+    "02Area/思维模型/MECE原则.md",
+    "02Area/思维模型/PDCA循环.md",
+    "02Area/思维模型/SWOT分析.md",
+    "02Area/思维模型/二八法则.md",
+    "02Area/思维模型/六顶思考帽.md",
+    "02Area/思维模型/思维导图.md",
+    "02Area/思维模型/思维模型.md",
+    "02Area/思维模型/第一性原理.md",
+    "02Area/思维模型/逆向思维.md",
+    "02Area/思维模型/金字塔原理.md",
+    "02Area/教程/Obsidian GTD演示教程.md",
+    "03Resource/checklist/🏕️ 露营物料清单.md",
+    "02Area/02Area.md",
+    "03Resource/未归档",
+    "Readme.md",
     "files/xtool-logo.png",
     "files/Readme-index-xtool-csdn-qr-20250406-20250516.png",
     "files",
-    "02Area/教程/Obsidian GTD演示教程.md",
-    "Readme.md",
     "02Area/教程",
     "Diary/Inbox.md",
     "Diary/2025/Monthly/2025-05.md",
@@ -276,25 +327,12 @@
     "Diary/2025/2025-05-15.md",
     "Diary/2025/2025-05-14.md",
     "Diary/2025/2025-05-16.md",
-    "03Resource/checklist/🏕️ 露营物料清单.md",
-    "Home.md",
     "Diary/演示内容：周报汇总日记待办.md",
     "Diary/2025/📦 整理夏季出行行李清单2.md",
-    "02Area/工具/obsidian/template/diary.md",
-    "02Area/工具/obsidian/template/meeting.md",
-    "02Area/工具/obsidian/template/habitat.md",
-    "02Area/工具/obsidian/template/quarterly.md",
-    "02Area/工具/obsidian/template/memos-api.md",
-    "02Area/工具/obsidian/template/reading.md",
-    "02Area/工具/obsidian/template/yesterday-tasks-undo.md",
-    "02Area/工具/obsidian/template/set_cursor_position.md",
-    "02Area/工具/obsidian/template/weekly-gdd-view.md",
-    "02Area/工具/obsidian/template/weekly-gdd-template.md",
-    "02Area/工具/obsidian/template/weekly-gdd-dataview.md",
-    "02Area/工具/obsidian/template/穴位.md",
-    "02Area/工具/obsidian/template/月总结.md",
-    "02Area/工具/obsidian/scripts_quickadd/weekly_memos.js",
-    "02Area/工具/obsidian/scripts_quickadd",
+    "03Resource/工具/obsidian/template/diary.md",
+    "03Resource/工具/obsidian/template/meeting.md",
+    "03Resource/工具/obsidian/scripts_quickadd/weekly_memos.js",
+    "03Resource/工具/obsidian/scripts_quickadd",
     "03Resource/checklist",
     "01Project/Blog/content/assets/零门槛实现 Obsidian 多端实时同步：非开发人士也能轻松上手",
     "01Project/Blog/content/assets/零门槛实现 Obsidian 多端实时同步：非开发人士也能轻松上手/零门槛实现 Obsidian 多端实时同步：非开发人士也能轻松上手-image-20250429.png",
@@ -302,14 +340,12 @@
     "01Project/Blog/content/assets/MCP协议解读：MCP-Server通信原理（SSE）/MCP协议解读：MCP-Server通信原理（SSE）-image-20250426.png",
     "01Project/Work/智能体中心/知识库MCP服务",
     "01Project/Work/知识内容中台/数据采集/稽查案例",
-    "02Area/工具/obsidian/scripts_quickadd/sample.ts",
     "01Project/Blog/content/assets/MCP协议解读：MCP-Server通信原理（SSE）/MCP协议解读：MCP-Server通信原理（SSE）-mcp-sse-uml-20250425.png",
     "01Project/Blog/content/assets/MCP协议解读：MCP-Server通信原理（SSE）/MCP协议解读：MCP-Server通信原理（SSE）-Editor _ Mermaid Chart-2025-04-25-130309-20250425.webp",
     "01Project/Blog/content/assets/MCP协议解读：MCP-Server通信原理（SSE）/mcp-sse-flow.jpg.webp",
     "01Project/Blog/content/assets/个人知识库构建 - 剪藏网页内图片一键下载/个人知识库构建 - 剪藏网页内图片一键下载-2025-04-25-09-41-56-20250425.webp",
     "01Project/Blog/content/assets/个人知识库构建 - 剪藏网页内图片一键下载/个人知识库构建 - 实现剪藏文章内图片一键批量下载-image-20250425-1.webp",
     "01Project/Blog/content/assets/个人知识库构建 - 剪藏网页内图片一键下载/个人知识库构建 - 实现剪藏文章内图片一键批量下载-image-20250425.webp",
-    "01Project/Blog/content/assets/个人知识库构建 - 剪藏网页内图片一键下载/知识采集：剪藏文章的图片一键下载到本地-20250424220516.jpg",
     "Diary/2025/未命名.canvas",
     "01Project/税友/知识库/AI搜税/系统设计/知识库-搜索词纠错流程.canvas",
     "01Project/税友/机器学习平台/产品规划/算法平台.canvas",
