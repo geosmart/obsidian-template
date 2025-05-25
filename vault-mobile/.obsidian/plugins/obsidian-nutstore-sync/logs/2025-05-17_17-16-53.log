@@ -1,0 +1,963 @@
+{"date":"2025-05-17T09:17:12.853Z","args":[{"status":404,"headers":{"cache-control":"no-cache","content-length":"231","content-type":"text/xml; charset=UTF-8","date":"Sat, 17 May 2025 09:17:12 GMT","pragma":"no-cache","server":"nginx"},"arrayBuffer":{},"json":"Unexpected token '<', \"<?xml vers\"... is not valid JSON","text":"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><d:error xmlns:d=\"DAV:\" xmlns:s=\"http://ns.jianguoyun.com\"><s:exception>ObjectNotFound</s:exception><s:message>The resource of this location does not exist</s:message></d:error>"}],"type":"error","level":0,"tag":""}
+
+{"date":"2025-05-17T09:17:13.044Z","args":[{"status":404,"headers":{"cache-control":"no-cache","content-length":"231","content-type":"text/xml; charset=UTF-8","date":"Sat, 17 May 2025 09:17:12 GMT","pragma":"no-cache","server":"nginx"},"arrayBuffer":{},"json":"Unexpected token '<', \"<?xml vers\"... is not valid JSON","text":"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><d:error xmlns:d=\"DAV:\" xmlns:s=\"http://ns.jianguoyun.com\"><s:exception>ObjectNotFound</s:exception><s:message>The resource of this location does not exist</s:message></d:error>"}],"type":"error","level":0,"tag":""}
+
+{"date":"2025-05-17T09:17:13.685Z","args":["local Stats",[{"path":".gitignore","size":407,"isDir":false},{"path":"2025-05-09.md","size":1828,"isDir":false},{"path":"2025-05-11.md","size":1826,"isDir":false},{"path":"2025-05-12.md","size":1828,"isDir":false},{"path":"2025-05-14.md","size":1828,"isDir":false},{"path":"2025-05-15.md","size":1828,"isDir":false},{"path":"2025-05-16.md","size":1828,"isDir":false},{"path":"2025-05-17.md","size":1849,"isDir":false},{"path":"Inbox.md","size":150,"isDir":false},{"path":"Obsidian AI.md","size":7385,"isDir":false},{"path":"待办.md","size":4978,"isDir":false},{"path":"知识体系的开始.md","size":682,"isDir":false},{"path":"知识整理.md","size":5235,"isDir":false},{"path":".sync","size":4096,"isDir":true},{"path":"02Area","size":4096,"isDir":true},{"path":"script","size":4096,"isDir":true},{"path":"template","size":4096,"isDir":true},{"path":"未归档","size":4096,"isDir":true},{"path":".obsidian/bookmarks.json","size":1221,"isDir":false},{"path":".sync/ID","size":28,"isDir":false},{"path":".sync/IgnoreList","size":761,"isDir":false},{"path":".sync/StreamsList","size":275,"isDir":false},{"path":".sync/root_acl_entry","size":0,"isDir":false},{"path":".sync/Archive","size":4096,"isDir":true},{"path":"02Area/工具","size":4096,"isDir":true},{"path":"script/get_date.js","size":948,"isDir":false},{"path":"script/get_poem.js","size":707,"isDir":false},{"path":"script/get_sentence.js","size":1016,"isDir":false},{"path":"script/get_today_history.js","size":565,"isDir":false},{"path":"script/get_weather.js","size":635,"isDir":false},{"path":"script/image-converter 导出时 -pandoc 如何不显示图片的 alt.md","size":1052,"isDir":false},{"path":"script/memos.js","size":1742,"isDir":false},{"path":"script/no-image-alt.lua","size":118,"isDir":false},{"path":"script/obsidian日记方案.md","size":899,"isDir":false},{"path":"script/pull.sh","size":257,"isDir":false},{"path":"script/push.sh","size":202,"isDir":false},{"path":"script/quickadd_open.js","size":948,"isDir":false},{"path":"template/SearchEngineBook.md","size":94,"isDir":false},{"path":"template/calendar.md","size":235,"isDir":false},{"path":"template/diary.md","size":1849,"isDir":false},{"path":"template/habitat.md","size":83,"isDir":false},{"path":"template/meeting.md","size":250,"isDir":false},{"path":"template/memos-api.md","size":596,"isDir":false},{"path":"template/monthly.md","size":19833,"isDir":false},{"path":"template/quarterly.md","size":178,"isDir":false},{"path":"template/reading.md","size":130,"isDir":false},{"path":"template/select_section.md","size":1235,"isDir":false},{"path":"template/set_cursor_position.md","size":1239,"isDir":false},{"path":"template/tasks.md","size":145,"isDir":false},{"path":"template/templify-四象限模板.md","size":150,"isDir":false},{"path":"template/weekly-gdd-dataview.md","size":2162,"isDir":false},{"path":"template/weekly-gdd-template.md","size":3564,"isDir":false},{"path":"template/weekly.md","size":15592,"isDir":false},{"path":"template/yesterday-tasks-undo.md","size":3142,"isDir":false},{"path":"template/月总结.md","size":335,"isDir":false},{"path":"template/穴位.md","size":95,"isDir":false},{"path":"未归档/AI Agent（智能体）世界的“USB”与“Email”！MCP与ANP如何重塑智能体互联网？.md","size":8017,"isDir":false},{"path":"未归档/DeepseekV3生成公众号封面.md","size":6290,"isDir":false},{"path":"未归档/Fold 'N Fly » Paper Airplane Folding Instructions.md","size":13059,"isDir":false},{"path":"未归档/Markor和Obsidian的对比.md","size":9997,"isDir":false},{"path":"未归档/Obsidian 通过 Git 实现全平台自动同步.md","size":10229,"isDir":false},{"path":"未归档/Resilio sync同步Obsidian笔记 - 天一生水.md","size":9166,"isDir":false},{"path":"未归档/一套提示词帮你实现小红书、公众号封面自由，Deepseek V3也能用！.md","size":38614,"isDir":false},{"path":"未归档/公众号双封面设置.md","size":3976,"isDir":false},{"path":"未归档/可能是目前最好的 AI 生成 PPT 方案.md","size":9395,"isDir":false},{"path":"未归档/思维力.md","size":1306,"isDir":false},{"path":"未归档/我的笔记流，基于dailynote和双链的无压记录.md","size":9815,"isDir":false},{"path":"未归档/知识管理  如何在 Obsidian 笔记中嵌入可编辑的内容块.md","size":7366,"isDir":false},{"path":"未归档/assets","size":4096,"isDir":true},{"path":"02Area/工具/obsidian","size":4096,"isDir":true},{"path":"未归档/assets/DeepseekV3生成公众号封面","size":4096,"isDir":true},{"path":"未归档/assets/公众号双封面设置","size":4096,"isDir":true},{"path":"未归档/assets/思维力","size":4096,"isDir":true},{"path":"02Area/工具/obsidian/scripts","size":4096,"isDir":true},{"path":"02Area/工具/obsidian/template","size":4096,"isDir":true},{"path":"未归档/assets/DeepseekV3生成公众号封面/0570b2bf3a1c5c52402744ddec50ee6d_MD5.webp","size":68834,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/15dda55152418a7830f1069e02cff8ed_MD5.webp","size":55172,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/2240c21b185a768edbb226c6d9748a15_MD5.webp","size":20320,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/292737fb53e5c7d2bf9425c1f4ae0a39_MD5.webp","size":38720,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/3f39914ed6799e26201af2b6d71d65ea_MD5.webp","size":53062,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/4799f7020e239c67892ed0e385d5363a_MD5.webp","size":27852,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/4ec28725a24cc06ca62ff7e071769788_MD5.webp","size":45122,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/54648e9162333cef4e74feea6ab68889_MD5.webp","size":18886,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/6e3eada419a7036b17ebbc5e61897a55_MD5.webp","size":38828,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/7731242a9d9c616ecdcf644e27742a3a_MD5.webp","size":87920,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/99bfdfe3740748b245f20f63680cce96_MD5.webp","size":17778,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/9f1120b2121d952f032ff33bc1052401_MD5.webp","size":270956,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/a4211519b95fca7168f9b8a03ea616a4_MD5.webp","size":37832,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/a4d5a54a0cddc928bd47cca4312bf7f5_MD5.webp","size":32132,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/a62c96820fe50e869bb0a067ba01209b_MD5.webp","size":23980,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/baaaa476fdc30f0e3bb9af105a648bf9_MD5.webp","size":57478,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/bc4fc9d88b77bea794cdd68ddf81d26c_MD5.webp","size":27248,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/ce6f5f806520db516827457d949705c2_MD5.webp","size":38260,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/d41a97fd866d31bdd5c3fe3f15cdddd6_MD5.webp","size":29894,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/db9c5d46feac4914126a4ed4f97b4762_MD5.webp","size":29530,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/e655d6de70f421502a749b3029eb3d65_MD5.webp","size":66690,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/e6e6090930c390889238e04033496bee_MD5.webp","size":63732,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/f404a6ec2f4c045df7829db8ac5b3a70_MD5.webp","size":32930,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/f4a6ed0f5edb34414a32f51468c92bc6_MD5.webp","size":37092,"isDir":false},{"path":"未归档/assets/公众号双封面设置/公众号双封面设置-20250423092950.gif","size":6284,"isDir":false},{"path":"未归档/assets/公众号双封面设置/公众号双封面设置-20250423092950.webp","size":15322,"isDir":false},{"path":"未归档/assets/公众号双封面设置/公众号双封面设置-20250423092950__1.webp","size":25248,"isDir":false},{"path":"未归档/assets/公众号双封面设置/公众号双封面设置-20250423092951.gif","size":1396273,"isDir":false},{"path":"未归档/assets/公众号双封面设置/公众号双封面设置-20250423092951.webp","size":24162,"isDir":false},{"path":"未归档/assets/公众号双封面设置/公众号双封面设置-20250423092952.gif","size":784193,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934.webp","size":37352,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__1.webp","size":57958,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__10.webp","size":61810,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__11.webp","size":58546,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__12.webp","size":46440,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__13.webp","size":41662,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__14.webp","size":45122,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__2.webp","size":33508,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__3.webp","size":57682,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__4.webp","size":52252,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__5.webp","size":57210,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__6.webp","size":40680,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__7.webp","size":35622,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__8.webp","size":37962,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__9.webp","size":39846,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092955.webp","size":22226,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092955__1.webp","size":33244,"isDir":false},{"path":"02Area/工具/obsidian/scripts/scripts","size":4096,"isDir":true},{"path":"02Area/工具/obsidian/template/calendar.md","size":235,"isDir":false},{"path":"02Area/工具/obsidian/template/diary.md","size":330,"isDir":false},{"path":"02Area/工具/obsidian/template/image-converter 导出时 -pandoc 如何不显示图片的 alt.md","size":1052,"isDir":false},{"path":"02Area/工具/obsidian/template/meeting.md","size":250,"isDir":false},{"path":"02Area/工具/obsidian/template/memos-api.md","size":596,"isDir":false},{"path":"02Area/工具/obsidian/template/monthly.md","size":19704,"isDir":false},{"path":"02Area/工具/obsidian/template/obsidian日记方案.md","size":1008,"isDir":false},{"path":"02Area/工具/obsidian/template/quarterly.md","size":178,"isDir":false},{"path":"02Area/工具/obsidian/template/select_section.md","size":1235,"isDir":false},{"path":"02Area/工具/obsidian/template/set_cursor_position.md","size":1239,"isDir":false},{"path":"02Area/工具/obsidian/template/templify-四象限模板.md","size":150,"isDir":false},{"path":"02Area/工具/obsidian/template/weekly-gdd-dataview.md","size":2162,"isDir":false},{"path":"02Area/工具/obsidian/template/weekly-gdd-template.md","size":3564,"isDir":false},{"path":"02Area/工具/obsidian/template/weekly.md","size":1654,"isDir":false},{"path":"02Area/工具/obsidian/template/yesterday-tasks-undo.md","size":0,"isDir":false},{"path":"02Area/工具/obsidian/template/微信公众号封面设计-1.html","size":9130,"isDir":false},{"path":"02Area/工具/obsidian/template/月总结.md","size":335,"isDir":false},{"path":"02Area/工具/obsidian/template/穴位.md","size":95,"isDir":false},{"path":"02Area/工具/obsidian/scripts/scripts/get_date.js","size":948,"isDir":false},{"path":"02Area/工具/obsidian/scripts/scripts/get_poem.js","size":707,"isDir":false},{"path":"02Area/工具/obsidian/scripts/scripts/get_sentence.js","size":1016,"isDir":false},{"path":"02Area/工具/obsidian/scripts/scripts/get_today_history.js","size":565,"isDir":false},{"path":"02Area/工具/obsidian/scripts/scripts/get_weather.js","size":635,"isDir":false},{"path":"02Area/工具/obsidian/scripts/scripts/memos.js","size":1742,"isDir":false},{"path":".obsidian","size":4096,"isDir":true}]],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.685Z","args":["remote Stats",[]],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.685Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/.gitignore","localPath":".gitignore","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.686Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/2025-05-09.md","localPath":"2025-05-09.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.686Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/2025-05-11.md","localPath":"2025-05-11.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.686Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/2025-05-12.md","localPath":"2025-05-12.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.686Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/2025-05-14.md","localPath":"2025-05-14.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.686Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/2025-05-15.md","localPath":"2025-05-15.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.686Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/2025-05-16.md","localPath":"2025-05-16.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.686Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/2025-05-17.md","localPath":"2025-05-17.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.686Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/Inbox.md","localPath":"Inbox.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.686Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/Obsidian AI.md","localPath":"Obsidian AI.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.686Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/待办.md","localPath":"待办.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.686Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/知识体系的开始.md","localPath":"知识体系的开始.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.686Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/知识整理.md","localPath":"知识整理.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.686Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/.obsidian/bookmarks.json","localPath":".obsidian/bookmarks.json","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.686Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/.sync/ID","localPath":".sync/ID","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.687Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/.sync/IgnoreList","localPath":".sync/IgnoreList","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.687Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/.sync/StreamsList","localPath":".sync/StreamsList","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.687Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/.sync/root_acl_entry","localPath":".sync/root_acl_entry","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.687Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/script/get_date.js","localPath":"script/get_date.js","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.687Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/script/get_poem.js","localPath":"script/get_poem.js","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.687Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/script/get_sentence.js","localPath":"script/get_sentence.js","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.687Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/script/get_today_history.js","localPath":"script/get_today_history.js","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.687Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/script/get_weather.js","localPath":"script/get_weather.js","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.687Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/script/image-converter 导出时 -pandoc 如何不显示图片的 alt.md","localPath":"script/image-converter 导出时 -pandoc 如何不显示图片的 alt.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.687Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/script/memos.js","localPath":"script/memos.js","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.687Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/script/no-image-alt.lua","localPath":"script/no-image-alt.lua","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.687Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/script/obsidian日记方案.md","localPath":"script/obsidian日记方案.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.687Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/script/pull.sh","localPath":"script/pull.sh","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.687Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/script/push.sh","localPath":"script/push.sh","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.687Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/script/quickadd_open.js","localPath":"script/quickadd_open.js","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.687Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/template/SearchEngineBook.md","localPath":"template/SearchEngineBook.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.687Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/template/calendar.md","localPath":"template/calendar.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.687Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/template/diary.md","localPath":"template/diary.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.687Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/template/habitat.md","localPath":"template/habitat.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.687Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/template/meeting.md","localPath":"template/meeting.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.687Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/template/memos-api.md","localPath":"template/memos-api.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.687Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/template/monthly.md","localPath":"template/monthly.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.687Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/template/quarterly.md","localPath":"template/quarterly.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.687Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/template/reading.md","localPath":"template/reading.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.687Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/template/select_section.md","localPath":"template/select_section.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.687Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/template/set_cursor_position.md","localPath":"template/set_cursor_position.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.687Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/template/tasks.md","localPath":"template/tasks.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.687Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/template/templify-四象限模板.md","localPath":"template/templify-四象限模板.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.687Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/template/weekly-gdd-dataview.md","localPath":"template/weekly-gdd-dataview.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.688Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/template/weekly-gdd-template.md","localPath":"template/weekly-gdd-template.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.688Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/template/weekly.md","localPath":"template/weekly.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.688Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/template/yesterday-tasks-undo.md","localPath":"template/yesterday-tasks-undo.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.688Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/template/月总结.md","localPath":"template/月总结.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.688Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/template/穴位.md","localPath":"template/穴位.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.688Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/AI Agent（智能体）世界的“USB”与“Email”！MCP与ANP如何重塑智能体互联网？.md","localPath":"未归档/AI Agent（智能体）世界的“USB”与“Email”！MCP与ANP如何重塑智能体互联网？.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.688Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/DeepseekV3生成公众号封面.md","localPath":"未归档/DeepseekV3生成公众号封面.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.688Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/Fold 'N Fly » Paper Airplane Folding Instructions.md","localPath":"未归档/Fold 'N Fly » Paper Airplane Folding Instructions.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.688Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/Markor和Obsidian的对比.md","localPath":"未归档/Markor和Obsidian的对比.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.688Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/Obsidian 通过 Git 实现全平台自动同步.md","localPath":"未归档/Obsidian 通过 Git 实现全平台自动同步.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.688Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/Resilio sync同步Obsidian笔记 - 天一生水.md","localPath":"未归档/Resilio sync同步Obsidian笔记 - 天一生水.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.688Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/一套提示词帮你实现小红书、公众号封面自由，Deepseek V3也能用！.md","localPath":"未归档/一套提示词帮你实现小红书、公众号封面自由，Deepseek V3也能用！.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.688Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/公众号双封面设置.md","localPath":"未归档/公众号双封面设置.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.688Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/可能是目前最好的 AI 生成 PPT 方案.md","localPath":"未归档/可能是目前最好的 AI 生成 PPT 方案.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.688Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/思维力.md","localPath":"未归档/思维力.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.688Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/我的笔记流，基于dailynote和双链的无压记录.md","localPath":"未归档/我的笔记流，基于dailynote和双链的无压记录.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.688Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/知识管理  如何在 Obsidian 笔记中嵌入可编辑的内容块.md","localPath":"未归档/知识管理  如何在 Obsidian 笔记中嵌入可编辑的内容块.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.688Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/assets/DeepseekV3生成公众号封面/0570b2bf3a1c5c52402744ddec50ee6d_MD5.webp","localPath":"未归档/assets/DeepseekV3生成公众号封面/0570b2bf3a1c5c52402744ddec50ee6d_MD5.webp","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.688Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/assets/DeepseekV3生成公众号封面/15dda55152418a7830f1069e02cff8ed_MD5.webp","localPath":"未归档/assets/DeepseekV3生成公众号封面/15dda55152418a7830f1069e02cff8ed_MD5.webp","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.688Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/assets/DeepseekV3生成公众号封面/2240c21b185a768edbb226c6d9748a15_MD5.webp","localPath":"未归档/assets/DeepseekV3生成公众号封面/2240c21b185a768edbb226c6d9748a15_MD5.webp","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.688Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/assets/DeepseekV3生成公众号封面/292737fb53e5c7d2bf9425c1f4ae0a39_MD5.webp","localPath":"未归档/assets/DeepseekV3生成公众号封面/292737fb53e5c7d2bf9425c1f4ae0a39_MD5.webp","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.688Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/assets/DeepseekV3生成公众号封面/3f39914ed6799e26201af2b6d71d65ea_MD5.webp","localPath":"未归档/assets/DeepseekV3生成公众号封面/3f39914ed6799e26201af2b6d71d65ea_MD5.webp","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.688Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/assets/DeepseekV3生成公众号封面/4799f7020e239c67892ed0e385d5363a_MD5.webp","localPath":"未归档/assets/DeepseekV3生成公众号封面/4799f7020e239c67892ed0e385d5363a_MD5.webp","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.688Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/assets/DeepseekV3生成公众号封面/4ec28725a24cc06ca62ff7e071769788_MD5.webp","localPath":"未归档/assets/DeepseekV3生成公众号封面/4ec28725a24cc06ca62ff7e071769788_MD5.webp","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.688Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/assets/DeepseekV3生成公众号封面/54648e9162333cef4e74feea6ab68889_MD5.webp","localPath":"未归档/assets/DeepseekV3生成公众号封面/54648e9162333cef4e74feea6ab68889_MD5.webp","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.688Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/assets/DeepseekV3生成公众号封面/6e3eada419a7036b17ebbc5e61897a55_MD5.webp","localPath":"未归档/assets/DeepseekV3生成公众号封面/6e3eada419a7036b17ebbc5e61897a55_MD5.webp","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.688Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/assets/DeepseekV3生成公众号封面/7731242a9d9c616ecdcf644e27742a3a_MD5.webp","localPath":"未归档/assets/DeepseekV3生成公众号封面/7731242a9d9c616ecdcf644e27742a3a_MD5.webp","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.688Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/assets/DeepseekV3生成公众号封面/99bfdfe3740748b245f20f63680cce96_MD5.webp","localPath":"未归档/assets/DeepseekV3生成公众号封面/99bfdfe3740748b245f20f63680cce96_MD5.webp","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.688Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/assets/DeepseekV3生成公众号封面/9f1120b2121d952f032ff33bc1052401_MD5.webp","localPath":"未归档/assets/DeepseekV3生成公众号封面/9f1120b2121d952f032ff33bc1052401_MD5.webp","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.688Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/assets/DeepseekV3生成公众号封面/a4211519b95fca7168f9b8a03ea616a4_MD5.webp","localPath":"未归档/assets/DeepseekV3生成公众号封面/a4211519b95fca7168f9b8a03ea616a4_MD5.webp","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.688Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/assets/DeepseekV3生成公众号封面/a4d5a54a0cddc928bd47cca4312bf7f5_MD5.webp","localPath":"未归档/assets/DeepseekV3生成公众号封面/a4d5a54a0cddc928bd47cca4312bf7f5_MD5.webp","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.688Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/assets/DeepseekV3生成公众号封面/a62c96820fe50e869bb0a067ba01209b_MD5.webp","localPath":"未归档/assets/DeepseekV3生成公众号封面/a62c96820fe50e869bb0a067ba01209b_MD5.webp","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.688Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/assets/DeepseekV3生成公众号封面/baaaa476fdc30f0e3bb9af105a648bf9_MD5.webp","localPath":"未归档/assets/DeepseekV3生成公众号封面/baaaa476fdc30f0e3bb9af105a648bf9_MD5.webp","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.688Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/assets/DeepseekV3生成公众号封面/bc4fc9d88b77bea794cdd68ddf81d26c_MD5.webp","localPath":"未归档/assets/DeepseekV3生成公众号封面/bc4fc9d88b77bea794cdd68ddf81d26c_MD5.webp","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.688Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/assets/DeepseekV3生成公众号封面/ce6f5f806520db516827457d949705c2_MD5.webp","localPath":"未归档/assets/DeepseekV3生成公众号封面/ce6f5f806520db516827457d949705c2_MD5.webp","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.688Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/assets/DeepseekV3生成公众号封面/d41a97fd866d31bdd5c3fe3f15cdddd6_MD5.webp","localPath":"未归档/assets/DeepseekV3生成公众号封面/d41a97fd866d31bdd5c3fe3f15cdddd6_MD5.webp","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.688Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/assets/DeepseekV3生成公众号封面/db9c5d46feac4914126a4ed4f97b4762_MD5.webp","localPath":"未归档/assets/DeepseekV3生成公众号封面/db9c5d46feac4914126a4ed4f97b4762_MD5.webp","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.688Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/assets/DeepseekV3生成公众号封面/e655d6de70f421502a749b3029eb3d65_MD5.webp","localPath":"未归档/assets/DeepseekV3生成公众号封面/e655d6de70f421502a749b3029eb3d65_MD5.webp","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.689Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/assets/DeepseekV3生成公众号封面/e6e6090930c390889238e04033496bee_MD5.webp","localPath":"未归档/assets/DeepseekV3生成公众号封面/e6e6090930c390889238e04033496bee_MD5.webp","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.689Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/assets/DeepseekV3生成公众号封面/f404a6ec2f4c045df7829db8ac5b3a70_MD5.webp","localPath":"未归档/assets/DeepseekV3生成公众号封面/f404a6ec2f4c045df7829db8ac5b3a70_MD5.webp","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.689Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/assets/DeepseekV3生成公众号封面/f4a6ed0f5edb34414a32f51468c92bc6_MD5.webp","localPath":"未归档/assets/DeepseekV3生成公众号封面/f4a6ed0f5edb34414a32f51468c92bc6_MD5.webp","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.689Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/assets/公众号双封面设置/公众号双封面设置-20250423092950.gif","localPath":"未归档/assets/公众号双封面设置/公众号双封面设置-20250423092950.gif","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.689Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/assets/公众号双封面设置/公众号双封面设置-20250423092950.webp","localPath":"未归档/assets/公众号双封面设置/公众号双封面设置-20250423092950.webp","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.689Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/assets/公众号双封面设置/公众号双封面设置-20250423092950__1.webp","localPath":"未归档/assets/公众号双封面设置/公众号双封面设置-20250423092950__1.webp","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.689Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/assets/公众号双封面设置/公众号双封面设置-20250423092951.gif","localPath":"未归档/assets/公众号双封面设置/公众号双封面设置-20250423092951.gif","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.689Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/assets/公众号双封面设置/公众号双封面设置-20250423092951.webp","localPath":"未归档/assets/公众号双封面设置/公众号双封面设置-20250423092951.webp","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.689Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/assets/公众号双封面设置/公众号双封面设置-20250423092952.gif","localPath":"未归档/assets/公众号双封面设置/公众号双封面设置-20250423092952.gif","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.689Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/assets/思维力/思维力-20250423092934.webp","localPath":"未归档/assets/思维力/思维力-20250423092934.webp","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.689Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/assets/思维力/思维力-20250423092934__1.webp","localPath":"未归档/assets/思维力/思维力-20250423092934__1.webp","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.689Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/assets/思维力/思维力-20250423092934__10.webp","localPath":"未归档/assets/思维力/思维力-20250423092934__10.webp","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.689Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/assets/思维力/思维力-20250423092934__11.webp","localPath":"未归档/assets/思维力/思维力-20250423092934__11.webp","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.689Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/assets/思维力/思维力-20250423092934__12.webp","localPath":"未归档/assets/思维力/思维力-20250423092934__12.webp","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.689Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/assets/思维力/思维力-20250423092934__13.webp","localPath":"未归档/assets/思维力/思维力-20250423092934__13.webp","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.689Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/assets/思维力/思维力-20250423092934__14.webp","localPath":"未归档/assets/思维力/思维力-20250423092934__14.webp","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.689Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/assets/思维力/思维力-20250423092934__2.webp","localPath":"未归档/assets/思维力/思维力-20250423092934__2.webp","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.689Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/assets/思维力/思维力-20250423092934__3.webp","localPath":"未归档/assets/思维力/思维力-20250423092934__3.webp","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.689Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/assets/思维力/思维力-20250423092934__4.webp","localPath":"未归档/assets/思维力/思维力-20250423092934__4.webp","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.689Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/assets/思维力/思维力-20250423092934__5.webp","localPath":"未归档/assets/思维力/思维力-20250423092934__5.webp","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.689Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/assets/思维力/思维力-20250423092934__6.webp","localPath":"未归档/assets/思维力/思维力-20250423092934__6.webp","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.689Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/assets/思维力/思维力-20250423092934__7.webp","localPath":"未归档/assets/思维力/思维力-20250423092934__7.webp","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.689Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/assets/思维力/思维力-20250423092934__8.webp","localPath":"未归档/assets/思维力/思维力-20250423092934__8.webp","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.689Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/assets/思维力/思维力-20250423092934__9.webp","localPath":"未归档/assets/思维力/思维力-20250423092934__9.webp","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.689Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/assets/思维力/思维力-20250423092955.webp","localPath":"未归档/assets/思维力/思维力-20250423092955.webp","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.689Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/未归档/assets/思维力/思维力-20250423092955__1.webp","localPath":"未归档/assets/思维力/思维力-20250423092955__1.webp","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.689Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/02Area/工具/obsidian/template/calendar.md","localPath":"02Area/工具/obsidian/template/calendar.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.689Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/02Area/工具/obsidian/template/diary.md","localPath":"02Area/工具/obsidian/template/diary.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.689Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/02Area/工具/obsidian/template/image-converter 导出时 -pandoc 如何不显示图片的 alt.md","localPath":"02Area/工具/obsidian/template/image-converter 导出时 -pandoc 如何不显示图片的 alt.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.689Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/02Area/工具/obsidian/template/meeting.md","localPath":"02Area/工具/obsidian/template/meeting.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.689Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/02Area/工具/obsidian/template/memos-api.md","localPath":"02Area/工具/obsidian/template/memos-api.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.689Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/02Area/工具/obsidian/template/monthly.md","localPath":"02Area/工具/obsidian/template/monthly.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.689Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/02Area/工具/obsidian/template/obsidian日记方案.md","localPath":"02Area/工具/obsidian/template/obsidian日记方案.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.689Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/02Area/工具/obsidian/template/quarterly.md","localPath":"02Area/工具/obsidian/template/quarterly.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.689Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/02Area/工具/obsidian/template/select_section.md","localPath":"02Area/工具/obsidian/template/select_section.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.689Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/02Area/工具/obsidian/template/set_cursor_position.md","localPath":"02Area/工具/obsidian/template/set_cursor_position.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.689Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/02Area/工具/obsidian/template/templify-四象限模板.md","localPath":"02Area/工具/obsidian/template/templify-四象限模板.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.689Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/02Area/工具/obsidian/template/weekly-gdd-dataview.md","localPath":"02Area/工具/obsidian/template/weekly-gdd-dataview.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.689Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/02Area/工具/obsidian/template/weekly-gdd-template.md","localPath":"02Area/工具/obsidian/template/weekly-gdd-template.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.689Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/02Area/工具/obsidian/template/weekly.md","localPath":"02Area/工具/obsidian/template/weekly.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.689Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/02Area/工具/obsidian/template/yesterday-tasks-undo.md","localPath":"02Area/工具/obsidian/template/yesterday-tasks-undo.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.689Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/02Area/工具/obsidian/template/微信公众号封面设计-1.html","localPath":"02Area/工具/obsidian/template/微信公众号封面设计-1.html","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.689Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/02Area/工具/obsidian/template/月总结.md","localPath":"02Area/工具/obsidian/template/月总结.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.689Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/02Area/工具/obsidian/template/穴位.md","localPath":"02Area/工具/obsidian/template/穴位.md","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.689Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/02Area/工具/obsidian/scripts/scripts/get_date.js","localPath":"02Area/工具/obsidian/scripts/scripts/get_date.js","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.689Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/02Area/工具/obsidian/scripts/scripts/get_poem.js","localPath":"02Area/工具/obsidian/scripts/scripts/get_poem.js","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.689Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/02Area/工具/obsidian/scripts/scripts/get_sentence.js","localPath":"02Area/工具/obsidian/scripts/scripts/get_sentence.js","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.689Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/02Area/工具/obsidian/scripts/scripts/get_today_history.js","localPath":"02Area/工具/obsidian/scripts/scripts/get_today_history.js","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.690Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/02Area/工具/obsidian/scripts/scripts/get_weather.js","localPath":"02Area/工具/obsidian/scripts/scripts/get_weather.js","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.690Z","args":[{"reason":"local file exists without a remote file","remotePath":"/mobile/02Area/工具/obsidian/scripts/scripts/memos.js","localPath":"02Area/工具/obsidian/scripts/scripts/memos.js","conditions":{"recordExists":false,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.690Z","args":[{"reason":"local folder does not exist remotely","remotePath":"/mobile/.sync","localPath":".sync","conditions":{"remoteExists":false,"recordExists":false}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.690Z","args":[{"reason":"local folder does not exist remotely","remotePath":"/mobile/02Area","localPath":"02Area","conditions":{"remoteExists":false,"recordExists":false}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.690Z","args":[{"reason":"local folder does not exist remotely","remotePath":"/mobile/script","localPath":"script","conditions":{"remoteExists":false,"recordExists":false}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.690Z","args":[{"reason":"local folder does not exist remotely","remotePath":"/mobile/template","localPath":"template","conditions":{"remoteExists":false,"recordExists":false}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.690Z","args":[{"reason":"local folder does not exist remotely","remotePath":"/mobile/未归档","localPath":"未归档","conditions":{"remoteExists":false,"recordExists":false}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.690Z","args":[{"reason":"local folder does not exist remotely","remotePath":"/mobile/.sync/Archive","localPath":".sync/Archive","conditions":{"remoteExists":false,"recordExists":false}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.690Z","args":[{"reason":"local folder does not exist remotely","remotePath":"/mobile/02Area/工具","localPath":"02Area/工具","conditions":{"remoteExists":false,"recordExists":false}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.690Z","args":[{"reason":"local folder does not exist remotely","remotePath":"/mobile/未归档/assets","localPath":"未归档/assets","conditions":{"remoteExists":false,"recordExists":false}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.690Z","args":[{"reason":"local folder does not exist remotely","remotePath":"/mobile/02Area/工具/obsidian","localPath":"02Area/工具/obsidian","conditions":{"remoteExists":false,"recordExists":false}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.690Z","args":[{"reason":"local folder does not exist remotely","remotePath":"/mobile/未归档/assets/DeepseekV3生成公众号封面","localPath":"未归档/assets/DeepseekV3生成公众号封面","conditions":{"remoteExists":false,"recordExists":false}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.690Z","args":[{"reason":"local folder does not exist remotely","remotePath":"/mobile/未归档/assets/公众号双封面设置","localPath":"未归档/assets/公众号双封面设置","conditions":{"remoteExists":false,"recordExists":false}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.690Z","args":[{"reason":"local folder does not exist remotely","remotePath":"/mobile/未归档/assets/思维力","localPath":"未归档/assets/思维力","conditions":{"remoteExists":false,"recordExists":false}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.690Z","args":[{"reason":"local folder does not exist remotely","remotePath":"/mobile/02Area/工具/obsidian/scripts","localPath":"02Area/工具/obsidian/scripts","conditions":{"remoteExists":false,"recordExists":false}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.690Z","args":[{"reason":"local folder does not exist remotely","remotePath":"/mobile/02Area/工具/obsidian/template","localPath":"02Area/工具/obsidian/template","conditions":{"remoteExists":false,"recordExists":false}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.690Z","args":[{"reason":"local folder does not exist remotely","remotePath":"/mobile/02Area/工具/obsidian/scripts/scripts","localPath":"02Area/工具/obsidian/scripts/scripts","conditions":{"remoteExists":false,"recordExists":false}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:13.690Z","args":[{"reason":"local folder does not exist remotely","remotePath":"/mobile/.obsidian","localPath":".obsidian","conditions":{"remoteExists":false,"recordExists":false}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:18.006Z","args":["Starting to execute sync tasks",{"totalTasks":148}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:18.006Z","args":["Executing task [1/148] .sync",{"taskName":"创建远程目录","taskPath":".sync"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:18.415Z","args":[{"status":404,"headers":{"cache-control":"no-cache","content-length":"218","content-type":"text/xml; charset=UTF-8","date":"Sat, 17 May 2025 09:17:18 GMT","pragma":"no-cache","server":"nginx"},"arrayBuffer":{},"json":"Unexpected token '<', \"<?xml vers\"... is not valid JSON","text":"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><d:error xmlns:d=\"DAV:\" xmlns:s=\"http://ns.jianguoyun.com\"><s:exception>ObjectNotFound</s:exception><s:message>the object /.sync doesn't exist</s:message></d:error>"}],"type":"error","level":0,"tag":""}
+
+{"date":"2025-05-17T09:17:18.569Z","args":["Task completed [1/148] .sync",{"taskName":"创建远程目录","taskPath":".sync","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:18.571Z","args":["Executing task [2/148] 02Area",{"taskName":"创建远程目录","taskPath":"02Area"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:19.270Z","args":[{"status":404,"headers":{"cache-control":"no-cache","content-length":"219","content-type":"text/xml; charset=UTF-8","date":"Sat, 17 May 2025 09:17:19 GMT","pragma":"no-cache","server":"nginx"},"arrayBuffer":{},"json":"Unexpected token '<', \"<?xml vers\"... is not valid JSON","text":"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><d:error xmlns:d=\"DAV:\" xmlns:s=\"http://ns.jianguoyun.com\"><s:exception>ObjectNotFound</s:exception><s:message>the object /02Area doesn't exist</s:message></d:error>"}],"type":"error","level":0,"tag":""}
+
+{"date":"2025-05-17T09:17:19.434Z","args":["Task completed [2/148] 02Area",{"taskName":"创建远程目录","taskPath":"02Area","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:19.436Z","args":["Executing task [3/148] script",{"taskName":"创建远程目录","taskPath":"script"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:19.801Z","args":[{"status":404,"headers":{"cache-control":"no-cache","content-length":"219","content-type":"text/xml; charset=UTF-8","date":"Sat, 17 May 2025 09:17:19 GMT","pragma":"no-cache","server":"nginx"},"arrayBuffer":{},"json":"Unexpected token '<', \"<?xml vers\"... is not valid JSON","text":"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><d:error xmlns:d=\"DAV:\" xmlns:s=\"http://ns.jianguoyun.com\"><s:exception>ObjectNotFound</s:exception><s:message>the object /script doesn't exist</s:message></d:error>"}],"type":"error","level":0,"tag":""}
+
+{"date":"2025-05-17T09:17:19.955Z","args":["Task completed [3/148] script",{"taskName":"创建远程目录","taskPath":"script","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:19.956Z","args":["Executing task [4/148] template",{"taskName":"创建远程目录","taskPath":"template"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:20.346Z","args":[{"status":404,"headers":{"cache-control":"no-cache","content-length":"221","content-type":"text/xml; charset=UTF-8","date":"Sat, 17 May 2025 09:17:20 GMT","pragma":"no-cache","server":"nginx"},"arrayBuffer":{},"json":"Unexpected token '<', \"<?xml vers\"... is not valid JSON","text":"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><d:error xmlns:d=\"DAV:\" xmlns:s=\"http://ns.jianguoyun.com\"><s:exception>ObjectNotFound</s:exception><s:message>the object /template doesn't exist</s:message></d:error>"}],"type":"error","level":0,"tag":""}
+
+{"date":"2025-05-17T09:17:20.489Z","args":["Task completed [4/148] template",{"taskName":"创建远程目录","taskPath":"template","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:20.491Z","args":["Executing task [5/148] 未归档",{"taskName":"创建远程目录","taskPath":"未归档"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:20.886Z","args":[{"status":404,"headers":{"cache-control":"no-cache","content-length":"222","content-type":"text/xml; charset=UTF-8","date":"Sat, 17 May 2025 09:17:20 GMT","pragma":"no-cache","server":"nginx"},"arrayBuffer":{},"json":"Unexpected token '<', \"<?xml vers\"... is not valid JSON","text":"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><d:error xmlns:d=\"DAV:\" xmlns:s=\"http://ns.jianguoyun.com\"><s:exception>ObjectNotFound</s:exception><s:message>the object /未归档 doesn't exist</s:message></d:error>"}],"type":"error","level":0,"tag":""}
+
+{"date":"2025-05-17T09:17:21.036Z","args":["Task completed [5/148] 未归档",{"taskName":"创建远程目录","taskPath":"未归档","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:21.038Z","args":["Executing task [6/148] .sync/Archive",{"taskName":"创建远程目录","taskPath":".sync/Archive"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:21.614Z","args":[{"status":404,"headers":{"cache-control":"no-cache","content-length":"226","content-type":"text/xml; charset=UTF-8","date":"Sat, 17 May 2025 09:17:21 GMT","pragma":"no-cache","server":"nginx"},"arrayBuffer":{},"json":"Unexpected token '<', \"<?xml vers\"... is not valid JSON","text":"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><d:error xmlns:d=\"DAV:\" xmlns:s=\"http://ns.jianguoyun.com\"><s:exception>ObjectNotFound</s:exception><s:message>the object /.sync/Archive doesn't exist</s:message></d:error>"}],"type":"error","level":0,"tag":""}
+
+{"date":"2025-05-17T09:17:21.757Z","args":["Task completed [6/148] .sync/Archive",{"taskName":"创建远程目录","taskPath":".sync/Archive","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:21.759Z","args":["Executing task [7/148] 02Area/工具",{"taskName":"创建远程目录","taskPath":"02Area/工具"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:22.295Z","args":[{"status":404,"headers":{"cache-control":"no-cache","content-length":"226","content-type":"text/xml; charset=UTF-8","date":"Sat, 17 May 2025 09:17:22 GMT","pragma":"no-cache","server":"nginx"},"arrayBuffer":{},"json":"Unexpected token '<', \"<?xml vers\"... is not valid JSON","text":"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><d:error xmlns:d=\"DAV:\" xmlns:s=\"http://ns.jianguoyun.com\"><s:exception>ObjectNotFound</s:exception><s:message>the object /02Area/工具 doesn't exist</s:message></d:error>"}],"type":"error","level":0,"tag":""}
+
+{"date":"2025-05-17T09:17:22.440Z","args":["Task completed [7/148] 02Area/工具",{"taskName":"创建远程目录","taskPath":"02Area/工具","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:22.442Z","args":["Executing task [8/148] 未归档/assets",{"taskName":"创建远程目录","taskPath":"未归档/assets"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:23.040Z","args":[{"status":404,"headers":{"cache-control":"no-cache","content-length":"229","content-type":"text/xml; charset=UTF-8","date":"Sat, 17 May 2025 09:17:22 GMT","pragma":"no-cache","server":"nginx"},"arrayBuffer":{},"json":"Unexpected token '<', \"<?xml vers\"... is not valid JSON","text":"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><d:error xmlns:d=\"DAV:\" xmlns:s=\"http://ns.jianguoyun.com\"><s:exception>ObjectNotFound</s:exception><s:message>the object /未归档/assets doesn't exist</s:message></d:error>"}],"type":"error","level":0,"tag":""}
+
+{"date":"2025-05-17T09:17:23.180Z","args":["Task completed [8/148] 未归档/assets",{"taskName":"创建远程目录","taskPath":"未归档/assets","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:23.181Z","args":["Executing task [9/148] 02Area/工具/obsidian",{"taskName":"创建远程目录","taskPath":"02Area/工具/obsidian"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:23.937Z","args":[{"status":404,"headers":{"cache-control":"no-cache","content-length":"235","content-type":"text/xml; charset=UTF-8","date":"Sat, 17 May 2025 09:17:23 GMT","pragma":"no-cache","server":"nginx"},"arrayBuffer":{},"json":"Unexpected token '<', \"<?xml vers\"... is not valid JSON","text":"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><d:error xmlns:d=\"DAV:\" xmlns:s=\"http://ns.jianguoyun.com\"><s:exception>ObjectNotFound</s:exception><s:message>the object /02Area/工具/obsidian doesn't exist</s:message></d:error>"}],"type":"error","level":0,"tag":""}
+
+{"date":"2025-05-17T09:17:24.096Z","args":["Task completed [9/148] 02Area/工具/obsidian",{"taskName":"创建远程目录","taskPath":"02Area/工具/obsidian","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:24.097Z","args":["Executing task [10/148] 未归档/assets/DeepseekV3生成公众号封面",{"taskName":"创建远程目录","taskPath":"未归档/assets/DeepseekV3生成公众号封面"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:25.489Z","args":[{"status":404,"headers":{"cache-control":"no-cache","content-length":"261","content-type":"text/xml; charset=UTF-8","date":"Sat, 17 May 2025 09:17:25 GMT","pragma":"no-cache","server":"nginx"},"arrayBuffer":{},"json":"Unexpected token '<', \"<?xml vers\"... is not valid JSON","text":"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><d:error xmlns:d=\"DAV:\" xmlns:s=\"http://ns.jianguoyun.com\"><s:exception>ObjectNotFound</s:exception><s:message>the object /未归档/assets/DeepseekV3生成公众号封面 doesn't exist</s:message></d:error>"}],"type":"error","level":0,"tag":""}
+
+{"date":"2025-05-17T09:17:25.640Z","args":["Task completed [10/148] 未归档/assets/DeepseekV3生成公众号封面",{"taskName":"创建远程目录","taskPath":"未归档/assets/DeepseekV3生成公众号封面","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:25.644Z","args":["Executing task [11/148] 未归档/assets/公众号双封面设置",{"taskName":"创建远程目录","taskPath":"未归档/assets/公众号双封面设置"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:26.384Z","args":[{"status":404,"headers":{"cache-control":"no-cache","content-length":"254","content-type":"text/xml; charset=UTF-8","date":"Sat, 17 May 2025 09:17:26 GMT","pragma":"no-cache","server":"nginx"},"arrayBuffer":{},"json":"Unexpected token '<', \"<?xml vers\"... is not valid JSON","text":"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><d:error xmlns:d=\"DAV:\" xmlns:s=\"http://ns.jianguoyun.com\"><s:exception>ObjectNotFound</s:exception><s:message>the object /未归档/assets/公众号双封面设置 doesn't exist</s:message></d:error>"}],"type":"error","level":0,"tag":""}
+
+{"date":"2025-05-17T09:17:26.531Z","args":["Task completed [11/148] 未归档/assets/公众号双封面设置",{"taskName":"创建远程目录","taskPath":"未归档/assets/公众号双封面设置","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:26.533Z","args":["Executing task [12/148] 未归档/assets/思维力",{"taskName":"创建远程目录","taskPath":"未归档/assets/思维力"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:27.234Z","args":[{"status":404,"headers":{"cache-control":"no-cache","content-length":"239","content-type":"text/xml; charset=UTF-8","date":"Sat, 17 May 2025 09:17:27 GMT","pragma":"no-cache","server":"nginx"},"arrayBuffer":{},"json":"Unexpected token '<', \"<?xml vers\"... is not valid JSON","text":"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><d:error xmlns:d=\"DAV:\" xmlns:s=\"http://ns.jianguoyun.com\"><s:exception>ObjectNotFound</s:exception><s:message>the object /未归档/assets/思维力 doesn't exist</s:message></d:error>"}],"type":"error","level":0,"tag":""}
+
+{"date":"2025-05-17T09:17:27.383Z","args":["Task completed [12/148] 未归档/assets/思维力",{"taskName":"创建远程目录","taskPath":"未归档/assets/思维力","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:27.385Z","args":["Executing task [13/148] 02Area/工具/obsidian/scripts",{"taskName":"创建远程目录","taskPath":"02Area/工具/obsidian/scripts"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:28.276Z","args":[{"status":404,"headers":{"cache-control":"no-cache","content-length":"243","content-type":"text/xml; charset=UTF-8","date":"Sat, 17 May 2025 09:17:28 GMT","pragma":"no-cache","server":"nginx"},"arrayBuffer":{},"json":"Unexpected token '<', \"<?xml vers\"... is not valid JSON","text":"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><d:error xmlns:d=\"DAV:\" xmlns:s=\"http://ns.jianguoyun.com\"><s:exception>ObjectNotFound</s:exception><s:message>the object /02Area/工具/obsidian/scripts doesn't exist</s:message></d:error>"}],"type":"error","level":0,"tag":""}
+
+{"date":"2025-05-17T09:17:28.418Z","args":["Task completed [13/148] 02Area/工具/obsidian/scripts",{"taskName":"创建远程目录","taskPath":"02Area/工具/obsidian/scripts","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:28.421Z","args":["Executing task [14/148] 02Area/工具/obsidian/template",{"taskName":"创建远程目录","taskPath":"02Area/工具/obsidian/template"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:29.758Z","args":[{"status":404,"headers":{"cache-control":"no-cache","content-length":"244","content-type":"text/xml; charset=UTF-8","date":"Sat, 17 May 2025 09:17:29 GMT","pragma":"no-cache","server":"nginx"},"arrayBuffer":{},"json":"Unexpected token '<', \"<?xml vers\"... is not valid JSON","text":"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><d:error xmlns:d=\"DAV:\" xmlns:s=\"http://ns.jianguoyun.com\"><s:exception>ObjectNotFound</s:exception><s:message>the object /02Area/工具/obsidian/template doesn't exist</s:message></d:error>"}],"type":"error","level":0,"tag":""}
+
+{"date":"2025-05-17T09:17:29.901Z","args":["Task completed [14/148] 02Area/工具/obsidian/template",{"taskName":"创建远程目录","taskPath":"02Area/工具/obsidian/template","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:29.903Z","args":["Executing task [15/148] 02Area/工具/obsidian/scripts/scripts",{"taskName":"创建远程目录","taskPath":"02Area/工具/obsidian/scripts/scripts"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:30.964Z","args":[{"status":404,"headers":{"cache-control":"no-cache","content-length":"251","content-type":"text/xml; charset=UTF-8","date":"Sat, 17 May 2025 09:17:30 GMT","pragma":"no-cache","server":"nginx"},"arrayBuffer":{},"json":"Unexpected token '<', \"<?xml vers\"... is not valid JSON","text":"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><d:error xmlns:d=\"DAV:\" xmlns:s=\"http://ns.jianguoyun.com\"><s:exception>ObjectNotFound</s:exception><s:message>the object /02Area/工具/obsidian/scripts/scripts doesn't exist</s:message></d:error>"}],"type":"error","level":0,"tag":""}
+
+{"date":"2025-05-17T09:17:31.116Z","args":["Task completed [15/148] 02Area/工具/obsidian/scripts/scripts",{"taskName":"创建远程目录","taskPath":"02Area/工具/obsidian/scripts/scripts","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:31.120Z","args":["Executing task [16/148] .obsidian",{"taskName":"创建远程目录","taskPath":".obsidian"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:31.471Z","args":[{"status":404,"headers":{"cache-control":"no-cache","content-length":"222","content-type":"text/xml; charset=UTF-8","date":"Sat, 17 May 2025 09:17:31 GMT","pragma":"no-cache","server":"nginx"},"arrayBuffer":{},"json":"Unexpected token '<', \"<?xml vers\"... is not valid JSON","text":"<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><d:error xmlns:d=\"DAV:\" xmlns:s=\"http://ns.jianguoyun.com\"><s:exception>ObjectNotFound</s:exception><s:message>the object /.obsidian doesn't exist</s:message></d:error>"}],"type":"error","level":0,"tag":""}
+
+{"date":"2025-05-17T09:17:31.621Z","args":["Task completed [16/148] .obsidian",{"taskName":"创建远程目录","taskPath":".obsidian","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:31.625Z","args":["Executing task [17/148] .gitignore",{"taskName":"上传","taskPath":".gitignore"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:31.868Z","args":["Task completed [17/148] .gitignore",{"taskName":"上传","taskPath":".gitignore","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:31.871Z","args":["Executing task [18/148] 2025-05-09.md",{"taskName":"上传","taskPath":"2025-05-09.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:32.109Z","args":["Task completed [18/148] 2025-05-09.md",{"taskName":"上传","taskPath":"2025-05-09.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:32.111Z","args":["Executing task [19/148] 2025-05-11.md",{"taskName":"上传","taskPath":"2025-05-11.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:32.465Z","args":["Task completed [19/148] 2025-05-11.md",{"taskName":"上传","taskPath":"2025-05-11.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:32.468Z","args":["Executing task [20/148] 2025-05-12.md",{"taskName":"上传","taskPath":"2025-05-12.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:32.638Z","args":["Task completed [20/148] 2025-05-12.md",{"taskName":"上传","taskPath":"2025-05-12.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:32.638Z","args":["Executing task [21/148] 2025-05-14.md",{"taskName":"上传","taskPath":"2025-05-14.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:32.863Z","args":["Task completed [21/148] 2025-05-14.md",{"taskName":"上传","taskPath":"2025-05-14.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:32.867Z","args":["Executing task [22/148] 2025-05-15.md",{"taskName":"上传","taskPath":"2025-05-15.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:33.070Z","args":["Task completed [22/148] 2025-05-15.md",{"taskName":"上传","taskPath":"2025-05-15.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:33.074Z","args":["Executing task [23/148] 2025-05-16.md",{"taskName":"上传","taskPath":"2025-05-16.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:33.277Z","args":["Task completed [23/148] 2025-05-16.md",{"taskName":"上传","taskPath":"2025-05-16.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:33.280Z","args":["Executing task [24/148] 2025-05-17.md",{"taskName":"上传","taskPath":"2025-05-17.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:33.490Z","args":["Task completed [24/148] 2025-05-17.md",{"taskName":"上传","taskPath":"2025-05-17.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:33.495Z","args":["Executing task [25/148] Inbox.md",{"taskName":"上传","taskPath":"Inbox.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:33.713Z","args":["Task completed [25/148] Inbox.md",{"taskName":"上传","taskPath":"Inbox.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:33.717Z","args":["Executing task [26/148] Obsidian AI.md",{"taskName":"上传","taskPath":"Obsidian AI.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:33.895Z","args":["Task completed [26/148] Obsidian AI.md",{"taskName":"上传","taskPath":"Obsidian AI.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:33.895Z","args":["Executing task [27/148] 待办.md",{"taskName":"上传","taskPath":"待办.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:34.116Z","args":["Task completed [27/148] 待办.md",{"taskName":"上传","taskPath":"待办.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:34.120Z","args":["Executing task [28/148] 知识体系的开始.md",{"taskName":"上传","taskPath":"知识体系的开始.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:34.341Z","args":["Task completed [28/148] 知识体系的开始.md",{"taskName":"上传","taskPath":"知识体系的开始.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:34.345Z","args":["Executing task [29/148] 知识整理.md",{"taskName":"上传","taskPath":"知识整理.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:34.536Z","args":["Task completed [29/148] 知识整理.md",{"taskName":"上传","taskPath":"知识整理.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:34.536Z","args":["Executing task [30/148] .obsidian/bookmarks.json",{"taskName":"上传","taskPath":".obsidian/bookmarks.json"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:34.794Z","args":["Task completed [30/148] .obsidian/bookmarks.json",{"taskName":"上传","taskPath":".obsidian/bookmarks.json","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:34.799Z","args":["Executing task [31/148] .sync/ID",{"taskName":"上传","taskPath":".sync/ID"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:35.020Z","args":["Task completed [31/148] .sync/ID",{"taskName":"上传","taskPath":".sync/ID","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:35.024Z","args":["Executing task [32/148] .sync/IgnoreList",{"taskName":"上传","taskPath":".sync/IgnoreList"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:35.264Z","args":["Task completed [32/148] .sync/IgnoreList",{"taskName":"上传","taskPath":".sync/IgnoreList","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:35.267Z","args":["Executing task [33/148] .sync/StreamsList",{"taskName":"上传","taskPath":".sync/StreamsList"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:35.468Z","args":["Task completed [33/148] .sync/StreamsList",{"taskName":"上传","taskPath":".sync/StreamsList","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:35.472Z","args":["Executing task [34/148] .sync/root_acl_entry",{"taskName":"上传","taskPath":".sync/root_acl_entry"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:35.653Z","args":["Task completed [34/148] .sync/root_acl_entry",{"taskName":"上传","taskPath":".sync/root_acl_entry","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:35.654Z","args":["Executing task [35/148] script/get_date.js",{"taskName":"上传","taskPath":"script/get_date.js"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:35.928Z","args":["Task completed [35/148] script/get_date.js",{"taskName":"上传","taskPath":"script/get_date.js","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:35.932Z","args":["Executing task [36/148] script/get_poem.js",{"taskName":"上传","taskPath":"script/get_poem.js"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:36.159Z","args":["Task completed [36/148] script/get_poem.js",{"taskName":"上传","taskPath":"script/get_poem.js","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:36.164Z","args":["Executing task [37/148] script/get_sentence.js",{"taskName":"上传","taskPath":"script/get_sentence.js"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:36.383Z","args":["Task completed [37/148] script/get_sentence.js",{"taskName":"上传","taskPath":"script/get_sentence.js","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:36.393Z","args":["Executing task [38/148] script/get_today_history.js",{"taskName":"上传","taskPath":"script/get_today_history.js"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:36.677Z","args":["Task completed [38/148] script/get_today_history.js",{"taskName":"上传","taskPath":"script/get_today_history.js","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:36.683Z","args":["Executing task [39/148] script/get_weather.js",{"taskName":"上传","taskPath":"script/get_weather.js"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:36.903Z","args":["Task completed [39/148] script/get_weather.js",{"taskName":"上传","taskPath":"script/get_weather.js","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:36.906Z","args":["Executing task [40/148] script/image-converter 导出时 -pandoc 如何不显示图片的 alt.md",{"taskName":"上传","taskPath":"script/image-converter 导出时 -pandoc 如何不显示图片的 alt.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:37.211Z","args":["Task completed [40/148] script/image-converter 导出时 -pandoc 如何不显示图片的 alt.md",{"taskName":"上传","taskPath":"script/image-converter 导出时 -pandoc 如何不显示图片的 alt.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:37.216Z","args":["Executing task [41/148] script/memos.js",{"taskName":"上传","taskPath":"script/memos.js"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:37.387Z","args":["Task completed [41/148] script/memos.js",{"taskName":"上传","taskPath":"script/memos.js","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:37.387Z","args":["Executing task [42/148] script/no-image-alt.lua",{"taskName":"上传","taskPath":"script/no-image-alt.lua"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:37.635Z","args":["Task completed [42/148] script/no-image-alt.lua",{"taskName":"上传","taskPath":"script/no-image-alt.lua","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:37.638Z","args":["Executing task [43/148] script/obsidian日记方案.md",{"taskName":"上传","taskPath":"script/obsidian日记方案.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:37.897Z","args":["Task completed [43/148] script/obsidian日记方案.md",{"taskName":"上传","taskPath":"script/obsidian日记方案.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:37.901Z","args":["Executing task [44/148] script/pull.sh",{"taskName":"上传","taskPath":"script/pull.sh"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:38.386Z","args":["Task completed [44/148] script/pull.sh",{"taskName":"上传","taskPath":"script/pull.sh","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:38.391Z","args":["Executing task [45/148] script/push.sh",{"taskName":"上传","taskPath":"script/push.sh"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:38.607Z","args":["Task completed [45/148] script/push.sh",{"taskName":"上传","taskPath":"script/push.sh","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:38.613Z","args":["Executing task [46/148] script/quickadd_open.js",{"taskName":"上传","taskPath":"script/quickadd_open.js"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:38.873Z","args":["Task completed [46/148] script/quickadd_open.js",{"taskName":"上传","taskPath":"script/quickadd_open.js","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:38.878Z","args":["Executing task [47/148] template/SearchEngineBook.md",{"taskName":"上传","taskPath":"template/SearchEngineBook.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:39.149Z","args":["Task completed [47/148] template/SearchEngineBook.md",{"taskName":"上传","taskPath":"template/SearchEngineBook.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:39.156Z","args":["Executing task [48/148] template/calendar.md",{"taskName":"上传","taskPath":"template/calendar.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:39.385Z","args":["Task completed [48/148] template/calendar.md",{"taskName":"上传","taskPath":"template/calendar.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:39.392Z","args":["Executing task [49/148] template/diary.md",{"taskName":"上传","taskPath":"template/diary.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:39.695Z","args":["Task completed [49/148] template/diary.md",{"taskName":"上传","taskPath":"template/diary.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:39.698Z","args":["Executing task [50/148] template/habitat.md",{"taskName":"上传","taskPath":"template/habitat.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:39.877Z","args":["Task completed [50/148] template/habitat.md",{"taskName":"上传","taskPath":"template/habitat.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:39.878Z","args":["Executing task [51/148] template/meeting.md",{"taskName":"上传","taskPath":"template/meeting.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:40.149Z","args":["Task completed [51/148] template/meeting.md",{"taskName":"上传","taskPath":"template/meeting.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:40.154Z","args":["Executing task [52/148] template/memos-api.md",{"taskName":"上传","taskPath":"template/memos-api.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:40.408Z","args":["Task completed [52/148] template/memos-api.md",{"taskName":"上传","taskPath":"template/memos-api.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:40.413Z","args":["Executing task [53/148] template/monthly.md",{"taskName":"上传","taskPath":"template/monthly.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:40.630Z","args":["Task completed [53/148] template/monthly.md",{"taskName":"上传","taskPath":"template/monthly.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:40.637Z","args":["Executing task [54/148] template/quarterly.md",{"taskName":"上传","taskPath":"template/quarterly.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:40.883Z","args":["Task completed [54/148] template/quarterly.md",{"taskName":"上传","taskPath":"template/quarterly.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:40.890Z","args":["Executing task [55/148] template/reading.md",{"taskName":"上传","taskPath":"template/reading.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:41.230Z","args":["Task completed [55/148] template/reading.md",{"taskName":"上传","taskPath":"template/reading.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:41.234Z","args":["Executing task [56/148] template/select_section.md",{"taskName":"上传","taskPath":"template/select_section.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:41.497Z","args":["Task completed [56/148] template/select_section.md",{"taskName":"上传","taskPath":"template/select_section.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:41.505Z","args":["Executing task [57/148] template/set_cursor_position.md",{"taskName":"上传","taskPath":"template/set_cursor_position.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:41.760Z","args":["Task completed [57/148] template/set_cursor_position.md",{"taskName":"上传","taskPath":"template/set_cursor_position.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:41.764Z","args":["Executing task [58/148] template/tasks.md",{"taskName":"上传","taskPath":"template/tasks.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:42.115Z","args":["Task completed [58/148] template/tasks.md",{"taskName":"上传","taskPath":"template/tasks.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:42.120Z","args":["Executing task [59/148] template/templify-四象限模板.md",{"taskName":"上传","taskPath":"template/templify-四象限模板.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:42.371Z","args":["Task completed [59/148] template/templify-四象限模板.md",{"taskName":"上传","taskPath":"template/templify-四象限模板.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:42.378Z","args":["Executing task [60/148] template/weekly-gdd-dataview.md",{"taskName":"上传","taskPath":"template/weekly-gdd-dataview.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:42.585Z","args":["Task completed [60/148] template/weekly-gdd-dataview.md",{"taskName":"上传","taskPath":"template/weekly-gdd-dataview.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:42.590Z","args":["Executing task [61/148] template/weekly-gdd-template.md",{"taskName":"上传","taskPath":"template/weekly-gdd-template.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:42.865Z","args":["Task completed [61/148] template/weekly-gdd-template.md",{"taskName":"上传","taskPath":"template/weekly-gdd-template.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:42.868Z","args":["Executing task [62/148] template/weekly.md",{"taskName":"上传","taskPath":"template/weekly.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:43.083Z","args":["Task completed [62/148] template/weekly.md",{"taskName":"上传","taskPath":"template/weekly.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:43.089Z","args":["Executing task [63/148] template/yesterday-tasks-undo.md",{"taskName":"上传","taskPath":"template/yesterday-tasks-undo.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:43.309Z","args":["Task completed [63/148] template/yesterday-tasks-undo.md",{"taskName":"上传","taskPath":"template/yesterday-tasks-undo.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:43.314Z","args":["Executing task [64/148] template/月总结.md",{"taskName":"上传","taskPath":"template/月总结.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:43.601Z","args":["Task completed [64/148] template/月总结.md",{"taskName":"上传","taskPath":"template/月总结.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:43.606Z","args":["Executing task [65/148] template/穴位.md",{"taskName":"上传","taskPath":"template/穴位.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:43.873Z","args":["Task completed [65/148] template/穴位.md",{"taskName":"上传","taskPath":"template/穴位.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:43.880Z","args":["Executing task [66/148] 未归档/AI Agent（智能体）世界的“USB”与“Email”！MCP与ANP如何重塑智能体互联网？.md",{"taskName":"上传","taskPath":"未归档/AI Agent（智能体）世界的“USB”与“Email”！MCP与ANP如何重塑智能体互联网？.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:44.184Z","args":["Task completed [66/148] 未归档/AI Agent（智能体）世界的“USB”与“Email”！MCP与ANP如何重塑智能体互联网？.md",{"taskName":"上传","taskPath":"未归档/AI Agent（智能体）世界的“USB”与“Email”！MCP与ANP如何重塑智能体互联网？.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:44.192Z","args":["Executing task [67/148] 未归档/DeepseekV3生成公众号封面.md",{"taskName":"上传","taskPath":"未归档/DeepseekV3生成公众号封面.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:44.741Z","args":["Task completed [67/148] 未归档/DeepseekV3生成公众号封面.md",{"taskName":"上传","taskPath":"未归档/DeepseekV3生成公众号封面.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:44.747Z","args":["Executing task [68/148] 未归档/Fold 'N Fly » Paper Airplane Folding Instructions.md",{"taskName":"上传","taskPath":"未归档/Fold 'N Fly » Paper Airplane Folding Instructions.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:45.027Z","args":["Task completed [68/148] 未归档/Fold 'N Fly » Paper Airplane Folding Instructions.md",{"taskName":"上传","taskPath":"未归档/Fold 'N Fly » Paper Airplane Folding Instructions.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:45.033Z","args":["Executing task [69/148] 未归档/Markor和Obsidian的对比.md",{"taskName":"上传","taskPath":"未归档/Markor和Obsidian的对比.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:45.214Z","args":["Task completed [69/148] 未归档/Markor和Obsidian的对比.md",{"taskName":"上传","taskPath":"未归档/Markor和Obsidian的对比.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:45.214Z","args":["Executing task [70/148] 未归档/Obsidian 通过 Git 实现全平台自动同步.md",{"taskName":"上传","taskPath":"未归档/Obsidian 通过 Git 实现全平台自动同步.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:45.715Z","args":["Task completed [70/148] 未归档/Obsidian 通过 Git 实现全平台自动同步.md",{"taskName":"上传","taskPath":"未归档/Obsidian 通过 Git 实现全平台自动同步.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:45.722Z","args":["Executing task [71/148] 未归档/Resilio sync同步Obsidian笔记 - 天一生水.md",{"taskName":"上传","taskPath":"未归档/Resilio sync同步Obsidian笔记 - 天一生水.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:45.949Z","args":["Task completed [71/148] 未归档/Resilio sync同步Obsidian笔记 - 天一生水.md",{"taskName":"上传","taskPath":"未归档/Resilio sync同步Obsidian笔记 - 天一生水.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:45.956Z","args":["Executing task [72/148] 未归档/一套提示词帮你实现小红书、公众号封面自由，Deepseek V3也能用！.md",{"taskName":"上传","taskPath":"未归档/一套提示词帮你实现小红书、公众号封面自由，Deepseek V3也能用！.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:46.273Z","args":["Task completed [72/148] 未归档/一套提示词帮你实现小红书、公众号封面自由，Deepseek V3也能用！.md",{"taskName":"上传","taskPath":"未归档/一套提示词帮你实现小红书、公众号封面自由，Deepseek V3也能用！.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:46.278Z","args":["Executing task [73/148] 未归档/公众号双封面设置.md",{"taskName":"上传","taskPath":"未归档/公众号双封面设置.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:46.499Z","args":["Task completed [73/148] 未归档/公众号双封面设置.md",{"taskName":"上传","taskPath":"未归档/公众号双封面设置.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:46.506Z","args":["Executing task [74/148] 未归档/可能是目前最好的 AI 生成 PPT 方案.md",{"taskName":"上传","taskPath":"未归档/可能是目前最好的 AI 生成 PPT 方案.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:46.749Z","args":["Task completed [74/148] 未归档/可能是目前最好的 AI 生成 PPT 方案.md",{"taskName":"上传","taskPath":"未归档/可能是目前最好的 AI 生成 PPT 方案.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:46.755Z","args":["Executing task [75/148] 未归档/思维力.md",{"taskName":"上传","taskPath":"未归档/思维力.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:47.136Z","args":["Task completed [75/148] 未归档/思维力.md",{"taskName":"上传","taskPath":"未归档/思维力.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:47.143Z","args":["Executing task [76/148] 未归档/我的笔记流，基于dailynote和双链的无压记录.md",{"taskName":"上传","taskPath":"未归档/我的笔记流，基于dailynote和双链的无压记录.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:47.366Z","args":["Task completed [76/148] 未归档/我的笔记流，基于dailynote和双链的无压记录.md",{"taskName":"上传","taskPath":"未归档/我的笔记流，基于dailynote和双链的无压记录.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:47.372Z","args":["Executing task [77/148] 未归档/知识管理  如何在 Obsidian 笔记中嵌入可编辑的内容块.md",{"taskName":"上传","taskPath":"未归档/知识管理  如何在 Obsidian 笔记中嵌入可编辑的内容块.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:47.584Z","args":["Task completed [77/148] 未归档/知识管理  如何在 Obsidian 笔记中嵌入可编辑的内容块.md",{"taskName":"上传","taskPath":"未归档/知识管理  如何在 Obsidian 笔记中嵌入可编辑的内容块.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:47.590Z","args":["Executing task [78/148] 未归档/assets/DeepseekV3生成公众号封面/0570b2bf3a1c5c52402744ddec50ee6d_MD5.webp",{"taskName":"上传","taskPath":"未归档/assets/DeepseekV3生成公众号封面/0570b2bf3a1c5c52402744ddec50ee6d_MD5.webp"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:47.996Z","args":["Task completed [78/148] 未归档/assets/DeepseekV3生成公众号封面/0570b2bf3a1c5c52402744ddec50ee6d_MD5.webp",{"taskName":"上传","taskPath":"未归档/assets/DeepseekV3生成公众号封面/0570b2bf3a1c5c52402744ddec50ee6d_MD5.webp","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:48.003Z","args":["Executing task [79/148] 未归档/assets/DeepseekV3生成公众号封面/15dda55152418a7830f1069e02cff8ed_MD5.webp",{"taskName":"上传","taskPath":"未归档/assets/DeepseekV3生成公众号封面/15dda55152418a7830f1069e02cff8ed_MD5.webp"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:48.227Z","args":["Task completed [79/148] 未归档/assets/DeepseekV3生成公众号封面/15dda55152418a7830f1069e02cff8ed_MD5.webp",{"taskName":"上传","taskPath":"未归档/assets/DeepseekV3生成公众号封面/15dda55152418a7830f1069e02cff8ed_MD5.webp","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:48.236Z","args":["Executing task [80/148] 未归档/assets/DeepseekV3生成公众号封面/2240c21b185a768edbb226c6d9748a15_MD5.webp",{"taskName":"上传","taskPath":"未归档/assets/DeepseekV3生成公众号封面/2240c21b185a768edbb226c6d9748a15_MD5.webp"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:48.473Z","args":["Task completed [80/148] 未归档/assets/DeepseekV3生成公众号封面/2240c21b185a768edbb226c6d9748a15_MD5.webp",{"taskName":"上传","taskPath":"未归档/assets/DeepseekV3生成公众号封面/2240c21b185a768edbb226c6d9748a15_MD5.webp","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:48.479Z","args":["Executing task [81/148] 未归档/assets/DeepseekV3生成公众号封面/292737fb53e5c7d2bf9425c1f4ae0a39_MD5.webp",{"taskName":"上传","taskPath":"未归档/assets/DeepseekV3生成公众号封面/292737fb53e5c7d2bf9425c1f4ae0a39_MD5.webp"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:49.073Z","args":["Task completed [81/148] 未归档/assets/DeepseekV3生成公众号封面/292737fb53e5c7d2bf9425c1f4ae0a39_MD5.webp",{"taskName":"上传","taskPath":"未归档/assets/DeepseekV3生成公众号封面/292737fb53e5c7d2bf9425c1f4ae0a39_MD5.webp","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:49.083Z","args":["Executing task [82/148] 未归档/assets/DeepseekV3生成公众号封面/3f39914ed6799e26201af2b6d71d65ea_MD5.webp",{"taskName":"上传","taskPath":"未归档/assets/DeepseekV3生成公众号封面/3f39914ed6799e26201af2b6d71d65ea_MD5.webp"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:49.422Z","args":["Task completed [82/148] 未归档/assets/DeepseekV3生成公众号封面/3f39914ed6799e26201af2b6d71d65ea_MD5.webp",{"taskName":"上传","taskPath":"未归档/assets/DeepseekV3生成公众号封面/3f39914ed6799e26201af2b6d71d65ea_MD5.webp","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:49.430Z","args":["Executing task [83/148] 未归档/assets/DeepseekV3生成公众号封面/4799f7020e239c67892ed0e385d5363a_MD5.webp",{"taskName":"上传","taskPath":"未归档/assets/DeepseekV3生成公众号封面/4799f7020e239c67892ed0e385d5363a_MD5.webp"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:49.693Z","args":["Task completed [83/148] 未归档/assets/DeepseekV3生成公众号封面/4799f7020e239c67892ed0e385d5363a_MD5.webp",{"taskName":"上传","taskPath":"未归档/assets/DeepseekV3生成公众号封面/4799f7020e239c67892ed0e385d5363a_MD5.webp","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:49.702Z","args":["Executing task [84/148] 未归档/assets/DeepseekV3生成公众号封面/4ec28725a24cc06ca62ff7e071769788_MD5.webp",{"taskName":"上传","taskPath":"未归档/assets/DeepseekV3生成公众号封面/4ec28725a24cc06ca62ff7e071769788_MD5.webp"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:49.956Z","args":["Task completed [84/148] 未归档/assets/DeepseekV3生成公众号封面/4ec28725a24cc06ca62ff7e071769788_MD5.webp",{"taskName":"上传","taskPath":"未归档/assets/DeepseekV3生成公众号封面/4ec28725a24cc06ca62ff7e071769788_MD5.webp","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:49.965Z","args":["Executing task [85/148] 未归档/assets/DeepseekV3生成公众号封面/54648e9162333cef4e74feea6ab68889_MD5.webp",{"taskName":"上传","taskPath":"未归档/assets/DeepseekV3生成公众号封面/54648e9162333cef4e74feea6ab68889_MD5.webp"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:50.241Z","args":["Task completed [85/148] 未归档/assets/DeepseekV3生成公众号封面/54648e9162333cef4e74feea6ab68889_MD5.webp",{"taskName":"上传","taskPath":"未归档/assets/DeepseekV3生成公众号封面/54648e9162333cef4e74feea6ab68889_MD5.webp","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:50.245Z","args":["Executing task [86/148] 未归档/assets/DeepseekV3生成公众号封面/6e3eada419a7036b17ebbc5e61897a55_MD5.webp",{"taskName":"上传","taskPath":"未归档/assets/DeepseekV3生成公众号封面/6e3eada419a7036b17ebbc5e61897a55_MD5.webp"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:50.515Z","args":["Task completed [86/148] 未归档/assets/DeepseekV3生成公众号封面/6e3eada419a7036b17ebbc5e61897a55_MD5.webp",{"taskName":"上传","taskPath":"未归档/assets/DeepseekV3生成公众号封面/6e3eada419a7036b17ebbc5e61897a55_MD5.webp","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:50.521Z","args":["Executing task [87/148] 未归档/assets/DeepseekV3生成公众号封面/7731242a9d9c616ecdcf644e27742a3a_MD5.webp",{"taskName":"上传","taskPath":"未归档/assets/DeepseekV3生成公众号封面/7731242a9d9c616ecdcf644e27742a3a_MD5.webp"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:50.954Z","args":["Task completed [87/148] 未归档/assets/DeepseekV3生成公众号封面/7731242a9d9c616ecdcf644e27742a3a_MD5.webp",{"taskName":"上传","taskPath":"未归档/assets/DeepseekV3生成公众号封面/7731242a9d9c616ecdcf644e27742a3a_MD5.webp","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:50.963Z","args":["Executing task [88/148] 未归档/assets/DeepseekV3生成公众号封面/99bfdfe3740748b245f20f63680cce96_MD5.webp",{"taskName":"上传","taskPath":"未归档/assets/DeepseekV3生成公众号封面/99bfdfe3740748b245f20f63680cce96_MD5.webp"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:51.203Z","args":["Task completed [88/148] 未归档/assets/DeepseekV3生成公众号封面/99bfdfe3740748b245f20f63680cce96_MD5.webp",{"taskName":"上传","taskPath":"未归档/assets/DeepseekV3生成公众号封面/99bfdfe3740748b245f20f63680cce96_MD5.webp","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:51.210Z","args":["Executing task [89/148] 未归档/assets/DeepseekV3生成公众号封面/9f1120b2121d952f032ff33bc1052401_MD5.webp",{"taskName":"上传","taskPath":"未归档/assets/DeepseekV3生成公众号封面/9f1120b2121d952f032ff33bc1052401_MD5.webp"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:52.097Z","args":["Task completed [89/148] 未归档/assets/DeepseekV3生成公众号封面/9f1120b2121d952f032ff33bc1052401_MD5.webp",{"taskName":"上传","taskPath":"未归档/assets/DeepseekV3生成公众号封面/9f1120b2121d952f032ff33bc1052401_MD5.webp","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:52.104Z","args":["Executing task [90/148] 未归档/assets/DeepseekV3生成公众号封面/a4211519b95fca7168f9b8a03ea616a4_MD5.webp",{"taskName":"上传","taskPath":"未归档/assets/DeepseekV3生成公众号封面/a4211519b95fca7168f9b8a03ea616a4_MD5.webp"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:52.448Z","args":["Task completed [90/148] 未归档/assets/DeepseekV3生成公众号封面/a4211519b95fca7168f9b8a03ea616a4_MD5.webp",{"taskName":"上传","taskPath":"未归档/assets/DeepseekV3生成公众号封面/a4211519b95fca7168f9b8a03ea616a4_MD5.webp","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:52.455Z","args":["Executing task [91/148] 未归档/assets/DeepseekV3生成公众号封面/a4d5a54a0cddc928bd47cca4312bf7f5_MD5.webp",{"taskName":"上传","taskPath":"未归档/assets/DeepseekV3生成公众号封面/a4d5a54a0cddc928bd47cca4312bf7f5_MD5.webp"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:53.077Z","args":["Task completed [91/148] 未归档/assets/DeepseekV3生成公众号封面/a4d5a54a0cddc928bd47cca4312bf7f5_MD5.webp",{"taskName":"上传","taskPath":"未归档/assets/DeepseekV3生成公众号封面/a4d5a54a0cddc928bd47cca4312bf7f5_MD5.webp","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:53.085Z","args":["Executing task [92/148] 未归档/assets/DeepseekV3生成公众号封面/a62c96820fe50e869bb0a067ba01209b_MD5.webp",{"taskName":"上传","taskPath":"未归档/assets/DeepseekV3生成公众号封面/a62c96820fe50e869bb0a067ba01209b_MD5.webp"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:53.380Z","args":["Task completed [92/148] 未归档/assets/DeepseekV3生成公众号封面/a62c96820fe50e869bb0a067ba01209b_MD5.webp",{"taskName":"上传","taskPath":"未归档/assets/DeepseekV3生成公众号封面/a62c96820fe50e869bb0a067ba01209b_MD5.webp","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:53.387Z","args":["Executing task [93/148] 未归档/assets/DeepseekV3生成公众号封面/baaaa476fdc30f0e3bb9af105a648bf9_MD5.webp",{"taskName":"上传","taskPath":"未归档/assets/DeepseekV3生成公众号封面/baaaa476fdc30f0e3bb9af105a648bf9_MD5.webp"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:53.872Z","args":["Task completed [93/148] 未归档/assets/DeepseekV3生成公众号封面/baaaa476fdc30f0e3bb9af105a648bf9_MD5.webp",{"taskName":"上传","taskPath":"未归档/assets/DeepseekV3生成公众号封面/baaaa476fdc30f0e3bb9af105a648bf9_MD5.webp","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:53.878Z","args":["Executing task [94/148] 未归档/assets/DeepseekV3生成公众号封面/bc4fc9d88b77bea794cdd68ddf81d26c_MD5.webp",{"taskName":"上传","taskPath":"未归档/assets/DeepseekV3生成公众号封面/bc4fc9d88b77bea794cdd68ddf81d26c_MD5.webp"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:54.133Z","args":["Task completed [94/148] 未归档/assets/DeepseekV3生成公众号封面/bc4fc9d88b77bea794cdd68ddf81d26c_MD5.webp",{"taskName":"上传","taskPath":"未归档/assets/DeepseekV3生成公众号封面/bc4fc9d88b77bea794cdd68ddf81d26c_MD5.webp","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:54.140Z","args":["Executing task [95/148] 未归档/assets/DeepseekV3生成公众号封面/ce6f5f806520db516827457d949705c2_MD5.webp",{"taskName":"上传","taskPath":"未归档/assets/DeepseekV3生成公众号封面/ce6f5f806520db516827457d949705c2_MD5.webp"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:54.679Z","args":["Task completed [95/148] 未归档/assets/DeepseekV3生成公众号封面/ce6f5f806520db516827457d949705c2_MD5.webp",{"taskName":"上传","taskPath":"未归档/assets/DeepseekV3生成公众号封面/ce6f5f806520db516827457d949705c2_MD5.webp","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:54.686Z","args":["Executing task [96/148] 未归档/assets/DeepseekV3生成公众号封面/d41a97fd866d31bdd5c3fe3f15cdddd6_MD5.webp",{"taskName":"上传","taskPath":"未归档/assets/DeepseekV3生成公众号封面/d41a97fd866d31bdd5c3fe3f15cdddd6_MD5.webp"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:54.966Z","args":["Task completed [96/148] 未归档/assets/DeepseekV3生成公众号封面/d41a97fd866d31bdd5c3fe3f15cdddd6_MD5.webp",{"taskName":"上传","taskPath":"未归档/assets/DeepseekV3生成公众号封面/d41a97fd866d31bdd5c3fe3f15cdddd6_MD5.webp","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:54.972Z","args":["Executing task [97/148] 未归档/assets/DeepseekV3生成公众号封面/db9c5d46feac4914126a4ed4f97b4762_MD5.webp",{"taskName":"上传","taskPath":"未归档/assets/DeepseekV3生成公众号封面/db9c5d46feac4914126a4ed4f97b4762_MD5.webp"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:55.299Z","args":["Task completed [97/148] 未归档/assets/DeepseekV3生成公众号封面/db9c5d46feac4914126a4ed4f97b4762_MD5.webp",{"taskName":"上传","taskPath":"未归档/assets/DeepseekV3生成公众号封面/db9c5d46feac4914126a4ed4f97b4762_MD5.webp","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:55.310Z","args":["Executing task [98/148] 未归档/assets/DeepseekV3生成公众号封面/e655d6de70f421502a749b3029eb3d65_MD5.webp",{"taskName":"上传","taskPath":"未归档/assets/DeepseekV3生成公众号封面/e655d6de70f421502a749b3029eb3d65_MD5.webp"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:55.672Z","args":["Task completed [98/148] 未归档/assets/DeepseekV3生成公众号封面/e655d6de70f421502a749b3029eb3d65_MD5.webp",{"taskName":"上传","taskPath":"未归档/assets/DeepseekV3生成公众号封面/e655d6de70f421502a749b3029eb3d65_MD5.webp","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:55.681Z","args":["Executing task [99/148] 未归档/assets/DeepseekV3生成公众号封面/e6e6090930c390889238e04033496bee_MD5.webp",{"taskName":"上传","taskPath":"未归档/assets/DeepseekV3生成公众号封面/e6e6090930c390889238e04033496bee_MD5.webp"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:55.968Z","args":["Task completed [99/148] 未归档/assets/DeepseekV3生成公众号封面/e6e6090930c390889238e04033496bee_MD5.webp",{"taskName":"上传","taskPath":"未归档/assets/DeepseekV3生成公众号封面/e6e6090930c390889238e04033496bee_MD5.webp","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:55.975Z","args":["Executing task [100/148] 未归档/assets/DeepseekV3生成公众号封面/f404a6ec2f4c045df7829db8ac5b3a70_MD5.webp",{"taskName":"上传","taskPath":"未归档/assets/DeepseekV3生成公众号封面/f404a6ec2f4c045df7829db8ac5b3a70_MD5.webp"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:56.362Z","args":["Task completed [100/148] 未归档/assets/DeepseekV3生成公众号封面/f404a6ec2f4c045df7829db8ac5b3a70_MD5.webp",{"taskName":"上传","taskPath":"未归档/assets/DeepseekV3生成公众号封面/f404a6ec2f4c045df7829db8ac5b3a70_MD5.webp","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:56.368Z","args":["Executing task [101/148] 未归档/assets/DeepseekV3生成公众号封面/f4a6ed0f5edb34414a32f51468c92bc6_MD5.webp",{"taskName":"上传","taskPath":"未归档/assets/DeepseekV3生成公众号封面/f4a6ed0f5edb34414a32f51468c92bc6_MD5.webp"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:56.699Z","args":["Task completed [101/148] 未归档/assets/DeepseekV3生成公众号封面/f4a6ed0f5edb34414a32f51468c92bc6_MD5.webp",{"taskName":"上传","taskPath":"未归档/assets/DeepseekV3生成公众号封面/f4a6ed0f5edb34414a32f51468c92bc6_MD5.webp","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:56.708Z","args":["Executing task [102/148] 未归档/assets/公众号双封面设置/公众号双封面设置-20250423092950.gif",{"taskName":"上传","taskPath":"未归档/assets/公众号双封面设置/公众号双封面设置-20250423092950.gif"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:56.953Z","args":["Task completed [102/148] 未归档/assets/公众号双封面设置/公众号双封面设置-20250423092950.gif",{"taskName":"上传","taskPath":"未归档/assets/公众号双封面设置/公众号双封面设置-20250423092950.gif","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:56.960Z","args":["Executing task [103/148] 未归档/assets/公众号双封面设置/公众号双封面设置-20250423092950.webp",{"taskName":"上传","taskPath":"未归档/assets/公众号双封面设置/公众号双封面设置-20250423092950.webp"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:57.209Z","args":["Task completed [103/148] 未归档/assets/公众号双封面设置/公众号双封面设置-20250423092950.webp",{"taskName":"上传","taskPath":"未归档/assets/公众号双封面设置/公众号双封面设置-20250423092950.webp","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:57.218Z","args":["Executing task [104/148] 未归档/assets/公众号双封面设置/公众号双封面设置-20250423092950__1.webp",{"taskName":"上传","taskPath":"未归档/assets/公众号双封面设置/公众号双封面设置-20250423092950__1.webp"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:57.518Z","args":["Task completed [104/148] 未归档/assets/公众号双封面设置/公众号双封面设置-20250423092950__1.webp",{"taskName":"上传","taskPath":"未归档/assets/公众号双封面设置/公众号双封面设置-20250423092950__1.webp","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:17:57.526Z","args":["Executing task [105/148] 未归档/assets/公众号双封面设置/公众号双封面设置-20250423092951.gif",{"taskName":"上传","taskPath":"未归档/assets/公众号双封面设置/公众号双封面设置-20250423092951.gif"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:02.264Z","args":["Task completed [105/148] 未归档/assets/公众号双封面设置/公众号双封面设置-20250423092951.gif",{"taskName":"上传","taskPath":"未归档/assets/公众号双封面设置/公众号双封面设置-20250423092951.gif","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:02.271Z","args":["Executing task [106/148] 未归档/assets/公众号双封面设置/公众号双封面设置-20250423092951.webp",{"taskName":"上传","taskPath":"未归档/assets/公众号双封面设置/公众号双封面设置-20250423092951.webp"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:02.561Z","args":["Task completed [106/148] 未归档/assets/公众号双封面设置/公众号双封面设置-20250423092951.webp",{"taskName":"上传","taskPath":"未归档/assets/公众号双封面设置/公众号双封面设置-20250423092951.webp","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:02.568Z","args":["Executing task [107/148] 未归档/assets/公众号双封面设置/公众号双封面设置-20250423092952.gif",{"taskName":"上传","taskPath":"未归档/assets/公众号双封面设置/公众号双封面设置-20250423092952.gif"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:05.233Z","args":["Task completed [107/148] 未归档/assets/公众号双封面设置/公众号双封面设置-20250423092952.gif",{"taskName":"上传","taskPath":"未归档/assets/公众号双封面设置/公众号双封面设置-20250423092952.gif","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:05.241Z","args":["Executing task [108/148] 未归档/assets/思维力/思维力-20250423092934.webp",{"taskName":"上传","taskPath":"未归档/assets/思维力/思维力-20250423092934.webp"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:05.660Z","args":["Task completed [108/148] 未归档/assets/思维力/思维力-20250423092934.webp",{"taskName":"上传","taskPath":"未归档/assets/思维力/思维力-20250423092934.webp","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:05.669Z","args":["Executing task [109/148] 未归档/assets/思维力/思维力-20250423092934__1.webp",{"taskName":"上传","taskPath":"未归档/assets/思维力/思维力-20250423092934__1.webp"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:06.044Z","args":["Task completed [109/148] 未归档/assets/思维力/思维力-20250423092934__1.webp",{"taskName":"上传","taskPath":"未归档/assets/思维力/思维力-20250423092934__1.webp","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:06.053Z","args":["Executing task [110/148] 未归档/assets/思维力/思维力-20250423092934__10.webp",{"taskName":"上传","taskPath":"未归档/assets/思维力/思维力-20250423092934__10.webp"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:06.411Z","args":["Task completed [110/148] 未归档/assets/思维力/思维力-20250423092934__10.webp",{"taskName":"上传","taskPath":"未归档/assets/思维力/思维力-20250423092934__10.webp","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:06.418Z","args":["Executing task [111/148] 未归档/assets/思维力/思维力-20250423092934__11.webp",{"taskName":"上传","taskPath":"未归档/assets/思维力/思维力-20250423092934__11.webp"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:06.687Z","args":["Task completed [111/148] 未归档/assets/思维力/思维力-20250423092934__11.webp",{"taskName":"上传","taskPath":"未归档/assets/思维力/思维力-20250423092934__11.webp","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:06.696Z","args":["Executing task [112/148] 未归档/assets/思维力/思维力-20250423092934__12.webp",{"taskName":"上传","taskPath":"未归档/assets/思维力/思维力-20250423092934__12.webp"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:07.360Z","args":["Task completed [112/148] 未归档/assets/思维力/思维力-20250423092934__12.webp",{"taskName":"上传","taskPath":"未归档/assets/思维力/思维力-20250423092934__12.webp","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:07.369Z","args":["Executing task [113/148] 未归档/assets/思维力/思维力-20250423092934__13.webp",{"taskName":"上传","taskPath":"未归档/assets/思维力/思维力-20250423092934__13.webp"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:07.662Z","args":["Task completed [113/148] 未归档/assets/思维力/思维力-20250423092934__13.webp",{"taskName":"上传","taskPath":"未归档/assets/思维力/思维力-20250423092934__13.webp","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:07.671Z","args":["Executing task [114/148] 未归档/assets/思维力/思维力-20250423092934__14.webp",{"taskName":"上传","taskPath":"未归档/assets/思维力/思维力-20250423092934__14.webp"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:08.273Z","args":["Task completed [114/148] 未归档/assets/思维力/思维力-20250423092934__14.webp",{"taskName":"上传","taskPath":"未归档/assets/思维力/思维力-20250423092934__14.webp","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:08.282Z","args":["Executing task [115/148] 未归档/assets/思维力/思维力-20250423092934__2.webp",{"taskName":"上传","taskPath":"未归档/assets/思维力/思维力-20250423092934__2.webp"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:08.590Z","args":["Task completed [115/148] 未归档/assets/思维力/思维力-20250423092934__2.webp",{"taskName":"上传","taskPath":"未归档/assets/思维力/思维力-20250423092934__2.webp","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:08.599Z","args":["Executing task [116/148] 未归档/assets/思维力/思维力-20250423092934__3.webp",{"taskName":"上传","taskPath":"未归档/assets/思维力/思维力-20250423092934__3.webp"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:08.971Z","args":["Task completed [116/148] 未归档/assets/思维力/思维力-20250423092934__3.webp",{"taskName":"上传","taskPath":"未归档/assets/思维力/思维力-20250423092934__3.webp","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:08.982Z","args":["Executing task [117/148] 未归档/assets/思维力/思维力-20250423092934__4.webp",{"taskName":"上传","taskPath":"未归档/assets/思维力/思维力-20250423092934__4.webp"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:09.359Z","args":["Task completed [117/148] 未归档/assets/思维力/思维力-20250423092934__4.webp",{"taskName":"上传","taskPath":"未归档/assets/思维力/思维力-20250423092934__4.webp","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:09.369Z","args":["Executing task [118/148] 未归档/assets/思维力/思维力-20250423092934__5.webp",{"taskName":"上传","taskPath":"未归档/assets/思维力/思维力-20250423092934__5.webp"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:09.678Z","args":["Task completed [118/148] 未归档/assets/思维力/思维力-20250423092934__5.webp",{"taskName":"上传","taskPath":"未归档/assets/思维力/思维力-20250423092934__5.webp","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:09.686Z","args":["Executing task [119/148] 未归档/assets/思维力/思维力-20250423092934__6.webp",{"taskName":"上传","taskPath":"未归档/assets/思维力/思维力-20250423092934__6.webp"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:10.317Z","args":["Task completed [119/148] 未归档/assets/思维力/思维力-20250423092934__6.webp",{"taskName":"上传","taskPath":"未归档/assets/思维力/思维力-20250423092934__6.webp","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:10.326Z","args":["Executing task [120/148] 未归档/assets/思维力/思维力-20250423092934__7.webp",{"taskName":"上传","taskPath":"未归档/assets/思维力/思维力-20250423092934__7.webp"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:10.643Z","args":["Task completed [120/148] 未归档/assets/思维力/思维力-20250423092934__7.webp",{"taskName":"上传","taskPath":"未归档/assets/思维力/思维力-20250423092934__7.webp","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:10.651Z","args":["Executing task [121/148] 未归档/assets/思维力/思维力-20250423092934__8.webp",{"taskName":"上传","taskPath":"未归档/assets/思维力/思维力-20250423092934__8.webp"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:10.875Z","args":["Task completed [121/148] 未归档/assets/思维力/思维力-20250423092934__8.webp",{"taskName":"上传","taskPath":"未归档/assets/思维力/思维力-20250423092934__8.webp","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:10.882Z","args":["Executing task [122/148] 未归档/assets/思维力/思维力-20250423092934__9.webp",{"taskName":"上传","taskPath":"未归档/assets/思维力/思维力-20250423092934__9.webp"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:11.147Z","args":["Task completed [122/148] 未归档/assets/思维力/思维力-20250423092934__9.webp",{"taskName":"上传","taskPath":"未归档/assets/思维力/思维力-20250423092934__9.webp","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:11.155Z","args":["Executing task [123/148] 未归档/assets/思维力/思维力-20250423092955.webp",{"taskName":"上传","taskPath":"未归档/assets/思维力/思维力-20250423092955.webp"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:11.455Z","args":["Task completed [123/148] 未归档/assets/思维力/思维力-20250423092955.webp",{"taskName":"上传","taskPath":"未归档/assets/思维力/思维力-20250423092955.webp","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:11.466Z","args":["Executing task [124/148] 未归档/assets/思维力/思维力-20250423092955__1.webp",{"taskName":"上传","taskPath":"未归档/assets/思维力/思维力-20250423092955__1.webp"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:11.765Z","args":["Task completed [124/148] 未归档/assets/思维力/思维力-20250423092955__1.webp",{"taskName":"上传","taskPath":"未归档/assets/思维力/思维力-20250423092955__1.webp","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:11.774Z","args":["Executing task [125/148] 02Area/工具/obsidian/template/calendar.md",{"taskName":"上传","taskPath":"02Area/工具/obsidian/template/calendar.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:12.056Z","args":["Task completed [125/148] 02Area/工具/obsidian/template/calendar.md",{"taskName":"上传","taskPath":"02Area/工具/obsidian/template/calendar.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:12.064Z","args":["Executing task [126/148] 02Area/工具/obsidian/template/diary.md",{"taskName":"上传","taskPath":"02Area/工具/obsidian/template/diary.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:12.339Z","args":["Task completed [126/148] 02Area/工具/obsidian/template/diary.md",{"taskName":"上传","taskPath":"02Area/工具/obsidian/template/diary.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:12.351Z","args":["Executing task [127/148] 02Area/工具/obsidian/template/image-converter 导出时 -pandoc 如何不显示图片的 alt.md",{"taskName":"上传","taskPath":"02Area/工具/obsidian/template/image-converter 导出时 -pandoc 如何不显示图片的 alt.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:12.644Z","args":["Task completed [127/148] 02Area/工具/obsidian/template/image-converter 导出时 -pandoc 如何不显示图片的 alt.md",{"taskName":"上传","taskPath":"02Area/工具/obsidian/template/image-converter 导出时 -pandoc 如何不显示图片的 alt.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:12.655Z","args":["Executing task [128/148] 02Area/工具/obsidian/template/meeting.md",{"taskName":"上传","taskPath":"02Area/工具/obsidian/template/meeting.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:13.112Z","args":["Task completed [128/148] 02Area/工具/obsidian/template/meeting.md",{"taskName":"上传","taskPath":"02Area/工具/obsidian/template/meeting.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:13.122Z","args":["Executing task [129/148] 02Area/工具/obsidian/template/memos-api.md",{"taskName":"上传","taskPath":"02Area/工具/obsidian/template/memos-api.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:13.400Z","args":["Task completed [129/148] 02Area/工具/obsidian/template/memos-api.md",{"taskName":"上传","taskPath":"02Area/工具/obsidian/template/memos-api.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:13.409Z","args":["Executing task [130/148] 02Area/工具/obsidian/template/monthly.md",{"taskName":"上传","taskPath":"02Area/工具/obsidian/template/monthly.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:13.819Z","args":["Task completed [130/148] 02Area/工具/obsidian/template/monthly.md",{"taskName":"上传","taskPath":"02Area/工具/obsidian/template/monthly.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:13.829Z","args":["Executing task [131/148] 02Area/工具/obsidian/template/obsidian日记方案.md",{"taskName":"上传","taskPath":"02Area/工具/obsidian/template/obsidian日记方案.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:14.119Z","args":["Task completed [131/148] 02Area/工具/obsidian/template/obsidian日记方案.md",{"taskName":"上传","taskPath":"02Area/工具/obsidian/template/obsidian日记方案.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:14.128Z","args":["Executing task [132/148] 02Area/工具/obsidian/template/quarterly.md",{"taskName":"上传","taskPath":"02Area/工具/obsidian/template/quarterly.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:14.408Z","args":["Task completed [132/148] 02Area/工具/obsidian/template/quarterly.md",{"taskName":"上传","taskPath":"02Area/工具/obsidian/template/quarterly.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:14.418Z","args":["Executing task [133/148] 02Area/工具/obsidian/template/select_section.md",{"taskName":"上传","taskPath":"02Area/工具/obsidian/template/select_section.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:14.631Z","args":["Task completed [133/148] 02Area/工具/obsidian/template/select_section.md",{"taskName":"上传","taskPath":"02Area/工具/obsidian/template/select_section.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:14.641Z","args":["Executing task [134/148] 02Area/工具/obsidian/template/set_cursor_position.md",{"taskName":"上传","taskPath":"02Area/工具/obsidian/template/set_cursor_position.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:15.153Z","args":["Task completed [134/148] 02Area/工具/obsidian/template/set_cursor_position.md",{"taskName":"上传","taskPath":"02Area/工具/obsidian/template/set_cursor_position.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:15.164Z","args":["Executing task [135/148] 02Area/工具/obsidian/template/templify-四象限模板.md",{"taskName":"上传","taskPath":"02Area/工具/obsidian/template/templify-四象限模板.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:15.550Z","args":["Task completed [135/148] 02Area/工具/obsidian/template/templify-四象限模板.md",{"taskName":"上传","taskPath":"02Area/工具/obsidian/template/templify-四象限模板.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:15.559Z","args":["Executing task [136/148] 02Area/工具/obsidian/template/weekly-gdd-dataview.md",{"taskName":"上传","taskPath":"02Area/工具/obsidian/template/weekly-gdd-dataview.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:15.815Z","args":["Task completed [136/148] 02Area/工具/obsidian/template/weekly-gdd-dataview.md",{"taskName":"上传","taskPath":"02Area/工具/obsidian/template/weekly-gdd-dataview.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:15.825Z","args":["Executing task [137/148] 02Area/工具/obsidian/template/weekly-gdd-template.md",{"taskName":"上传","taskPath":"02Area/工具/obsidian/template/weekly-gdd-template.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:16.156Z","args":["Task completed [137/148] 02Area/工具/obsidian/template/weekly-gdd-template.md",{"taskName":"上传","taskPath":"02Area/工具/obsidian/template/weekly-gdd-template.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:16.166Z","args":["Executing task [138/148] 02Area/工具/obsidian/template/weekly.md",{"taskName":"上传","taskPath":"02Area/工具/obsidian/template/weekly.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:16.420Z","args":["Task completed [138/148] 02Area/工具/obsidian/template/weekly.md",{"taskName":"上传","taskPath":"02Area/工具/obsidian/template/weekly.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:16.429Z","args":["Executing task [139/148] 02Area/工具/obsidian/template/yesterday-tasks-undo.md",{"taskName":"上传","taskPath":"02Area/工具/obsidian/template/yesterday-tasks-undo.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:16.888Z","args":["Task completed [139/148] 02Area/工具/obsidian/template/yesterday-tasks-undo.md",{"taskName":"上传","taskPath":"02Area/工具/obsidian/template/yesterday-tasks-undo.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:16.900Z","args":["Executing task [140/148] 02Area/工具/obsidian/template/微信公众号封面设计-1.html",{"taskName":"上传","taskPath":"02Area/工具/obsidian/template/微信公众号封面设计-1.html"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:17.155Z","args":["Task completed [140/148] 02Area/工具/obsidian/template/微信公众号封面设计-1.html",{"taskName":"上传","taskPath":"02Area/工具/obsidian/template/微信公众号封面设计-1.html","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:17.165Z","args":["Executing task [141/148] 02Area/工具/obsidian/template/月总结.md",{"taskName":"上传","taskPath":"02Area/工具/obsidian/template/月总结.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:17.432Z","args":["Task completed [141/148] 02Area/工具/obsidian/template/月总结.md",{"taskName":"上传","taskPath":"02Area/工具/obsidian/template/月总结.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:17.441Z","args":["Executing task [142/148] 02Area/工具/obsidian/template/穴位.md",{"taskName":"上传","taskPath":"02Area/工具/obsidian/template/穴位.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:18.071Z","args":["Task completed [142/148] 02Area/工具/obsidian/template/穴位.md",{"taskName":"上传","taskPath":"02Area/工具/obsidian/template/穴位.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:18.084Z","args":["Executing task [143/148] 02Area/工具/obsidian/scripts/scripts/get_date.js",{"taskName":"上传","taskPath":"02Area/工具/obsidian/scripts/scripts/get_date.js"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:18.376Z","args":["Task completed [143/148] 02Area/工具/obsidian/scripts/scripts/get_date.js",{"taskName":"上传","taskPath":"02Area/工具/obsidian/scripts/scripts/get_date.js","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:18.386Z","args":["Executing task [144/148] 02Area/工具/obsidian/scripts/scripts/get_poem.js",{"taskName":"上传","taskPath":"02Area/工具/obsidian/scripts/scripts/get_poem.js"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:18.605Z","args":["Task completed [144/148] 02Area/工具/obsidian/scripts/scripts/get_poem.js",{"taskName":"上传","taskPath":"02Area/工具/obsidian/scripts/scripts/get_poem.js","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:18.617Z","args":["Executing task [145/148] 02Area/工具/obsidian/scripts/scripts/get_sentence.js",{"taskName":"上传","taskPath":"02Area/工具/obsidian/scripts/scripts/get_sentence.js"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:18.906Z","args":["Task completed [145/148] 02Area/工具/obsidian/scripts/scripts/get_sentence.js",{"taskName":"上传","taskPath":"02Area/工具/obsidian/scripts/scripts/get_sentence.js","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:18.916Z","args":["Executing task [146/148] 02Area/工具/obsidian/scripts/scripts/get_today_history.js",{"taskName":"上传","taskPath":"02Area/工具/obsidian/scripts/scripts/get_today_history.js"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:19.201Z","args":["Task completed [146/148] 02Area/工具/obsidian/scripts/scripts/get_today_history.js",{"taskName":"上传","taskPath":"02Area/工具/obsidian/scripts/scripts/get_today_history.js","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:19.209Z","args":["Executing task [147/148] 02Area/工具/obsidian/scripts/scripts/get_weather.js",{"taskName":"上传","taskPath":"02Area/工具/obsidian/scripts/scripts/get_weather.js"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:19.489Z","args":["Task completed [147/148] 02Area/工具/obsidian/scripts/scripts/get_weather.js",{"taskName":"上传","taskPath":"02Area/工具/obsidian/scripts/scripts/get_weather.js","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:19.499Z","args":["Executing task [148/148] 02Area/工具/obsidian/scripts/scripts/memos.js",{"taskName":"上传","taskPath":"02Area/工具/obsidian/scripts/scripts/memos.js"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:19.738Z","args":["Task completed [148/148] 02Area/工具/obsidian/scripts/scripts/memos.js",{"taskName":"上传","taskPath":"02Area/工具/obsidian/scripts/scripts/memos.js","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:19.748Z","args":["All tasks execution completed",{"totalTasks":148,"successCount":148,"failedCount":0}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:19.942Z","args":["tasks result",[{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true},{"success":true}],"failed:",0],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:18:21.719Z","args":["Records saving completed",{"recordsSize":148,"elapsedMs":740}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:22:02.585Z","args":["local Stats",[{"path":".gitignore","size":407,"isDir":false},{"path":"2025-05-09.md","size":1828,"isDir":false},{"path":"2025-05-11.md","size":1826,"isDir":false},{"path":"2025-05-12.md","size":1828,"isDir":false},{"path":"2025-05-14.md","size":1828,"isDir":false},{"path":"2025-05-15.md","size":1828,"isDir":false},{"path":"2025-05-16.md","size":1828,"isDir":false},{"path":"2025-05-17.md","size":1849,"isDir":false},{"path":"Inbox.md","size":150,"isDir":false},{"path":"Obsidian AI.md","size":7385,"isDir":false},{"path":"待办.md","size":4978,"isDir":false},{"path":"知识体系的开始.md","size":682,"isDir":false},{"path":"知识整理.md","size":5235,"isDir":false},{"path":".sync","size":4096,"isDir":true},{"path":"02Area","size":4096,"isDir":true},{"path":"script","size":4096,"isDir":true},{"path":"template","size":4096,"isDir":true},{"path":"未归档","size":4096,"isDir":true},{"path":".obsidian/bookmarks.json","size":1221,"isDir":false},{"path":".sync/ID","size":28,"isDir":false},{"path":".sync/IgnoreList","size":761,"isDir":false},{"path":".sync/StreamsList","size":275,"isDir":false},{"path":".sync/root_acl_entry","size":0,"isDir":false},{"path":".sync/Archive","size":4096,"isDir":true},{"path":"02Area/工具","size":4096,"isDir":true},{"path":"script/get_date.js","size":948,"isDir":false},{"path":"script/get_poem.js","size":707,"isDir":false},{"path":"script/get_sentence.js","size":1016,"isDir":false},{"path":"script/get_today_history.js","size":565,"isDir":false},{"path":"script/get_weather.js","size":635,"isDir":false},{"path":"script/image-converter 导出时 -pandoc 如何不显示图片的 alt.md","size":1052,"isDir":false},{"path":"script/memos.js","size":1742,"isDir":false},{"path":"script/no-image-alt.lua","size":118,"isDir":false},{"path":"script/obsidian日记方案.md","size":899,"isDir":false},{"path":"script/pull.sh","size":257,"isDir":false},{"path":"script/push.sh","size":202,"isDir":false},{"path":"script/quickadd_open.js","size":948,"isDir":false},{"path":"template/SearchEngineBook.md","size":94,"isDir":false},{"path":"template/calendar.md","size":235,"isDir":false},{"path":"template/diary.md","size":1849,"isDir":false},{"path":"template/habitat.md","size":83,"isDir":false},{"path":"template/meeting.md","size":250,"isDir":false},{"path":"template/memos-api.md","size":596,"isDir":false},{"path":"template/monthly.md","size":19833,"isDir":false},{"path":"template/quarterly.md","size":178,"isDir":false},{"path":"template/reading.md","size":130,"isDir":false},{"path":"template/select_section.md","size":1235,"isDir":false},{"path":"template/set_cursor_position.md","size":1239,"isDir":false},{"path":"template/tasks.md","size":145,"isDir":false},{"path":"template/templify-四象限模板.md","size":150,"isDir":false},{"path":"template/weekly-gdd-dataview.md","size":2162,"isDir":false},{"path":"template/weekly-gdd-template.md","size":3564,"isDir":false},{"path":"template/weekly.md","size":15592,"isDir":false},{"path":"template/yesterday-tasks-undo.md","size":3142,"isDir":false},{"path":"template/月总结.md","size":335,"isDir":false},{"path":"template/穴位.md","size":95,"isDir":false},{"path":"未归档/AI Agent（智能体）世界的“USB”与“Email”！MCP与ANP如何重塑智能体互联网？.md","size":8017,"isDir":false},{"path":"未归档/DeepseekV3生成公众号封面.md","size":6290,"isDir":false},{"path":"未归档/Fold 'N Fly » Paper Airplane Folding Instructions.md","size":13059,"isDir":false},{"path":"未归档/Markor和Obsidian的对比.md","size":9997,"isDir":false},{"path":"未归档/Obsidian 通过 Git 实现全平台自动同步.md","size":10229,"isDir":false},{"path":"未归档/Resilio sync同步Obsidian笔记 - 天一生水.md","size":9166,"isDir":false},{"path":"未归档/一套提示词帮你实现小红书、公众号封面自由，Deepseek V3也能用！.md","size":38614,"isDir":false},{"path":"未归档/公众号双封面设置.md","size":3976,"isDir":false},{"path":"未归档/可能是目前最好的 AI 生成 PPT 方案.md","size":9395,"isDir":false},{"path":"未归档/思维力.md","size":1306,"isDir":false},{"path":"未归档/我的笔记流，基于dailynote和双链的无压记录.md","size":9815,"isDir":false},{"path":"未归档/知识管理  如何在 Obsidian 笔记中嵌入可编辑的内容块.md","size":7366,"isDir":false},{"path":"未归档/assets","size":4096,"isDir":true},{"path":"02Area/工具/obsidian","size":4096,"isDir":true},{"path":"未归档/assets/DeepseekV3生成公众号封面","size":4096,"isDir":true},{"path":"未归档/assets/公众号双封面设置","size":4096,"isDir":true},{"path":"未归档/assets/思维力","size":4096,"isDir":true},{"path":"02Area/工具/obsidian/scripts","size":4096,"isDir":true},{"path":"02Area/工具/obsidian/template","size":4096,"isDir":true},{"path":"未归档/assets/DeepseekV3生成公众号封面/0570b2bf3a1c5c52402744ddec50ee6d_MD5.webp","size":68834,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/15dda55152418a7830f1069e02cff8ed_MD5.webp","size":55172,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/2240c21b185a768edbb226c6d9748a15_MD5.webp","size":20320,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/292737fb53e5c7d2bf9425c1f4ae0a39_MD5.webp","size":38720,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/3f39914ed6799e26201af2b6d71d65ea_MD5.webp","size":53062,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/4799f7020e239c67892ed0e385d5363a_MD5.webp","size":27852,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/4ec28725a24cc06ca62ff7e071769788_MD5.webp","size":45122,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/54648e9162333cef4e74feea6ab68889_MD5.webp","size":18886,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/6e3eada419a7036b17ebbc5e61897a55_MD5.webp","size":38828,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/7731242a9d9c616ecdcf644e27742a3a_MD5.webp","size":87920,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/99bfdfe3740748b245f20f63680cce96_MD5.webp","size":17778,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/9f1120b2121d952f032ff33bc1052401_MD5.webp","size":270956,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/a4211519b95fca7168f9b8a03ea616a4_MD5.webp","size":37832,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/a4d5a54a0cddc928bd47cca4312bf7f5_MD5.webp","size":32132,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/a62c96820fe50e869bb0a067ba01209b_MD5.webp","size":23980,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/baaaa476fdc30f0e3bb9af105a648bf9_MD5.webp","size":57478,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/bc4fc9d88b77bea794cdd68ddf81d26c_MD5.webp","size":27248,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/ce6f5f806520db516827457d949705c2_MD5.webp","size":38260,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/d41a97fd866d31bdd5c3fe3f15cdddd6_MD5.webp","size":29894,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/db9c5d46feac4914126a4ed4f97b4762_MD5.webp","size":29530,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/e655d6de70f421502a749b3029eb3d65_MD5.webp","size":66690,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/e6e6090930c390889238e04033496bee_MD5.webp","size":63732,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/f404a6ec2f4c045df7829db8ac5b3a70_MD5.webp","size":32930,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/f4a6ed0f5edb34414a32f51468c92bc6_MD5.webp","size":37092,"isDir":false},{"path":"未归档/assets/公众号双封面设置/公众号双封面设置-20250423092950.gif","size":6284,"isDir":false},{"path":"未归档/assets/公众号双封面设置/公众号双封面设置-20250423092950.webp","size":15322,"isDir":false},{"path":"未归档/assets/公众号双封面设置/公众号双封面设置-20250423092950__1.webp","size":25248,"isDir":false},{"path":"未归档/assets/公众号双封面设置/公众号双封面设置-20250423092951.gif","size":1396273,"isDir":false},{"path":"未归档/assets/公众号双封面设置/公众号双封面设置-20250423092951.webp","size":24162,"isDir":false},{"path":"未归档/assets/公众号双封面设置/公众号双封面设置-20250423092952.gif","size":784193,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934.webp","size":37352,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__1.webp","size":57958,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__10.webp","size":61810,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__11.webp","size":58546,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__12.webp","size":46440,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__13.webp","size":41662,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__14.webp","size":45122,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__2.webp","size":33508,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__3.webp","size":57682,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__4.webp","size":52252,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__5.webp","size":57210,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__6.webp","size":40680,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__7.webp","size":35622,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__8.webp","size":37962,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__9.webp","size":39846,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092955.webp","size":22226,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092955__1.webp","size":33244,"isDir":false},{"path":"02Area/工具/obsidian/scripts/scripts","size":4096,"isDir":true},{"path":"02Area/工具/obsidian/template/calendar.md","size":235,"isDir":false},{"path":"02Area/工具/obsidian/template/diary.md","size":330,"isDir":false},{"path":"02Area/工具/obsidian/template/image-converter 导出时 -pandoc 如何不显示图片的 alt.md","size":1052,"isDir":false},{"path":"02Area/工具/obsidian/template/meeting.md","size":250,"isDir":false},{"path":"02Area/工具/obsidian/template/memos-api.md","size":596,"isDir":false},{"path":"02Area/工具/obsidian/template/monthly.md","size":19704,"isDir":false},{"path":"02Area/工具/obsidian/template/obsidian日记方案.md","size":1008,"isDir":false},{"path":"02Area/工具/obsidian/template/quarterly.md","size":178,"isDir":false},{"path":"02Area/工具/obsidian/template/select_section.md","size":1235,"isDir":false},{"path":"02Area/工具/obsidian/template/set_cursor_position.md","size":1239,"isDir":false},{"path":"02Area/工具/obsidian/template/templify-四象限模板.md","size":150,"isDir":false},{"path":"02Area/工具/obsidian/template/weekly-gdd-dataview.md","size":2162,"isDir":false},{"path":"02Area/工具/obsidian/template/weekly-gdd-template.md","size":3564,"isDir":false},{"path":"02Area/工具/obsidian/template/weekly.md","size":1654,"isDir":false},{"path":"02Area/工具/obsidian/template/yesterday-tasks-undo.md","size":0,"isDir":false},{"path":"02Area/工具/obsidian/template/微信公众号封面设计-1.html","size":9130,"isDir":false},{"path":"02Area/工具/obsidian/template/月总结.md","size":335,"isDir":false},{"path":"02Area/工具/obsidian/template/穴位.md","size":95,"isDir":false},{"path":"02Area/工具/obsidian/scripts/scripts/get_date.js","size":948,"isDir":false},{"path":"02Area/工具/obsidian/scripts/scripts/get_poem.js","size":707,"isDir":false},{"path":"02Area/工具/obsidian/scripts/scripts/get_sentence.js","size":1016,"isDir":false},{"path":"02Area/工具/obsidian/scripts/scripts/get_today_history.js","size":565,"isDir":false},{"path":"02Area/工具/obsidian/scripts/scripts/get_weather.js","size":635,"isDir":false},{"path":"02Area/工具/obsidian/scripts/scripts/memos.js","size":1742,"isDir":false},{"path":".obsidian","size":4096,"isDir":true}]],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:22:02.585Z","args":["remote Stats",[{"path":".sync","size":0,"isDir":true},{"path":"02Area","size":0,"isDir":true},{"path":"script","size":0,"isDir":true},{"path":"template","size":0,"isDir":true},{"path":"未归档","size":0,"isDir":true},{"path":".sync/Archive","size":0,"isDir":true},{"path":"02Area/工具","size":0,"isDir":true},{"path":"未归档/assets","size":0,"isDir":true},{"path":"02Area/工具/obsidian","size":0,"isDir":true},{"path":"未归档/assets/DeepseekV3生成公众号封面","size":0,"isDir":true},{"path":"未归档/assets/公众号双封面设置","size":0,"isDir":true},{"path":"未归档/assets/思维力","size":0,"isDir":true},{"path":"02Area/工具/obsidian/scripts","size":0,"isDir":true},{"path":"02Area/工具/obsidian/template","size":0,"isDir":true},{"path":"02Area/工具/obsidian/scripts/scripts","size":0,"isDir":true},{"path":".gitignore","size":407,"isDir":false},{"path":"2025-05-09.md","size":1828,"isDir":false},{"path":"2025-05-11.md","size":1826,"isDir":false},{"path":"2025-05-12.md","size":1828,"isDir":false},{"path":"2025-05-14.md","size":1828,"isDir":false},{"path":"2025-05-15.md","size":1828,"isDir":false},{"path":"2025-05-16.md","size":1828,"isDir":false},{"path":"2025-05-17.md","size":1849,"isDir":false},{"path":"Inbox.md","size":150,"isDir":false},{"path":"Obsidian AI.md","size":7385,"isDir":false},{"path":"待办.md","size":4978,"isDir":false},{"path":"知识体系的开始.md","size":682,"isDir":false},{"path":"知识整理.md","size":5235,"isDir":false},{"path":".obsidian/bookmarks.json","size":1221,"isDir":false},{"path":".sync/ID","size":28,"isDir":false},{"path":".sync/IgnoreList","size":761,"isDir":false},{"path":".sync/StreamsList","size":275,"isDir":false},{"path":".sync/root_acl_entry","size":0,"isDir":false},{"path":"script/get_date.js","size":948,"isDir":false},{"path":"script/get_poem.js","size":707,"isDir":false},{"path":"script/get_sentence.js","size":1016,"isDir":false},{"path":"script/get_today_history.js","size":565,"isDir":false},{"path":"script/get_weather.js","size":635,"isDir":false},{"path":"script/image-converter 导出时 -pandoc 如何不显示图片的 alt.md","size":1052,"isDir":false},{"path":"script/memos.js","size":1742,"isDir":false},{"path":"script/no-image-alt.lua","size":118,"isDir":false},{"path":"script/obsidian日记方案.md","size":899,"isDir":false},{"path":"script/pull.sh","size":257,"isDir":false},{"path":"script/push.sh","size":202,"isDir":false},{"path":"script/quickadd_open.js","size":948,"isDir":false},{"path":"template/SearchEngineBook.md","size":94,"isDir":false},{"path":"template/calendar.md","size":235,"isDir":false},{"path":"template/diary.md","size":1849,"isDir":false},{"path":"template/habitat.md","size":83,"isDir":false},{"path":"template/meeting.md","size":250,"isDir":false},{"path":"template/memos-api.md","size":596,"isDir":false},{"path":"template/monthly.md","size":19833,"isDir":false},{"path":"template/quarterly.md","size":178,"isDir":false},{"path":"template/reading.md","size":130,"isDir":false},{"path":"template/select_section.md","size":1235,"isDir":false},{"path":"template/set_cursor_position.md","size":1239,"isDir":false},{"path":"template/tasks.md","size":145,"isDir":false},{"path":"template/templify-四象限模板.md","size":150,"isDir":false},{"path":"template/weekly-gdd-dataview.md","size":2162,"isDir":false},{"path":"template/weekly-gdd-template.md","size":3564,"isDir":false},{"path":"template/weekly.md","size":15592,"isDir":false},{"path":"template/yesterday-tasks-undo.md","size":3142,"isDir":false},{"path":"template/月总结.md","size":335,"isDir":false},{"path":"template/穴位.md","size":95,"isDir":false},{"path":"未归档/AI Agent（智能体）世界的“USB”与“Email”！MCP与ANP如何重塑智能体互联网？.md","size":8017,"isDir":false},{"path":"未归档/DeepseekV3生成公众号封面.md","size":6290,"isDir":false},{"path":"未归档/Fold 'N Fly » Paper Airplane Folding Instructions.md","size":13059,"isDir":false},{"path":"未归档/Markor和Obsidian的对比.md","size":9997,"isDir":false},{"path":"未归档/Obsidian 通过 Git 实现全平台自动同步.md","size":10229,"isDir":false},{"path":"未归档/Resilio sync同步Obsidian笔记 - 天一生水.md","size":9166,"isDir":false},{"path":"未归档/一套提示词帮你实现小红书、公众号封面自由，Deepseek V3也能用！.md","size":38614,"isDir":false},{"path":"未归档/公众号双封面设置.md","size":3976,"isDir":false},{"path":"未归档/可能是目前最好的 AI 生成 PPT 方案.md","size":9395,"isDir":false},{"path":"未归档/思维力.md","size":1306,"isDir":false},{"path":"未归档/我的笔记流，基于dailynote和双链的无压记录.md","size":9815,"isDir":false},{"path":"未归档/知识管理  如何在 Obsidian 笔记中嵌入可编辑的内容块.md","size":7366,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/0570b2bf3a1c5c52402744ddec50ee6d_MD5.webp","size":68834,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/15dda55152418a7830f1069e02cff8ed_MD5.webp","size":55172,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/2240c21b185a768edbb226c6d9748a15_MD5.webp","size":20320,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/292737fb53e5c7d2bf9425c1f4ae0a39_MD5.webp","size":38720,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/3f39914ed6799e26201af2b6d71d65ea_MD5.webp","size":53062,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/4799f7020e239c67892ed0e385d5363a_MD5.webp","size":27852,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/4ec28725a24cc06ca62ff7e071769788_MD5.webp","size":45122,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/54648e9162333cef4e74feea6ab68889_MD5.webp","size":18886,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/6e3eada419a7036b17ebbc5e61897a55_MD5.webp","size":38828,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/7731242a9d9c616ecdcf644e27742a3a_MD5.webp","size":87920,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/99bfdfe3740748b245f20f63680cce96_MD5.webp","size":17778,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/9f1120b2121d952f032ff33bc1052401_MD5.webp","size":270956,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/a4211519b95fca7168f9b8a03ea616a4_MD5.webp","size":37832,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/a4d5a54a0cddc928bd47cca4312bf7f5_MD5.webp","size":32132,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/a62c96820fe50e869bb0a067ba01209b_MD5.webp","size":23980,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/baaaa476fdc30f0e3bb9af105a648bf9_MD5.webp","size":57478,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/bc4fc9d88b77bea794cdd68ddf81d26c_MD5.webp","size":27248,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/ce6f5f806520db516827457d949705c2_MD5.webp","size":38260,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/d41a97fd866d31bdd5c3fe3f15cdddd6_MD5.webp","size":29894,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/db9c5d46feac4914126a4ed4f97b4762_MD5.webp","size":29530,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/e655d6de70f421502a749b3029eb3d65_MD5.webp","size":66690,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/e6e6090930c390889238e04033496bee_MD5.webp","size":63732,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/f404a6ec2f4c045df7829db8ac5b3a70_MD5.webp","size":32930,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/f4a6ed0f5edb34414a32f51468c92bc6_MD5.webp","size":37092,"isDir":false},{"path":"未归档/assets/公众号双封面设置/公众号双封面设置-20250423092950.gif","size":6284,"isDir":false},{"path":"未归档/assets/公众号双封面设置/公众号双封面设置-20250423092950.webp","size":15322,"isDir":false},{"path":"未归档/assets/公众号双封面设置/公众号双封面设置-20250423092950__1.webp","size":25248,"isDir":false},{"path":"未归档/assets/公众号双封面设置/公众号双封面设置-20250423092951.gif","size":1396273,"isDir":false},{"path":"未归档/assets/公众号双封面设置/公众号双封面设置-20250423092951.webp","size":24162,"isDir":false},{"path":"未归档/assets/公众号双封面设置/公众号双封面设置-20250423092952.gif","size":784193,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934.webp","size":37352,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__1.webp","size":57958,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__10.webp","size":61810,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__11.webp","size":58546,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__12.webp","size":46440,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__13.webp","size":41662,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__14.webp","size":45122,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__2.webp","size":33508,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__3.webp","size":57682,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__4.webp","size":52252,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__5.webp","size":57210,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__6.webp","size":40680,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__7.webp","size":35622,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__8.webp","size":37962,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__9.webp","size":39846,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092955.webp","size":22226,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092955__1.webp","size":33244,"isDir":false},{"path":"02Area/工具/obsidian/template/calendar.md","size":235,"isDir":false},{"path":"02Area/工具/obsidian/template/diary.md","size":330,"isDir":false},{"path":"02Area/工具/obsidian/template/image-converter 导出时 -pandoc 如何不显示图片的 alt.md","size":1052,"isDir":false},{"path":"02Area/工具/obsidian/template/meeting.md","size":250,"isDir":false},{"path":"02Area/工具/obsidian/template/memos-api.md","size":596,"isDir":false},{"path":"02Area/工具/obsidian/template/monthly.md","size":19704,"isDir":false},{"path":"02Area/工具/obsidian/template/obsidian日记方案.md","size":1008,"isDir":false},{"path":"02Area/工具/obsidian/template/quarterly.md","size":178,"isDir":false},{"path":"02Area/工具/obsidian/template/select_section.md","size":1235,"isDir":false},{"path":"02Area/工具/obsidian/template/set_cursor_position.md","size":1239,"isDir":false},{"path":"02Area/工具/obsidian/template/templify-四象限模板.md","size":150,"isDir":false},{"path":"02Area/工具/obsidian/template/weekly-gdd-dataview.md","size":2162,"isDir":false},{"path":"02Area/工具/obsidian/template/weekly-gdd-template.md","size":3564,"isDir":false},{"path":"02Area/工具/obsidian/template/weekly.md","size":1654,"isDir":false},{"path":"02Area/工具/obsidian/template/yesterday-tasks-undo.md","size":0,"isDir":false},{"path":"02Area/工具/obsidian/template/微信公众号封面设计-1.html","size":9130,"isDir":false},{"path":"02Area/工具/obsidian/template/月总结.md","size":335,"isDir":false},{"path":"02Area/工具/obsidian/template/穴位.md","size":95,"isDir":false},{"path":"02Area/工具/obsidian/scripts/scripts/get_date.js","size":948,"isDir":false},{"path":"02Area/工具/obsidian/scripts/scripts/get_poem.js","size":707,"isDir":false},{"path":"02Area/工具/obsidian/scripts/scripts/get_sentence.js","size":1016,"isDir":false},{"path":"02Area/工具/obsidian/scripts/scripts/get_today_history.js","size":565,"isDir":false},{"path":"02Area/工具/obsidian/scripts/scripts/get_weather.js","size":635,"isDir":false},{"path":"02Area/工具/obsidian/scripts/scripts/memos.js","size":1742,"isDir":false},{"path":".obsidian","size":0,"isDir":true}]],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:26:06.258Z","args":["local Stats",[{"path":".gitignore","size":407,"isDir":false},{"path":"2025-05-09.md","size":1828,"isDir":false},{"path":"2025-05-11.md","size":1826,"isDir":false},{"path":"2025-05-12.md","size":1828,"isDir":false},{"path":"2025-05-14.md","size":1828,"isDir":false},{"path":"2025-05-15.md","size":1828,"isDir":false},{"path":"2025-05-16.md","size":1828,"isDir":false},{"path":"2025-05-17.md","size":1849,"isDir":false},{"path":"Inbox.md","size":150,"isDir":false},{"path":"Obsidian AI.md","size":7385,"isDir":false},{"path":"待办.md","size":4978,"isDir":false},{"path":"知识体系的开始.md","size":682,"isDir":false},{"path":"知识整理.md","size":5235,"isDir":false},{"path":".sync","size":4096,"isDir":true},{"path":"02Area","size":4096,"isDir":true},{"path":"script","size":4096,"isDir":true},{"path":"template","size":4096,"isDir":true},{"path":"未归档","size":4096,"isDir":true},{"path":".obsidian/bookmarks.json","size":1221,"isDir":false},{"path":".sync/ID","size":28,"isDir":false},{"path":".sync/IgnoreList","size":761,"isDir":false},{"path":".sync/StreamsList","size":275,"isDir":false},{"path":".sync/root_acl_entry","size":0,"isDir":false},{"path":".sync/Archive","size":4096,"isDir":true},{"path":"02Area/工具","size":4096,"isDir":true},{"path":"script/get_date.js","size":948,"isDir":false},{"path":"script/get_poem.js","size":707,"isDir":false},{"path":"script/get_sentence.js","size":1016,"isDir":false},{"path":"script/get_today_history.js","size":565,"isDir":false},{"path":"script/get_weather.js","size":635,"isDir":false},{"path":"script/image-converter 导出时 -pandoc 如何不显示图片的 alt.md","size":1052,"isDir":false},{"path":"script/memos.js","size":1742,"isDir":false},{"path":"script/no-image-alt.lua","size":118,"isDir":false},{"path":"script/obsidian日记方案.md","size":899,"isDir":false},{"path":"script/pull.sh","size":257,"isDir":false},{"path":"script/push.sh","size":202,"isDir":false},{"path":"script/quickadd_open.js","size":948,"isDir":false},{"path":"template/SearchEngineBook.md","size":94,"isDir":false},{"path":"template/calendar.md","size":235,"isDir":false},{"path":"template/diary.md","size":1849,"isDir":false},{"path":"template/habitat.md","size":83,"isDir":false},{"path":"template/meeting.md","size":250,"isDir":false},{"path":"template/memos-api.md","size":596,"isDir":false},{"path":"template/monthly.md","size":19833,"isDir":false},{"path":"template/quarterly.md","size":178,"isDir":false},{"path":"template/reading.md","size":130,"isDir":false},{"path":"template/select_section.md","size":1235,"isDir":false},{"path":"template/set_cursor_position.md","size":1239,"isDir":false},{"path":"template/tasks.md","size":145,"isDir":false},{"path":"template/templify-四象限模板.md","size":150,"isDir":false},{"path":"template/weekly-gdd-dataview.md","size":2162,"isDir":false},{"path":"template/weekly-gdd-template.md","size":3564,"isDir":false},{"path":"template/weekly.md","size":15592,"isDir":false},{"path":"template/yesterday-tasks-undo.md","size":3142,"isDir":false},{"path":"template/月总结.md","size":335,"isDir":false},{"path":"template/穴位.md","size":95,"isDir":false},{"path":"未归档/AI Agent（智能体）世界的“USB”与“Email”！MCP与ANP如何重塑智能体互联网？.md","size":8017,"isDir":false},{"path":"未归档/DeepseekV3生成公众号封面.md","size":6290,"isDir":false},{"path":"未归档/Fold 'N Fly » Paper Airplane Folding Instructions.md","size":13059,"isDir":false},{"path":"未归档/Markor和Obsidian的对比.md","size":9997,"isDir":false},{"path":"未归档/Obsidian 通过 Git 实现全平台自动同步.md","size":10229,"isDir":false},{"path":"未归档/Resilio sync同步Obsidian笔记 - 天一生水.md","size":9166,"isDir":false},{"path":"未归档/一套提示词帮你实现小红书、公众号封面自由，Deepseek V3也能用！.md","size":38614,"isDir":false},{"path":"未归档/公众号双封面设置.md","size":3976,"isDir":false},{"path":"未归档/可能是目前最好的 AI 生成 PPT 方案.md","size":9395,"isDir":false},{"path":"未归档/思维力.md","size":1306,"isDir":false},{"path":"未归档/我的笔记流，基于dailynote和双链的无压记录.md","size":9815,"isDir":false},{"path":"未归档/知识管理  如何在 Obsidian 笔记中嵌入可编辑的内容块.md","size":7366,"isDir":false},{"path":"未归档/assets","size":4096,"isDir":true},{"path":"02Area/工具/obsidian","size":4096,"isDir":true},{"path":"未归档/assets/DeepseekV3生成公众号封面","size":4096,"isDir":true},{"path":"未归档/assets/公众号双封面设置","size":4096,"isDir":true},{"path":"未归档/assets/思维力","size":4096,"isDir":true},{"path":"02Area/工具/obsidian/scripts","size":4096,"isDir":true},{"path":"02Area/工具/obsidian/template","size":4096,"isDir":true},{"path":"未归档/assets/DeepseekV3生成公众号封面/0570b2bf3a1c5c52402744ddec50ee6d_MD5.webp","size":68834,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/15dda55152418a7830f1069e02cff8ed_MD5.webp","size":55172,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/2240c21b185a768edbb226c6d9748a15_MD5.webp","size":20320,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/292737fb53e5c7d2bf9425c1f4ae0a39_MD5.webp","size":38720,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/3f39914ed6799e26201af2b6d71d65ea_MD5.webp","size":53062,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/4799f7020e239c67892ed0e385d5363a_MD5.webp","size":27852,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/4ec28725a24cc06ca62ff7e071769788_MD5.webp","size":45122,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/54648e9162333cef4e74feea6ab68889_MD5.webp","size":18886,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/6e3eada419a7036b17ebbc5e61897a55_MD5.webp","size":38828,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/7731242a9d9c616ecdcf644e27742a3a_MD5.webp","size":87920,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/99bfdfe3740748b245f20f63680cce96_MD5.webp","size":17778,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/9f1120b2121d952f032ff33bc1052401_MD5.webp","size":270956,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/a4211519b95fca7168f9b8a03ea616a4_MD5.webp","size":37832,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/a4d5a54a0cddc928bd47cca4312bf7f5_MD5.webp","size":32132,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/a62c96820fe50e869bb0a067ba01209b_MD5.webp","size":23980,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/baaaa476fdc30f0e3bb9af105a648bf9_MD5.webp","size":57478,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/bc4fc9d88b77bea794cdd68ddf81d26c_MD5.webp","size":27248,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/ce6f5f806520db516827457d949705c2_MD5.webp","size":38260,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/d41a97fd866d31bdd5c3fe3f15cdddd6_MD5.webp","size":29894,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/db9c5d46feac4914126a4ed4f97b4762_MD5.webp","size":29530,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/e655d6de70f421502a749b3029eb3d65_MD5.webp","size":66690,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/e6e6090930c390889238e04033496bee_MD5.webp","size":63732,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/f404a6ec2f4c045df7829db8ac5b3a70_MD5.webp","size":32930,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/f4a6ed0f5edb34414a32f51468c92bc6_MD5.webp","size":37092,"isDir":false},{"path":"未归档/assets/公众号双封面设置/公众号双封面设置-20250423092950.gif","size":6284,"isDir":false},{"path":"未归档/assets/公众号双封面设置/公众号双封面设置-20250423092950.webp","size":15322,"isDir":false},{"path":"未归档/assets/公众号双封面设置/公众号双封面设置-20250423092950__1.webp","size":25248,"isDir":false},{"path":"未归档/assets/公众号双封面设置/公众号双封面设置-20250423092951.gif","size":1396273,"isDir":false},{"path":"未归档/assets/公众号双封面设置/公众号双封面设置-20250423092951.webp","size":24162,"isDir":false},{"path":"未归档/assets/公众号双封面设置/公众号双封面设置-20250423092952.gif","size":784193,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934.webp","size":37352,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__1.webp","size":57958,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__10.webp","size":61810,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__11.webp","size":58546,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__12.webp","size":46440,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__13.webp","size":41662,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__14.webp","size":45122,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__2.webp","size":33508,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__3.webp","size":57682,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__4.webp","size":52252,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__5.webp","size":57210,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__6.webp","size":40680,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__7.webp","size":35622,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__8.webp","size":37962,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__9.webp","size":39846,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092955.webp","size":22226,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092955__1.webp","size":33244,"isDir":false},{"path":"02Area/工具/obsidian/scripts/scripts","size":4096,"isDir":true},{"path":"02Area/工具/obsidian/template/calendar.md","size":235,"isDir":false},{"path":"02Area/工具/obsidian/template/diary.md","size":330,"isDir":false},{"path":"02Area/工具/obsidian/template/image-converter 导出时 -pandoc 如何不显示图片的 alt.md","size":1052,"isDir":false},{"path":"02Area/工具/obsidian/template/meeting.md","size":250,"isDir":false},{"path":"02Area/工具/obsidian/template/memos-api.md","size":596,"isDir":false},{"path":"02Area/工具/obsidian/template/monthly.md","size":19704,"isDir":false},{"path":"02Area/工具/obsidian/template/obsidian日记方案.md","size":1008,"isDir":false},{"path":"02Area/工具/obsidian/template/quarterly.md","size":178,"isDir":false},{"path":"02Area/工具/obsidian/template/select_section.md","size":1235,"isDir":false},{"path":"02Area/工具/obsidian/template/set_cursor_position.md","size":1239,"isDir":false},{"path":"02Area/工具/obsidian/template/templify-四象限模板.md","size":150,"isDir":false},{"path":"02Area/工具/obsidian/template/weekly-gdd-dataview.md","size":2162,"isDir":false},{"path":"02Area/工具/obsidian/template/weekly-gdd-template.md","size":3564,"isDir":false},{"path":"02Area/工具/obsidian/template/weekly.md","size":1654,"isDir":false},{"path":"02Area/工具/obsidian/template/yesterday-tasks-undo.md","size":0,"isDir":false},{"path":"02Area/工具/obsidian/template/微信公众号封面设计-1.html","size":9130,"isDir":false},{"path":"02Area/工具/obsidian/template/月总结.md","size":335,"isDir":false},{"path":"02Area/工具/obsidian/template/穴位.md","size":95,"isDir":false},{"path":"02Area/工具/obsidian/scripts/scripts/get_date.js","size":948,"isDir":false},{"path":"02Area/工具/obsidian/scripts/scripts/get_poem.js","size":707,"isDir":false},{"path":"02Area/工具/obsidian/scripts/scripts/get_sentence.js","size":1016,"isDir":false},{"path":"02Area/工具/obsidian/scripts/scripts/get_today_history.js","size":565,"isDir":false},{"path":"02Area/工具/obsidian/scripts/scripts/get_weather.js","size":635,"isDir":false},{"path":"02Area/工具/obsidian/scripts/scripts/memos.js","size":1742,"isDir":false},{"path":".obsidian","size":4096,"isDir":true}]],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:26:06.258Z","args":["remote Stats",[{"path":".sync","size":0,"isDir":true},{"path":"02Area","size":0,"isDir":true},{"path":"script","size":0,"isDir":true},{"path":"template","size":0,"isDir":true},{"path":"未归档","size":0,"isDir":true},{"path":".sync/Archive","size":0,"isDir":true},{"path":"02Area/工具","size":0,"isDir":true},{"path":"未归档/assets","size":0,"isDir":true},{"path":"02Area/工具/obsidian","size":0,"isDir":true},{"path":"未归档/assets/DeepseekV3生成公众号封面","size":0,"isDir":true},{"path":"未归档/assets/公众号双封面设置","size":0,"isDir":true},{"path":"未归档/assets/思维力","size":0,"isDir":true},{"path":"02Area/工具/obsidian/scripts","size":0,"isDir":true},{"path":"02Area/工具/obsidian/template","size":0,"isDir":true},{"path":"02Area/工具/obsidian/scripts/scripts","size":0,"isDir":true},{"path":".gitignore","size":407,"isDir":false},{"path":"2025-05-09.md","size":1828,"isDir":false},{"path":"2025-05-11.md","size":1826,"isDir":false},{"path":"2025-05-12.md","size":1828,"isDir":false},{"path":"2025-05-14.md","size":1828,"isDir":false},{"path":"2025-05-15.md","size":1828,"isDir":false},{"path":"2025-05-16.md","size":1828,"isDir":false},{"path":"Inbox.md","size":150,"isDir":false},{"path":"Obsidian AI.md","size":7385,"isDir":false},{"path":"待办.md","size":4978,"isDir":false},{"path":"知识体系的开始.md","size":701,"isDir":false},{"path":"知识整理.md","size":5235,"isDir":false},{"path":".obsidian/bookmarks.json","size":1221,"isDir":false},{"path":".sync/ID","size":28,"isDir":false},{"path":".sync/IgnoreList","size":761,"isDir":false},{"path":".sync/StreamsList","size":275,"isDir":false},{"path":".sync/root_acl_entry","size":0,"isDir":false},{"path":"script/get_date.js","size":948,"isDir":false},{"path":"script/get_poem.js","size":707,"isDir":false},{"path":"script/get_sentence.js","size":1016,"isDir":false},{"path":"script/get_today_history.js","size":565,"isDir":false},{"path":"script/get_weather.js","size":635,"isDir":false},{"path":"script/image-converter 导出时 -pandoc 如何不显示图片的 alt.md","size":1052,"isDir":false},{"path":"script/memos.js","size":1742,"isDir":false},{"path":"script/no-image-alt.lua","size":118,"isDir":false},{"path":"script/obsidian日记方案.md","size":899,"isDir":false},{"path":"script/pull.sh","size":257,"isDir":false},{"path":"script/push.sh","size":202,"isDir":false},{"path":"script/quickadd_open.js","size":948,"isDir":false},{"path":"template/SearchEngineBook.md","size":94,"isDir":false},{"path":"template/calendar.md","size":235,"isDir":false},{"path":"template/diary.md","size":1849,"isDir":false},{"path":"template/habitat.md","size":83,"isDir":false},{"path":"template/meeting.md","size":250,"isDir":false},{"path":"template/memos-api.md","size":596,"isDir":false},{"path":"template/monthly.md","size":19833,"isDir":false},{"path":"template/quarterly.md","size":178,"isDir":false},{"path":"template/reading.md","size":130,"isDir":false},{"path":"template/select_section.md","size":1235,"isDir":false},{"path":"template/set_cursor_position.md","size":1239,"isDir":false},{"path":"template/tasks.md","size":145,"isDir":false},{"path":"template/templify-四象限模板.md","size":150,"isDir":false},{"path":"template/weekly-gdd-dataview.md","size":2162,"isDir":false},{"path":"template/weekly-gdd-template.md","size":3564,"isDir":false},{"path":"template/weekly.md","size":15592,"isDir":false},{"path":"template/yesterday-tasks-undo.md","size":3142,"isDir":false},{"path":"template/月总结.md","size":335,"isDir":false},{"path":"template/穴位.md","size":95,"isDir":false},{"path":"未归档/AI Agent（智能体）世界的“USB”与“Email”！MCP与ANP如何重塑智能体互联网？.md","size":8017,"isDir":false},{"path":"未归档/DeepseekV3生成公众号封面.md","size":6290,"isDir":false},{"path":"未归档/Fold 'N Fly » Paper Airplane Folding Instructions.md","size":13059,"isDir":false},{"path":"未归档/Markor和Obsidian的对比.md","size":9997,"isDir":false},{"path":"未归档/Obsidian 通过 Git 实现全平台自动同步.md","size":10229,"isDir":false},{"path":"未归档/Resilio sync同步Obsidian笔记 - 天一生水.md","size":9166,"isDir":false},{"path":"未归档/一套提示词帮你实现小红书、公众号封面自由，Deepseek V3也能用！.md","size":38614,"isDir":false},{"path":"未归档/公众号双封面设置.md","size":3976,"isDir":false},{"path":"未归档/可能是目前最好的 AI 生成 PPT 方案.md","size":9395,"isDir":false},{"path":"未归档/思维力.md","size":1306,"isDir":false},{"path":"未归档/我的笔记流，基于dailynote和双链的无压记录.md","size":9815,"isDir":false},{"path":"未归档/知识管理  如何在 Obsidian 笔记中嵌入可编辑的内容块.md","size":7366,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/0570b2bf3a1c5c52402744ddec50ee6d_MD5.webp","size":68834,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/15dda55152418a7830f1069e02cff8ed_MD5.webp","size":55172,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/2240c21b185a768edbb226c6d9748a15_MD5.webp","size":20320,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/292737fb53e5c7d2bf9425c1f4ae0a39_MD5.webp","size":38720,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/3f39914ed6799e26201af2b6d71d65ea_MD5.webp","size":53062,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/4799f7020e239c67892ed0e385d5363a_MD5.webp","size":27852,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/4ec28725a24cc06ca62ff7e071769788_MD5.webp","size":45122,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/54648e9162333cef4e74feea6ab68889_MD5.webp","size":18886,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/6e3eada419a7036b17ebbc5e61897a55_MD5.webp","size":38828,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/7731242a9d9c616ecdcf644e27742a3a_MD5.webp","size":87920,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/99bfdfe3740748b245f20f63680cce96_MD5.webp","size":17778,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/9f1120b2121d952f032ff33bc1052401_MD5.webp","size":270956,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/a4211519b95fca7168f9b8a03ea616a4_MD5.webp","size":37832,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/a4d5a54a0cddc928bd47cca4312bf7f5_MD5.webp","size":32132,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/a62c96820fe50e869bb0a067ba01209b_MD5.webp","size":23980,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/baaaa476fdc30f0e3bb9af105a648bf9_MD5.webp","size":57478,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/bc4fc9d88b77bea794cdd68ddf81d26c_MD5.webp","size":27248,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/ce6f5f806520db516827457d949705c2_MD5.webp","size":38260,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/d41a97fd866d31bdd5c3fe3f15cdddd6_MD5.webp","size":29894,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/db9c5d46feac4914126a4ed4f97b4762_MD5.webp","size":29530,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/e655d6de70f421502a749b3029eb3d65_MD5.webp","size":66690,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/e6e6090930c390889238e04033496bee_MD5.webp","size":63732,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/f404a6ec2f4c045df7829db8ac5b3a70_MD5.webp","size":32930,"isDir":false},{"path":"未归档/assets/DeepseekV3生成公众号封面/f4a6ed0f5edb34414a32f51468c92bc6_MD5.webp","size":37092,"isDir":false},{"path":"未归档/assets/公众号双封面设置/公众号双封面设置-20250423092950.gif","size":6284,"isDir":false},{"path":"未归档/assets/公众号双封面设置/公众号双封面设置-20250423092950.webp","size":15322,"isDir":false},{"path":"未归档/assets/公众号双封面设置/公众号双封面设置-20250423092950__1.webp","size":25248,"isDir":false},{"path":"未归档/assets/公众号双封面设置/公众号双封面设置-20250423092951.gif","size":1396273,"isDir":false},{"path":"未归档/assets/公众号双封面设置/公众号双封面设置-20250423092951.webp","size":24162,"isDir":false},{"path":"未归档/assets/公众号双封面设置/公众号双封面设置-20250423092952.gif","size":784193,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934.webp","size":37352,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__1.webp","size":57958,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__10.webp","size":61810,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__11.webp","size":58546,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__12.webp","size":46440,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__13.webp","size":41662,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__14.webp","size":45122,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__2.webp","size":33508,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__3.webp","size":57682,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__4.webp","size":52252,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__5.webp","size":57210,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__6.webp","size":40680,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__7.webp","size":35622,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__8.webp","size":37962,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092934__9.webp","size":39846,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092955.webp","size":22226,"isDir":false},{"path":"未归档/assets/思维力/思维力-20250423092955__1.webp","size":33244,"isDir":false},{"path":"02Area/工具/obsidian/template/calendar.md","size":235,"isDir":false},{"path":"02Area/工具/obsidian/template/diary.md","size":330,"isDir":false},{"path":"02Area/工具/obsidian/template/image-converter 导出时 -pandoc 如何不显示图片的 alt.md","size":1052,"isDir":false},{"path":"02Area/工具/obsidian/template/meeting.md","size":250,"isDir":false},{"path":"02Area/工具/obsidian/template/memos-api.md","size":596,"isDir":false},{"path":"02Area/工具/obsidian/template/monthly.md","size":19704,"isDir":false},{"path":"02Area/工具/obsidian/template/obsidian日记方案.md","size":1008,"isDir":false},{"path":"02Area/工具/obsidian/template/quarterly.md","size":178,"isDir":false},{"path":"02Area/工具/obsidian/template/select_section.md","size":1235,"isDir":false},{"path":"02Area/工具/obsidian/template/set_cursor_position.md","size":1239,"isDir":false},{"path":"02Area/工具/obsidian/template/templify-四象限模板.md","size":150,"isDir":false},{"path":"02Area/工具/obsidian/template/weekly-gdd-dataview.md","size":2162,"isDir":false},{"path":"02Area/工具/obsidian/template/weekly-gdd-template.md","size":3564,"isDir":false},{"path":"02Area/工具/obsidian/template/weekly.md","size":1654,"isDir":false},{"path":"02Area/工具/obsidian/template/yesterday-tasks-undo.md","size":0,"isDir":false},{"path":"02Area/工具/obsidian/template/微信公众号封面设计-1.html","size":9130,"isDir":false},{"path":"02Area/工具/obsidian/template/月总结.md","size":335,"isDir":false},{"path":"02Area/工具/obsidian/template/穴位.md","size":95,"isDir":false},{"path":"02Area/工具/obsidian/scripts/scripts/get_date.js","size":948,"isDir":false},{"path":"02Area/工具/obsidian/scripts/scripts/get_poem.js","size":707,"isDir":false},{"path":"02Area/工具/obsidian/scripts/scripts/get_sentence.js","size":1016,"isDir":false},{"path":"02Area/工具/obsidian/scripts/scripts/get_today_history.js","size":565,"isDir":false},{"path":"02Area/工具/obsidian/scripts/scripts/get_weather.js","size":635,"isDir":false},{"path":"02Area/工具/obsidian/scripts/scripts/memos.js","size":1742,"isDir":false},{"path":".obsidian","size":0,"isDir":true}]],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:26:06.258Z","args":[{"reason":"local file is removable","remotePath":"/mobile/2025-05-17.md","localPath":"2025-05-17.md","conditions":{"recordExists":true,"remoteExists":false,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:26:06.259Z","args":[{"reason":"remote file changed","remotePath":"/mobile/知识体系的开始.md","localPath":"知识体系的开始.md","conditions":{"remoteChanged":true,"recordExists":true,"remoteExists":true,"localExists":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:26:06.303Z","args":["Starting to execute sync tasks",{"totalTasks":2}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:26:06.303Z","args":["Executing task [1/2] 2025-05-17.md",{"taskName":"删除本地","taskPath":"2025-05-17.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:26:06.520Z","args":["Task completed [1/2] 2025-05-17.md",{"taskName":"删除本地","taskPath":"2025-05-17.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:26:06.521Z","args":["Executing task [2/2] 知识体系的开始.md",{"taskName":"下载","taskPath":"知识体系的开始.md"}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:26:06.722Z","args":["Task completed [2/2] 知识体系的开始.md",{"taskName":"下载","taskPath":"知识体系的开始.md","result":{"success":true}}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:26:06.723Z","args":["All tasks execution completed",{"totalTasks":2,"successCount":2,"failedCount":0}],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:26:06.759Z","args":["tasks result",[{"success":true},{"success":true}],"failed:",0],"type":"debug","level":4,"tag":""}
+
+{"date":"2025-05-17T09:26:07.402Z","args":["Records saving completed",{"recordsSize":148,"elapsedMs":20}],"type":"debug","level":4,"tag":""}

@@ -56,8 +56,81 @@
               "icon": "lucide-file",
               "title": "5W1H模型"
             }
+          },
+          {
+            "id": "e10aaabc20a7920c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diary/2025/Weekly/2025-W20.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-W20"
+            }
+          },
+          {
+            "id": "854bddd6e401008a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Readme"
+            }
+          },
+          {
+            "id": "3d3a374cbf802bdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diary/2025/2025-05-25.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-05-25"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -158,7 +231,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Diary/2025/2025-05-15.md",
+                "file": "Diary/2025/2025-05-25.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -186,7 +259,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "2025-05-15 的关系图"
+              "title": "2025-05-25 的关系图"
             }
           },
           {
@@ -220,13 +293,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md",
+                "file": "Diary/2025/2025-05-25.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Readme 的大纲"
+              "title": "2025-05-25 的大纲"
             }
           },
           {
@@ -272,7 +345,8 @@
               "title": "History"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -295,13 +369,19 @@
       "homepage:Open homepage": false,
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
+      "nutstore-sync:开始同步": false,
+      "nutstore-sync:停止同步": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "30d54119bc0d5d82",
+  "active": "f689610dba371f61",
   "lastOpenFiles": [
-    "02Area/思维模型/5W1H模型.md",
     "Home.md",
+    "Diary/2025/2025-05-25.md",
+    "Readme.md",
+    "Diary/2025/Weekly/2025-W20.md",
+    "Diary/2025/2025-05-16.md",
+    "02Area/思维模型/5W1H模型.md",
     "02Area/思维模型/MECE原则.md",
     "02Area/思维模型/PDCA循环.md",
     "02Area/思维模型/SWOT分析.md",
@@ -316,21 +396,17 @@
     "03Resource/checklist/🏕️ 露营物料清单.md",
     "02Area/02Area.md",
     "03Resource/未归档",
-    "Readme.md",
     "files/xtool-logo.png",
     "files/Readme-index-xtool-csdn-qr-20250406-20250516.png",
     "files",
     "02Area/教程",
     "Diary/Inbox.md",
     "Diary/2025/Monthly/2025-05.md",
-    "Diary/2025/Weekly/2025-W20.md",
     "Diary/2025/2025-05-15.md",
     "Diary/2025/2025-05-14.md",
-    "Diary/2025/2025-05-16.md",
     "Diary/演示内容：周报汇总日记待办.md",
     "Diary/2025/📦 整理夏季出行行李清单2.md",
     "03Resource/工具/obsidian/template/diary.md",
-    "03Resource/工具/obsidian/template/meeting.md",
     "03Resource/工具/obsidian/scripts_quickadd/weekly_memos.js",
     "03Resource/工具/obsidian/scripts_quickadd",
     "03Resource/checklist",
