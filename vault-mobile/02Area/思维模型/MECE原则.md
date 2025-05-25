@@ -1,19 +1,14 @@
 ---
 category: 知识管理
 title: MECE 原则
-aliases:
-  - MECE 原则
+aliases: [MECE 原则]
 description: |-
   MECE原则是一种确保分类逻辑完整且无重叠的方法论。
-
   1. 检查独立性（无重叠）和穷尽性（全覆盖）是核心步骤。
   2. 适用于市场细分、组织设计及问题树构建等场景。
-tags:
-  - 数据结构
-  - 方法论
-  - 知识管理
+tags: [数据结构, 方法论, 知识管理]
 created: 2025-04-28T21:35:33
-updated: 2025-05-18T10:24:05
+updated: 2025-05-25T21:59:13
 draft: true
 ---
 

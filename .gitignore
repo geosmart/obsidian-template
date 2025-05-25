@@ -1,3 +1,4 @@
+**/.obsidian/**/*.log
 **/obsidian/.stfolder/
 **/obsidian/.obsidian/cache
 **/obsidian/.obsidian/workspace.json

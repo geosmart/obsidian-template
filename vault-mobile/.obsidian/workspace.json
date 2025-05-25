@@ -111,7 +111,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/2025/2025-05-25.md",
+                "file": "02Area/思维模型/思维模型.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -126,7 +126,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-05-25"
+              "title": "思维模型"
             }
           }
         ],
@@ -231,7 +231,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Diary/2025/2025-05-25.md",
+                "file": "02Area/思维模型/思维模型.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -259,7 +259,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "2025-05-25 的关系图"
+              "title": "思维模型 的关系图"
             }
           },
           {
@@ -293,46 +293,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2025/2025-05-25.md",
+                "file": "02Area/思维模型/思维模型.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-05-25 的大纲"
-            }
-          },
-          {
-            "id": "eaf735fefbed9c69",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Home.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Home 的反向链接列表"
-            }
-          },
-          {
-            "id": "75a504b6cfea9551",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Home.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Home 的出链列表"
+              "title": "思维模型 的大纲"
             }
           },
           {
@@ -346,7 +313,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -374,16 +341,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f689610dba371f61",
+  "active": "3d3a374cbf802bdb",
   "lastOpenFiles": [
     "Home.md",
     "Diary/2025/2025-05-25.md",
+    "02Area/思维模型/PDCA循环.md",
+    "02Area/思维模型/MECE原则.md",
+    "02Area/教程/Obsidian GTD演示教程.md",
     "Readme.md",
+    "files/xtool-logo.png",
     "Diary/2025/Weekly/2025-W20.md",
     "Diary/2025/2025-05-16.md",
     "02Area/思维模型/5W1H模型.md",
-    "02Area/思维模型/MECE原则.md",
-    "02Area/思维模型/PDCA循环.md",
     "02Area/思维模型/SWOT分析.md",
     "02Area/思维模型/二八法则.md",
     "02Area/思维模型/六顶思考帽.md",
@@ -392,11 +361,9 @@
     "02Area/思维模型/第一性原理.md",
     "02Area/思维模型/逆向思维.md",
     "02Area/思维模型/金字塔原理.md",
-    "02Area/教程/Obsidian GTD演示教程.md",
     "03Resource/checklist/🏕️ 露营物料清单.md",
     "02Area/02Area.md",
     "03Resource/未归档",
-    "files/xtool-logo.png",
     "files/Readme-index-xtool-csdn-qr-20250406-20250516.png",
     "files",
     "02Area/教程",
@@ -406,7 +373,6 @@
     "Diary/2025/2025-05-14.md",
     "Diary/演示内容：周报汇总日记待办.md",
     "Diary/2025/📦 整理夏季出行行李清单2.md",
-    "03Resource/工具/obsidian/template/diary.md",
     "03Resource/工具/obsidian/scripts_quickadd/weekly_memos.js",
     "03Resource/工具/obsidian/scripts_quickadd",
     "03Resource/checklist",
