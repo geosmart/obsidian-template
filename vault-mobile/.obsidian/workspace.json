@@ -109,9 +109,24 @@
             "id": "3d3a374cbf802bdb",
             "type": "leaf",
             "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "vault-mobile/02Area/思维模型/MECE原则.md",
+                "bFile": "vault-mobile/02Area/思维模型/MECE原则.md",
+                "aRef": "1e1078021795bae630075fd606126d44a9b52fdf^",
+                "bRef": "1e1078021795bae630075fd606126d44a9b52fdf"
+              },
+              "icon": "diff",
+              "title": "Diff: MECE原则"
+            }
+          },
+          {
+            "id": "a1038a0399fe4f68",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "02Area/思维模型/思维模型.md",
+                "file": "02Area/思维模型/PDCA循环.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -126,11 +141,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "思维模型"
+              "title": "PDCA循环"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -231,7 +246,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02Area/思维模型/思维模型.md",
+                "file": "02Area/思维模型/PDCA循环.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -259,7 +274,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "思维模型 的关系图"
+              "title": "PDCA循环 的关系图"
             }
           },
           {
@@ -293,13 +308,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02Area/思维模型/思维模型.md",
+                "file": "02Area/思维模型/PDCA循环.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "思维模型 的大纲"
+              "title": "PDCA循环 的大纲"
             }
           },
           {
@@ -313,7 +328,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -341,10 +356,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3d3a374cbf802bdb",
+  "active": "a1038a0399fe4f68",
   "lastOpenFiles": [
-    "Home.md",
+    "02Area/思维模型/逆向思维.md",
+    "02Area/思维模型/金字塔原理.md",
+    "02Area/思维模型/思维模型.md",
     "Diary/2025/2025-05-25.md",
+    "Home.md",
     "02Area/思维模型/PDCA循环.md",
     "02Area/思维模型/MECE原则.md",
     "02Area/教程/Obsidian GTD演示教程.md",
@@ -357,10 +375,7 @@
     "02Area/思维模型/二八法则.md",
     "02Area/思维模型/六顶思考帽.md",
     "02Area/思维模型/思维导图.md",
-    "02Area/思维模型/思维模型.md",
     "02Area/思维模型/第一性原理.md",
-    "02Area/思维模型/逆向思维.md",
-    "02Area/思维模型/金字塔原理.md",
     "03Resource/checklist/🏕️ 露营物料清单.md",
     "02Area/02Area.md",
     "03Resource/未归档",
