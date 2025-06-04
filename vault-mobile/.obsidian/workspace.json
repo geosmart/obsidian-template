@@ -124,9 +124,24 @@
             "id": "a1038a0399fe4f68",
             "type": "leaf",
             "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "vault-mobile/02Area/思维模型/PDCA循环.md",
+                "bFile": "vault-mobile/02Area/思维模型/PDCA循环.md",
+                "aRef": "18a01c97023cefecd60df5528a2ce79b180b299d^",
+                "bRef": "18a01c97023cefecd60df5528a2ce79b180b299d"
+              },
+              "icon": "diff",
+              "title": "Diff: PDCA循环"
+            }
+          },
+          {
+            "id": "ae22b940296d551f",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "02Area/思维模型/PDCA循环.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -141,11 +156,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "PDCA循环"
+              "title": "Home"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -229,24 +244,15 @@
       {
         "id": "6a99a311cc58466d",
         "type": "tabs",
+        "dimension": 25.147347740667975,
         "children": [
-          {
-            "id": "658089a0b325b338",
-            "type": "leaf",
-            "state": {
-              "type": "tasks_timeline_view",
-              "state": {},
-              "icon": "calendar-clock",
-              "title": "Tasks Timeline"
-            }
-          },
           {
             "id": "402a8952cdb75504",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02Area/思维模型/PDCA循环.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -274,7 +280,22 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "PDCA循环 的关系图"
+              "title": "Home 的关系图"
+            }
+          },
+          {
+            "id": "8439d4c35c2dfe22",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Home 的大纲"
             }
           },
           {
@@ -293,31 +314,6 @@
             }
           },
           {
-            "id": "9f20e60f3eefa546",
-            "type": "leaf",
-            "state": {
-              "type": "tasks_timeline_view",
-              "state": {},
-              "icon": "calendar-clock",
-              "title": "Tasks Timeline"
-            }
-          },
-          {
-            "id": "8439d4c35c2dfe22",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "02Area/思维模型/PDCA循环.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "PDCA循环 的大纲"
-            }
-          },
-          {
             "id": "f689610dba371f61",
             "type": "leaf",
             "state": {
@@ -326,9 +322,58 @@
               "icon": "history",
               "title": "History"
             }
+          },
+          {
+            "id": "c8e055165a3f5f4b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Home 的反向链接列表"
+            }
+          },
+          {
+            "id": "a7ecc2902ea35336",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Home 的出链列表"
+            }
           }
-        ],
-        "currentTab": 5
+        ]
+      },
+      {
+        "id": "6900b84294251399",
+        "type": "tabs",
+        "dimension": 74.85265225933202,
+        "children": [
+          {
+            "id": "658089a0b325b338",
+            "type": "leaf",
+            "state": {
+              "type": "tasks_timeline_view",
+              "state": {},
+              "icon": "calendar-clock",
+              "title": "Tasks Timeline"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -356,53 +401,53 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a1038a0399fe4f68",
+  "active": "ae22b940296d551f",
   "lastOpenFiles": [
+    "Diary/2025/2025-05-25.md",
+    "files/xtool-logo.png",
+    "Diary/2025/2025-05-16.md",
+    "Diary/2025/2025-05-15.md",
+    "Diary/2025/Weekly/2025-W20.md",
+    "files",
+    "Diary/2025/Monthly/2025-05.md",
+    "Readme.md",
+    "04Archive",
+    "01Project",
+    "assets/Readme",
+    "assets",
+    "assets/Readme/xtool-logo.png",
+    "Diary/Diary.md",
+    "Home.md",
+    "03Resource/checklist/🏕️ 露营物料清单.md",
+    "02Area/教程/Obsidian GTD演示教程.md",
+    "02Area/思维模型/思维模型.md",
+    "02Area/思维模型/PDCA循环.md",
     "02Area/思维模型/逆向思维.md",
     "02Area/思维模型/金字塔原理.md",
-    "02Area/思维模型/思维模型.md",
-    "Diary/2025/2025-05-25.md",
-    "Home.md",
-    "02Area/思维模型/PDCA循环.md",
     "02Area/思维模型/MECE原则.md",
-    "02Area/教程/Obsidian GTD演示教程.md",
-    "Readme.md",
-    "files/xtool-logo.png",
-    "Diary/2025/Weekly/2025-W20.md",
-    "Diary/2025/2025-05-16.md",
     "02Area/思维模型/5W1H模型.md",
     "02Area/思维模型/SWOT分析.md",
     "02Area/思维模型/二八法则.md",
     "02Area/思维模型/六顶思考帽.md",
     "02Area/思维模型/思维导图.md",
     "02Area/思维模型/第一性原理.md",
-    "03Resource/checklist/🏕️ 露营物料清单.md",
     "02Area/02Area.md",
     "03Resource/未归档",
     "files/Readme-index-xtool-csdn-qr-20250406-20250516.png",
-    "files",
     "02Area/教程",
     "Diary/Inbox.md",
-    "Diary/2025/Monthly/2025-05.md",
-    "Diary/2025/2025-05-15.md",
     "Diary/2025/2025-05-14.md",
     "Diary/演示内容：周报汇总日记待办.md",
-    "Diary/2025/📦 整理夏季出行行李清单2.md",
     "03Resource/工具/obsidian/scripts_quickadd/weekly_memos.js",
     "03Resource/工具/obsidian/scripts_quickadd",
     "03Resource/checklist",
-    "01Project/Blog/content/assets/零门槛实现 Obsidian 多端实时同步：非开发人士也能轻松上手",
     "01Project/Blog/content/assets/零门槛实现 Obsidian 多端实时同步：非开发人士也能轻松上手/零门槛实现 Obsidian 多端实时同步：非开发人士也能轻松上手-image-20250429.png",
-    "01Project/Blog/draft/assets/零门槛实现 Obsidian 多端实时同步：非开发人士也能轻松上手",
     "01Project/Blog/content/assets/MCP协议解读：MCP-Server通信原理（SSE）/MCP协议解读：MCP-Server通信原理（SSE）-image-20250426.png",
-    "01Project/Work/智能体中心/知识库MCP服务",
-    "01Project/Work/知识内容中台/数据采集/稽查案例",
     "01Project/Blog/content/assets/MCP协议解读：MCP-Server通信原理（SSE）/MCP协议解读：MCP-Server通信原理（SSE）-mcp-sse-uml-20250425.png",
     "01Project/Blog/content/assets/MCP协议解读：MCP-Server通信原理（SSE）/MCP协议解读：MCP-Server通信原理（SSE）-Editor _ Mermaid Chart-2025-04-25-130309-20250425.webp",
     "01Project/Blog/content/assets/MCP协议解读：MCP-Server通信原理（SSE）/mcp-sse-flow.jpg.webp",
     "01Project/Blog/content/assets/个人知识库构建 - 剪藏网页内图片一键下载/个人知识库构建 - 剪藏网页内图片一键下载-2025-04-25-09-41-56-20250425.webp",
     "01Project/Blog/content/assets/个人知识库构建 - 剪藏网页内图片一键下载/个人知识库构建 - 实现剪藏文章内图片一键批量下载-image-20250425-1.webp",
-    "01Project/Blog/content/assets/个人知识库构建 - 剪藏网页内图片一键下载/个人知识库构建 - 实现剪藏文章内图片一键批量下载-image-20250425.webp",
     "Diary/2025/未命名.canvas",
     "01Project/税友/知识库/AI搜税/系统设计/知识库-搜索词纠错流程.canvas",
     "01Project/税友/机器学习平台/产品规划/算法平台.canvas",
