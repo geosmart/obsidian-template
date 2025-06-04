@@ -111,9 +111,39 @@
                 "id": "3d3a374cbf802bdb",
                 "type": "leaf",
                 "state": {
+                  "type": "split-diff-view",
+                  "state": {
+                    "aFile": "vault-mobile/02Area/思维模型/MECE原则.md",
+                    "bFile": "vault-mobile/02Area/思维模型/MECE原则.md",
+                    "aRef": "1e1078021795bae630075fd606126d44a9b52fdf^",
+                    "bRef": "1e1078021795bae630075fd606126d44a9b52fdf"
+                  },
+                  "icon": "diff",
+                  "title": "Diff: MECE原则"
+                }
+              },
+              {
+                "id": "a1038a0399fe4f68",
+                "type": "leaf",
+                "state": {
+                  "type": "split-diff-view",
+                  "state": {
+                    "aFile": "vault-mobile/02Area/思维模型/PDCA循环.md",
+                    "bFile": "vault-mobile/02Area/思维模型/PDCA循环.md",
+                    "aRef": "18a01c97023cefecd60df5528a2ce79b180b299d^",
+                    "bRef": "18a01c97023cefecd60df5528a2ce79b180b299d"
+                  },
+                  "icon": "diff",
+                  "title": "Diff: PDCA循环"
+                }
+              },
+              {
+                "id": "ae22b940296d551f",
+                "type": "leaf",
+                "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "02Area/思维模型/思维模型.md",
+                    "file": "Home.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -128,11 +158,11 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "思维模型"
+                  "title": "Home"
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 6
           }
         ],
         "direction": "vertical"
@@ -214,7 +244,7 @@
         "type": "split",
         "children": [
           {
-            "id": "6a99a311cc58466d",
+            "id": "6900b84294251399",
             "type": "tabs",
             "children": [
               {
@@ -226,96 +256,8 @@
                   "icon": "calendar-clock",
                   "title": "Tasks Timeline"
                 }
-              },
-              {
-                "id": "402a8952cdb75504",
-                "type": "leaf",
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "02Area/思维模型/思维模型.md",
-                    "options": {
-                      "collapse-filter": true,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
-                      "collapse-display": true,
-                      "showArrow": false,
-                      "textFadeMultiplier": -3,
-                      "nodeSizeMultiplier": 1.42708333333333,
-                      "lineSizeMultiplier": 1.35052083333333,
-                      "collapse-forces": false,
-                      "centerStrength": 0.848958333333333,
-                      "repelStrength": 4.89583333333333,
-                      "linkStrength": 0.661458333333333,
-                      "linkDistance": 282,
-                      "scale": 1,
-                      "close": true
-                    }
-                  },
-                  "icon": "lucide-git-fork",
-                  "title": "思维模型 的关系图"
-                }
-              },
-              {
-                "id": "e81a41b29bce1dd4",
-                "type": "leaf",
-                "state": {
-                  "type": "tag",
-                  "state": {
-                    "sortOrder": "frequency",
-                    "useHierarchy": true,
-                    "showSearch": false,
-                    "searchQuery": ""
-                  },
-                  "icon": "lucide-tags",
-                  "title": "标签"
-                }
-              },
-              {
-                "id": "9f20e60f3eefa546",
-                "type": "leaf",
-                "state": {
-                  "type": "tasks_timeline_view",
-                  "state": {},
-                  "icon": "calendar-clock",
-                  "title": "Tasks Timeline"
-                }
-              },
-              {
-                "id": "8439d4c35c2dfe22",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "02Area/思维模型/思维模型.md",
-                    "followCursor": false,
-                    "showSearch": false,
-                    "searchQuery": ""
-                  },
-                  "icon": "lucide-list",
-                  "title": "思维模型 的大纲"
-                }
-              },
-              {
-                "id": "f689610dba371f61",
-                "type": "leaf",
-                "state": {
-                  "type": "git-history-view",
-                  "state": {},
-                  "icon": "history",
-                  "title": "History"
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "horizontal",
@@ -343,8 +285,8 @@
           "periodic-notes:Open today": false
         }
       },
-      "active": "3d3a374cbf802bdb",
-      "mtime": "2025-05-25T21:59:51+08:00"
+      "active": "ae22b940296d551f",
+      "mtime": "2025-06-05T07:45:16+08:00"
     }
   },
   "active": "default"
