@@ -1,5 +1,5 @@
 # obsidian-template
-![home.png](files/home.png)
+![home.png](vault-mobile/files/home.png)
 
 ## 目录结构
 
