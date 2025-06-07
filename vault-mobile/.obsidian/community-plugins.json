@@ -17,7 +17,6 @@
   "colored-tags",
   "dataview",
   "file-explorer-note-count",
-  "folder-notes",
   "note-refactor-obsidian",
   "obsidian-chartsview-plugin",
   "obsidian-tasks-plugin",
@@ -30,5 +29,7 @@
   "quickadd",
   "exmemo-tools",
   "obsidian-custom-attachment-location",
-  "nutstore-sync"
+  "nutstore-sync",
+  "folder-notes",
+  "advanced-canvas"
 ]

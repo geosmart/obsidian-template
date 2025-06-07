@@ -1,88 +1,14 @@
 {
   "main": {
-    "id": "5324373015726ba8",
+    "id": "17c8b79e9cd45d18",
     "type": "split",
     "children": [
       {
-        "id": "c597052640426125",
+        "id": "d5a13362483b3b38",
         "type": "tabs",
         "children": [
           {
-            "id": "30d54119bc0d5d82",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Home"
-            }
-          },
-          {
-            "id": "0f81423f81362f9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02Area/思维模型/5W1H模型.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "5W1H模型"
-            }
-          },
-          {
-            "id": "e10aaabc20a7920c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diary/2025/Weekly/2025-W20.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-W20"
-            }
-          },
-          {
-            "id": "854bddd6e401008a",
+            "id": "457ee36d51ccff37",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -106,42 +32,12 @@
             }
           },
           {
-            "id": "3d3a374cbf802bdb",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "vault-mobile/02Area/思维模型/MECE原则.md",
-                "bFile": "vault-mobile/02Area/思维模型/MECE原则.md",
-                "aRef": "1e1078021795bae630075fd606126d44a9b52fdf^",
-                "bRef": "1e1078021795bae630075fd606126d44a9b52fdf"
-              },
-              "icon": "diff",
-              "title": "Diff: MECE原则"
-            }
-          },
-          {
-            "id": "a1038a0399fe4f68",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "vault-mobile/02Area/思维模型/PDCA循环.md",
-                "bFile": "vault-mobile/02Area/思维模型/PDCA循环.md",
-                "aRef": "18a01c97023cefecd60df5528a2ce79b180b299d^",
-                "bRef": "18a01c97023cefecd60df5528a2ce79b180b299d"
-              },
-              "icon": "diff",
-              "title": "Diff: PDCA循环"
-            }
-          },
-          {
-            "id": "ae22b940296d551f",
+            "id": "764dce2b06530a3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -156,44 +52,43 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Readme"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f5f2d331715d283c",
+    "id": "77ed88cd9d4edf18",
     "type": "split",
     "children": [
       {
-        "id": "edee8167745836fb",
+        "id": "ebf6e326f9986220",
         "type": "tabs",
-        "dimension": 62.05128205128205,
         "children": [
           {
-            "id": "7e3002a94b0ea824",
+            "id": "c38ba062a467429c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
             }
           },
           {
-            "id": "3d3a5e078145e719",
+            "id": "4f38bdd78f389e08",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:思维模型",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -205,48 +100,112 @@
             }
           },
           {
-            "id": "69bb1aee13ccf1a0",
+            "id": "93932c8cddfed2d4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
-            }
-          }
-        ]
-      },
-      {
-        "id": "6eb7c981a8f81574",
-        "type": "tabs",
-        "dimension": 37.94871794871795,
-        "children": [
-          {
-            "id": "4bb4b5fc252cfcb1",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 412.5
+    "width": 200
   },
   "right": {
-    "id": "a6608b99877d51a5",
+    "id": "a3b4cf71d68fadcd",
     "type": "split",
     "children": [
       {
-        "id": "6900b84294251399",
+        "id": "0dcb57c09f00a844",
         "type": "tabs",
+        "dimension": 31.827111984282908,
         "children": [
           {
-            "id": "658089a0b325b338",
+            "id": "6b3652b59febae87",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
+          {
+            "id": "c9b56a4a295aa010",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Readme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Readme 的反向链接列表"
+            }
+          },
+          {
+            "id": "c1bbf3e1e4b83551",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Readme.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Readme 的出链列表"
+            }
+          },
+          {
+            "id": "c9578ed628808135",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "4ac5bf1a825df673",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Readme.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Readme 的大纲"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d9eb354692e3fb4f",
+        "type": "tabs",
+        "dimension": 68.17288801571709,
+        "children": [
+          {
+            "id": "93cd81f982d06831",
             "type": "leaf",
             "state": {
               "type": "tasks_timeline_view",
@@ -259,86 +218,62 @@
       }
     ],
     "direction": "horizontal",
-    "width": 485.5
+    "width": 423.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markdown-importer:打开 Markdown 格式转换器": false,
-      "command-palette:打开命令面板": false,
       "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
       "random-note:开始漫游笔记": false,
       "workspaces:管理工作区布局": false,
-      "graph:查看关系图谱": false,
       "templater-obsidian:Templater": false,
-      "quickadd:QuickAdd": false,
       "outliner-md:New outliner file": false,
       "obsidian-weread-plugin:同步微信读书笔记": false,
       "homepage:Open homepage": false,
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
+      "quickadd:QuickAdd": false,
       "nutstore-sync:开始同步": false,
       "nutstore-sync:停止同步": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "canvas:新建白板": false
     }
   },
-  "active": "ae22b940296d551f",
+  "active": "764dce2b06530a3d",
   "lastOpenFiles": [
+    "files/Readme-image-20250607.png",
+    "Home/Home.canvas",
+    "01Project/00法律智能体.md",
+    "Home/最近更新的内容.md",
+    "Readme.md",
+    "Diary/Inbox.md",
+    "files",
+    "Home/待办.md",
+    "Home/日历.md",
+    "03Resource/工具/obsidian/template/calendar.md",
+    "03Resource/工具/obsidian/template/meeting.md",
+    "03Resource/工具/obsidian/template/habitat.md",
+    "03Resource/工具/obsidian/template/monthly.md",
+    "03Resource/工具/obsidian/template/quarterly.md",
+    "03Resource/工具/obsidian/template/reading.md",
+    "03Resource/工具/obsidian/template/select_section.md",
+    "03Resource/工具/obsidian/template/SearchEngineBook.md",
+    "03Resource/工具/obsidian/template/weekly.md",
+    "03Resource/工具/obsidian/template/tasks.md",
     "Diary/2025/2025-05-25.md",
-    "files/xtool-logo.png",
     "Diary/2025/2025-05-16.md",
     "Diary/2025/2025-05-15.md",
-    "Diary/2025/Weekly/2025-W20.md",
-    "files",
+    "Diary/2025/Weekly/2025-W22.md",
+    "Diary/2025/Weekly/2025-W21.md",
+    "Diary/2025/Weekly/2 小时落地公众号 AI 客服：低成本智能化的实战路径.md",
+    "Diary/2025/Monthly/2025-06.md",
     "Diary/2025/Monthly/2025-05.md",
-    "Readme.md",
-    "04Archive",
-    "01Project",
-    "assets/Readme",
-    "assets",
-    "assets/Readme/xtool-logo.png",
-    "Diary/Diary.md",
     "Home.md",
-    "03Resource/checklist/🏕️ 露营物料清单.md",
-    "02Area/教程/Obsidian GTD演示教程.md",
-    "02Area/思维模型/思维模型.md",
-    "02Area/思维模型/PDCA循环.md",
-    "02Area/思维模型/逆向思维.md",
-    "02Area/思维模型/金字塔原理.md",
-    "02Area/思维模型/MECE原则.md",
-    "02Area/思维模型/5W1H模型.md",
-    "02Area/思维模型/SWOT分析.md",
-    "02Area/思维模型/二八法则.md",
-    "02Area/思维模型/六顶思考帽.md",
-    "02Area/思维模型/思维导图.md",
-    "02Area/思维模型/第一性原理.md",
-    "02Area/02Area.md",
-    "03Resource/未归档",
-    "files/Readme-index-xtool-csdn-qr-20250406-20250516.png",
-    "02Area/教程",
-    "Diary/Inbox.md",
-    "Diary/2025/2025-05-14.md",
-    "Diary/演示内容：周报汇总日记待办.md",
-    "03Resource/工具/obsidian/scripts_quickadd/weekly_memos.js",
-    "03Resource/工具/obsidian/scripts_quickadd",
-    "03Resource/checklist",
-    "01Project/Blog/content/assets/零门槛实现 Obsidian 多端实时同步：非开发人士也能轻松上手/零门槛实现 Obsidian 多端实时同步：非开发人士也能轻松上手-image-20250429.png",
-    "01Project/Blog/content/assets/MCP协议解读：MCP-Server通信原理（SSE）/MCP协议解读：MCP-Server通信原理（SSE）-image-20250426.png",
-    "01Project/Blog/content/assets/MCP协议解读：MCP-Server通信原理（SSE）/MCP协议解读：MCP-Server通信原理（SSE）-mcp-sse-uml-20250425.png",
-    "01Project/Blog/content/assets/MCP协议解读：MCP-Server通信原理（SSE）/MCP协议解读：MCP-Server通信原理（SSE）-Editor _ Mermaid Chart-2025-04-25-130309-20250425.webp",
-    "01Project/Blog/content/assets/MCP协议解读：MCP-Server通信原理（SSE）/mcp-sse-flow.jpg.webp",
-    "01Project/Blog/content/assets/个人知识库构建 - 剪藏网页内图片一键下载/个人知识库构建 - 剪藏网页内图片一键下载-2025-04-25-09-41-56-20250425.webp",
-    "01Project/Blog/content/assets/个人知识库构建 - 剪藏网页内图片一键下载/个人知识库构建 - 实现剪藏文章内图片一键批量下载-image-20250425-1.webp",
-    "Diary/2025/未命名.canvas",
-    "01Project/税友/知识库/AI搜税/系统设计/知识库-搜索词纠错流程.canvas",
-    "01Project/税友/机器学习平台/产品规划/算法平台.canvas",
-    "01Project/税友/智能问答/智能问答-业务流程/咨询会话数据实时同步流程.canvas",
-    "01Project/税友/智能问答/智能问答-业务流程/咨询会话数据实时同步流程-hudi.canvas",
-    "Diary/2024/未命名.canvas",
-    "01Project/税友/技术团队/职评/2024/未命名.canvas",
-    "03Resource/吴俊-40天暑期计划.canvas",
-    "Diary/2024/Weekly/未命名.canvas",
-    "03Resource/内容中台.canvas"
+    "Home/demo.canvas",
+    "Home"
   ]
 }
