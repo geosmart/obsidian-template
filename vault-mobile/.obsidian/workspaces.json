@@ -2,89 +2,32 @@
   "workspaces": {
     "default": {
       "main": {
-        "id": "5324373015726ba8",
+        "id": "17c8b79e9cd45d18",
         "type": "split",
         "children": [
           {
-            "id": "c597052640426125",
+            "id": "d5a13362483b3b38",
             "type": "tabs",
             "children": [
               {
-                "id": "30d54119bc0d5d82",
+                "id": "457ee36d51ccff37",
                 "type": "leaf",
-                "pinned": true,
                 "state": {
-                  "type": "markdown",
+                  "type": "canvas",
                   "state": {
-                    "file": "Home.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
+                    "file": "Home/Home.canvas",
+                    "viewState": {
+                      "x": -1000,
+                      "y": -1510,
+                      "zoom": -0.6346174874449245
                     }
                   },
-                  "pinned": true,
-                  "icon": "lucide-file",
+                  "icon": "lucide-layout-dashboard",
                   "title": "Home"
                 }
               },
               {
-                "id": "0f81423f81362f9c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "02Area/思维模型/5W1H模型.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "5W1H模型"
-                }
-              },
-              {
-                "id": "e10aaabc20a7920c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Diary/2025/Weekly/2025-W20.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "2025-W20"
-                }
-              },
-              {
-                "id": "854bddd6e401008a",
+                "id": "764dce2b06530a3d",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -106,96 +49,40 @@
                   "icon": "lucide-file",
                   "title": "Readme"
                 }
-              },
-              {
-                "id": "3d3a374cbf802bdb",
-                "type": "leaf",
-                "state": {
-                  "type": "split-diff-view",
-                  "state": {
-                    "aFile": "vault-mobile/02Area/思维模型/MECE原则.md",
-                    "bFile": "vault-mobile/02Area/思维模型/MECE原则.md",
-                    "aRef": "1e1078021795bae630075fd606126d44a9b52fdf^",
-                    "bRef": "1e1078021795bae630075fd606126d44a9b52fdf"
-                  },
-                  "icon": "diff",
-                  "title": "Diff: MECE原则"
-                }
-              },
-              {
-                "id": "a1038a0399fe4f68",
-                "type": "leaf",
-                "state": {
-                  "type": "split-diff-view",
-                  "state": {
-                    "aFile": "vault-mobile/02Area/思维模型/PDCA循环.md",
-                    "bFile": "vault-mobile/02Area/思维模型/PDCA循环.md",
-                    "aRef": "18a01c97023cefecd60df5528a2ce79b180b299d^",
-                    "bRef": "18a01c97023cefecd60df5528a2ce79b180b299d"
-                  },
-                  "icon": "diff",
-                  "title": "Diff: PDCA循环"
-                }
-              },
-              {
-                "id": "ae22b940296d551f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Home.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "Home"
-                }
               }
-            ],
-            "currentTab": 6
+            ]
           }
         ],
         "direction": "vertical"
       },
       "left": {
-        "id": "f5f2d331715d283c",
+        "id": "77ed88cd9d4edf18",
         "type": "split",
         "children": [
           {
-            "id": "edee8167745836fb",
+            "id": "ebf6e326f9986220",
             "type": "tabs",
-            "dimension": 62.05128205128205,
             "children": [
               {
-                "id": "7e3002a94b0ea824",
+                "id": "c38ba062a467429c",
                 "type": "leaf",
                 "state": {
                   "type": "file-explorer",
                   "state": {
                     "sortOrder": "alphabetical",
-                    "autoReveal": true
+                    "autoReveal": false
                   },
                   "icon": "lucide-folder-closed",
                   "title": "文件列表"
                 }
               },
               {
-                "id": "3d3a5e078145e719",
+                "id": "4f38bdd78f389e08",
                 "type": "leaf",
                 "state": {
                   "type": "search",
                   "state": {
-                    "query": "tag:思维模型",
+                    "query": "",
                     "matchingCase": false,
                     "explainSearch": false,
                     "collapseAll": false,
@@ -207,48 +94,49 @@
                 }
               },
               {
-                "id": "69bb1aee13ccf1a0",
+                "id": "93932c8cddfed2d4",
                 "type": "leaf",
                 "state": {
                   "type": "bookmarks",
                   "state": {},
-                  "icon": "lucide-file",
-                  "title": "插件不再活动"
-                }
-              }
-            ]
-          },
-          {
-            "id": "6eb7c981a8f81574",
-            "type": "tabs",
-            "dimension": 37.94871794871795,
-            "children": [
-              {
-                "id": "4bb4b5fc252cfcb1",
-                "type": "leaf",
-                "state": {
-                  "type": "recent-files",
-                  "state": {},
-                  "icon": "clock",
-                  "title": "Recent Files"
+                  "icon": "lucide-bookmark",
+                  "title": "书签"
                 }
               }
             ]
           }
         ],
         "direction": "horizontal",
-        "width": 412.5
+        "width": 200
       },
       "right": {
-        "id": "a6608b99877d51a5",
+        "id": "a3b4cf71d68fadcd",
         "type": "split",
         "children": [
           {
-            "id": "6900b84294251399",
+            "id": "0dcb57c09f00a844",
             "type": "tabs",
+            "dimension": 31.827111984282908,
             "children": [
               {
-                "id": "658089a0b325b338",
+                "id": "6b3652b59febae87",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "关系图谱"
+                }
+              }
+            ]
+          },
+          {
+            "id": "d9eb354692e3fb4f",
+            "type": "tabs",
+            "dimension": 68.17288801571709,
+            "children": [
+              {
+                "id": "93cd81f982d06831",
                 "type": "leaf",
                 "state": {
                   "type": "tasks_timeline_view",
@@ -256,37 +144,101 @@
                   "icon": "calendar-clock",
                   "title": "Tasks Timeline"
                 }
+              },
+              {
+                "id": "4ac5bf1a825df673",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Home/Home.canvas",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Home 的大纲"
+                }
+              },
+              {
+                "id": "c9b56a4a295aa010",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Home/Home.canvas",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Home 的反向链接列表"
+                }
+              },
+              {
+                "id": "c9578ed628808135",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "标签"
+                }
+              },
+              {
+                "id": "c1bbf3e1e4b83551",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Home/Home.canvas",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Home 的出链列表"
+                }
               }
             ]
           }
         ],
         "direction": "horizontal",
-        "width": 485.5
+        "width": 423.5
       },
       "left-ribbon": {
         "hiddenItems": {
-          "markdown-importer:打开 Markdown 格式转换器": false,
-          "command-palette:打开命令面板": false,
           "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
           "daily-notes:打开/创建今天的日记": false,
           "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "markdown-importer:打开 Markdown 格式转换器": false,
           "random-note:开始漫游笔记": false,
           "workspaces:管理工作区布局": false,
-          "graph:查看关系图谱": false,
           "templater-obsidian:Templater": false,
-          "quickadd:QuickAdd": false,
           "outliner-md:New outliner file": false,
           "obsidian-weread-plugin:同步微信读书笔记": false,
           "homepage:Open homepage": false,
           "omnisearch:Omnisearch": false,
           "obsidian-git:Open Git source control": false,
+          "quickadd:QuickAdd": false,
           "nutstore-sync:开始同步": false,
           "nutstore-sync:停止同步": false,
-          "periodic-notes:Open today": false
+          "periodic-notes:Open today": false,
+          "canvas:新建白板": false
         }
       },
-      "active": "ae22b940296d551f",
-      "mtime": "2025-06-05T07:45:16+08:00"
+      "active": "93cd81f982d06831",
+      "mtime": "2025-06-07T09:31:30+08:00"
     }
   },
   "active": "default"

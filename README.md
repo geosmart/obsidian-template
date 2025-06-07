@@ -1,4 +1,5 @@
 # obsidian-template
+![home.png](files/home.png)
 
 ## 目录结构
 
@@ -17,7 +18,7 @@
 ## 日记目录
 │   ├── Diary
 ## 主页
-│   ├── Home.md
+│   ├── Home.canvas
 ```
 
 ![极客工具](vault-mobile/files/xtool-logo.png)

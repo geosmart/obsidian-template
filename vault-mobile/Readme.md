@@ -3,12 +3,12 @@ title: Readme
 aliases: [轻松做好周总结：PDCA 循环 + Obsidian 自动化工作流]
 tags: []
 created: 2025-03-23T09:10:01
-updated: 2025-06-07T09:25:02
+updated: 2025-06-07T09:30:19
 draft: true
 ---
 
 # Readme
-![极客工具|417x128](xtool-logo.png)
+![极客工具|417x128](files/xtool-logo.png)
 
 [极客工具-构建个人知识库-系列](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4Nzg2NTY2Mw==&action=getalbum&album_id=3880988817024614400&subscene=159&subscene=&scenenote=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVyDepofPltPfEFn7nzXHKw%3Fpoc_token%3DHDqOJmijINYRJRbY358yBW_HxONeInwbK3sfqUtn&nolastread=1#wechat_redirect)
 
@@ -27,7 +27,7 @@ draft: true
 	1. 自动汇总周总结
 	2. OKR 实践月计划
 
-![[Readme-image-20250607.png|1080x608]]
+![home.png](files/home.png)
 
 ## Obsidian 插件
 
