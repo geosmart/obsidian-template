@@ -27,7 +27,17 @@
             }
           },
           {
-            "id": "f88902e2b655f875",
+            "id": "d0fae1f688a5b9ce",
+            "type": "leaf",
+            "state": {
+              "type": "netclip-home-tab-view",
+              "state": {},
+              "icon": "home",
+              "title": "Home"
+            }
+          },
+          {
+            "id": "38bf14ce5565070c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,67 +59,9 @@
               "icon": "lucide-file",
               "title": "2025-06-12"
             }
-          },
-          {
-            "id": "d0fae1f688a5b9ce",
-            "type": "leaf",
-            "state": {
-              "type": "netclip-home-tab-view",
-              "state": {},
-              "icon": "home",
-              "title": "Home"
-            }
-          },
-          {
-            "id": "2fbd20232e98df5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Readme.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Readme"
-            }
-          },
-          {
-            "id": "8064ac489d69ac77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Home"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -323,18 +275,20 @@
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
       "smart-composer:Open smart composer": false,
-      "net-clip:NetClip": false
+      "net-clip:NetClip": false,
+      "nutstore-sync:开始同步": false,
+      "nutstore-sync:停止同步": false
     }
   },
-  "active": "f88902e2b655f875",
+  "active": "38bf14ce5565070c",
   "lastOpenFiles": [
-    "Home/Home.canvas",
-    "Home/待办.md",
     "Home.md",
+    "Home/Home.canvas",
+    "Readme.md",
+    "Diary/2025/2025-06-12.md",
+    "Home/待办.md",
     "Diary/2025/2025-06-09.md",
     "Diary/2025/2025-06-11.md",
-    "Diary/2025/2025-06-12.md",
-    "Readme.md",
     "asdasd.md",
     "obsidian-livesync.md",
     "撒大时代.md",
