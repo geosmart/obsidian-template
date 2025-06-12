@@ -1,0 +1,43 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": true,
+  "shell_path": "",
+  "user_scripts_folder": "03Resource/工具/obsidian/scripts",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "",
+      "template": ""
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    "03Resource/工具/obsidian/template/weekly.md",
+    "03Resource/工具/obsidian/template/meeting.md",
+    "03Resource/工具/obsidian/template/monthly.md",
+    "03Resource/工具/obsidian/template/diary.md",
+    "03Resource/工具/obsidian/template/yesterday-tasks-undo.md",
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": false
+}

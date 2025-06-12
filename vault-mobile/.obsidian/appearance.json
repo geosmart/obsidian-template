@@ -1,0 +1,16 @@
+{
+  "accentColor": "#3b7846",
+  "monospaceFontFamily": "CommitMono Nerd Font Mono",
+  "nativeMenus": false,
+  "theme": "obsidian",
+  "cssTheme": "Things",
+  "enabledCssSnippets": [
+    "Split-Page-Callout",
+    "custom"
+  ],
+  "baseFontSize": 14,
+  "interfaceFontFamily": "CommitMono Nerd Font,LXGW WenKai GB Screen R,WenQuanYi Micro Hei Mono",
+  "textFontFamily": "CommitMono Nerd Font Mono,CommitMono Nerd Font,LXGW WenKai GB Screen R,WenQuanYi Micro Hei Mono",
+  "baseFontSizeAction": true,
+  "showRibbon": true
+}

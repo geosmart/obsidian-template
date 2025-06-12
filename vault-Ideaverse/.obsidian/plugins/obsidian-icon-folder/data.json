@@ -1,0 +1,44 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "〰",
+      "LiStopCircle",
+      "LiWaves",
+      "🌊",
+      "🫧",
+      "🏜",
+      "🎒",
+      "💤",
+      "🔥",
+      "🍲",
+      "🌕",
+      "♻",
+      "🚀"
+    ],
+    "recentlyUsedIconsSize": 15,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "debugMode": false
+  },
+  "Efforts/Ongoing": "♻",
+  "Efforts/On": "🔥",
+  "Efforts/Simmering": "〰",
+  "Efforts/Sleeping": "💤"
+}

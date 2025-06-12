@@ -1,0 +1,423 @@
+{
+  "main": {
+    "id": "c4f7fdb608baf8e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cf159b63dfa0dea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74537328201fe4c7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Home Basic",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home Basic.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Home Basic\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
+                  "title": "Ideaverse Lite - Release Notes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Ideaverse Lite - Release Notes.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Ideaverse Lite - Release Notes\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Home",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Home\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "440b3841429709ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "b208c03cadd231ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dddbab8b18fd423a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "77966b04a7f238ed",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 296.5026054382324
+  },
+  "right": {
+    "id": "7a43a6c530e72e44",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea89fdbc5439f479",
+        "type": "tabs",
+        "dimension": 85.19615099925981,
+        "children": [
+          {
+            "id": "2ca57d6199b2f8d5",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Atlas/Dots/Things/Fluid Frameworks.md"
+              },
+              "icon": "lucide-info",
+              "title": "Fluid Frameworks的笔记属性"
+            }
+          },
+          {
+            "id": "ed620ff772ae2275",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atlas/Maps/Habits Map.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Habits Map"
+            }
+          },
+          {
+            "id": "1dc0cb1cebc39098",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "4f6e4ddebde66a86",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "90d026528dc7103b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Home 的大纲"
+            }
+          },
+          {
+            "id": "ecdb0a392a024342",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "8e15cd93a6a4be64",
+        "type": "tabs",
+        "dimension": 14.803849000740193,
+        "children": [
+          {
+            "id": "d535bd36dbc98e0b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Home 的反向链接列表"
+            }
+          },
+          {
+            "id": "ae0aed29d208c352",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 908.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "publish:发布更改": false,
+      "periodic-notes:Open today's daily note": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "cmdr:Toggle stacked tabs": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "74537328201fe4c7",
+  "lastOpenFiles": [
+    "Atlas/Maps/Communicate.md",
+    "Home.md",
+    "Home Basic.md",
+    "Ideaverse Lite - Release Notes.md",
+    "Atlas/Maps/Sources.md",
+    "Atlas/Maps/Habits Map.md",
+    "Atlas/Dots/Things/Evergreen notes (defn).md",
+    "Atlas/Dots/Things/Evergreen notes.md",
+    "Ideaverse Map.md",
+    "+/My Permissions.md",
+    "Atlas/Maps/Life Map.md",
+    "Atlas/Dots/Things/Fluid Frameworks.md",
+    "Atlas/Dots/Things/The 3 Phases of MOCs, a coda.md",
+    "Atlas/Dots/Things/The 3 Phases of MOCs.md",
+    "Atlas/Dots/Things/Habits MOC - Gather.md",
+    "Atlas/Dots/Things/Habits MOC - Collide.md",
+    "Atlas/Dots/Statements/The big differences between efforts and projects.md",
+    "Atlas/Dots/Things/Set Up Your Home Note.md",
+    "Atlas/Dots/Things/Figuring out your Home MOCs.md",
+    "Atlas/Maps/Relate.md",
+    "Atlas/Dots/Statements/Our environment shapes us more than we realize.md",
+    "x/Templates/Template, Properties, Base + In (Kit).md",
+    "+/Test note.md",
+    "x/Templates/Template, Properties, Base.md",
+    "x/Templates/Template, Properties, Daily Note (Kit).md",
+    "x/Templates/Nick Milo's Custom Callouts.md",
+    "Atlas/Dots/Statements",
+    "Efforts/Notes/My Videos",
+    "x/Images/lyt-kit-example-cooling-pad-.png",
+    "Atlas/Utilities/Images/lyt-kit-example-cooling-pad-.jpg",
+    "Calendar/Notes/Past Years",
+    "Calendar/Logs",
+    "Calendar/Notes",
+    "x/Images/mckie-ship-and-sea-mid-narrow-.jpg",
+    "Atlas/Utilities/Images/mckie-ship-and-sea-mid-narrower.jpg",
+    "x/Images/robert-mccall-space-ship-launch-narrower.png",
+    "Atlas/Dots/X",
+    "Atlas/Dots/X",
+    "Atlas/Dots/People",
+    "Atlas/Dots",
+    "x/Images/whelan-space-station-1978-mod.jpg",
+    "x/Images/flight-school-hotkey-wide.jpg",
+    "x/Images/McCall-pen-sketch-narrow.jpg",
+    "x/Images/whelan-the-wave-1994.jpg",
+    "x/Images/robert-mccall-black-hole-concept-art-bottom.jpg",
+    "Atlas/Sources/+/Tweets (Readwise)",
+    "Atlas/Utilities/Canvases/2023-03-20 - Review, Brain Dump, Imagine, Prioritize.canvas",
+    "Atlas/Utilities/Canvases/LYT W10 Calendar Canvas.canvas",
+    "Atlas/Utilities/Canvases/LYT Ship Dashboard.canvas",
+    "Atlas/Utilities/Canvases/LYT W11 Calendar Canvas.canvas",
+    "Atlas/Utilities/Canvases/Obsidian Canvas MOC.canvas",
+    "Atlas/Utilities/Canvases/Ship of the Sensemaker.canvas",
+    "Atlas/Utilities/Canvases/LYT 2023 Rules.canvas",
+    "Atlas/Utilities/Canvases/LYT Book Framing.canvas",
+    "Atlas/Utilities/Canvases/LYT Nick Weekly Schedule.canvas",
+    "Atlas/Utilities/Canvases/LYT Website Ideaverse.canvas"
+  ]
+}

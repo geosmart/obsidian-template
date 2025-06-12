@@ -1,0 +1,396 @@
+{
+  "main": {
+    "id": "c4f7fdb608baf8e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4eeb1fe286d53e2",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "e4eeb1fe286d53e2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Views/SOS 🔬.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "e4eeb1fe286d53e2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/LYT/Outputs/Packs/LYT Kit/Home.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "e4eeb1fe286d53e2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Views/SOS 🔬.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "e4eeb1fe286d53e2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/LYT/Outputs/Packs/LYT Kit/Home.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":37},\"to\":{\"line\":12,\"ch\":37}}}"
+            },
+            {
+              "leaf": "e4eeb1fe286d53e2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/LYT/Outputs/Packs/LYT Kit/Atlas/Calendar Log.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "e4eeb1fe286d53e2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/LYT/Outputs/Packs/LYT Kit/Home.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":36},\"to\":{\"line\":32,\"ch\":0}},\"scroll\":3.077715757835981}"
+            },
+            {
+              "leaf": "e4eeb1fe286d53e2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/LYT/Outputs/Packs/LYT Kit/Atlas/LYT Space 🔆 (kit).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "e4eeb1fe286d53e2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/LYT/Outputs/Packs/LYT Kit/Home.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":51},\"to\":{\"line\":33,\"ch\":51}},\"scroll\":3.2975525976814084}"
+            },
+            {
+              "leaf": "e4eeb1fe286d53e2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/LYT/Outputs/Packs/LYT Kit/Atlas/Inbox.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":85},\"to\":{\"line\":29,\"ch\":85}},\"scroll\":0}"
+            },
+            {
+              "leaf": "e4eeb1fe286d53e2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/LYT/Outputs/Packs/LYT Kit/Home.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":0},\"to\":{\"line\":31,\"ch\":0}},\"scroll\":4.332170272156316}"
+            },
+            {
+              "leaf": "e4eeb1fe286d53e2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Views/More/Essays 🖌.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":2,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "e4eeb1fe286d53e2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/LYT/Outputs/Packs/LYT Kit/Home.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":26.48309608540925}"
+            },
+            {
+              "leaf": "e4eeb1fe286d53e2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/More/Ideas ✨ (kit).md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":10},\"to\":{\"line\":2,\"ch\":10}},\"scroll\":0}"
+            },
+            {
+              "leaf": "e4eeb1fe286d53e2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/LYT/Outputs/Packs/LYT Kit/Home.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":27.305652477320308}"
+            },
+            {
+              "leaf": "e4eeb1fe286d53e2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"+ Encounters/Mapping the flexible flow of ideas.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":36},\"to\":{\"line\":4,\"ch\":36}}}"
+            },
+            {
+              "leaf": "e4eeb1fe286d53e2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/More/Artifacts 💠.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "e4eeb1fe286d53e2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spaces/LYT/Outputs/Packs/LYT Kit/Home.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":13.572916666666666}"
+            },
+            {
+              "leaf": "e4eeb1fe286d53e2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/LYT/LYT Projects 🏗.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":17},\"to\":{\"line\":6,\"ch\":17}}}"
+            },
+            {
+              "leaf": "e4eeb1fe286d53e2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/LYT/LYT Home.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "e4eeb1fe286d53e2",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Atlas/Maps/More/Earth.md\",\"mode\":\"source\",\"backlinks\":true,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":31},\"to\":{\"line\":19,\"ch\":31}}}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Atlas/Views/SOS 🔬.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "440b3841429709ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "b208c03cadd231ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dddbab8b18fd423a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "77966b04a7f238ed",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "f2f067fa401a0574",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 411.5104179382324,
+    "collapsed": true
+  },
+  "right": {
+    "id": "7a43a6c530e72e44",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea89fdbc5439f479",
+        "type": "tabs",
+        "dimension": 58.80398671096346,
+        "children": [
+          {
+            "id": "4f6e4ddebde66a86",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "90d026528dc7103b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Atlas/Views/SOS 🔬.md"
+              }
+            }
+          },
+          {
+            "id": "ae0aed29d208c352",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Atlas/Views/SOS 🔬.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1dc0cb1cebc39098",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4fd5ddab0d74cf4f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Atlas/Views/SOS 🔬.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": true,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#effort",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16753485
+                      }
+                    },
+                    {
+                      "query": "tag:#source",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5402336
+                      }
+                    },
+                    {
+                      "query": "tag:#output",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16735324
+                      }
+                    },
+                    {
+                      "query": "tag:#note",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5431378
+                      }
+                    },
+                    {
+                      "query": "tag:#people",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16743138
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.15685580792831572,
+                  "close": true
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "cc261747cbab30f2",
+        "type": "tabs",
+        "dimension": 41.19601328903654,
+        "children": [
+          {
+            "id": "d535bd36dbc98e0b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Atlas/Views/SOS 🔬.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 231.689697265625,
+    "collapsed": true
+  },
+  "active": "e4eeb1fe286d53e2",
+  "lastOpenFiles": [
+    "Spaces/LYT/Outputs/Packs/LYT Kit/Home.md",
+    "Atlas/Views/SOS 🔬.md",
+    "Atlas/Maps/LOL.md",
+    "Spaces/LYT/Outputs/Packs/LYT Kit/Atlas/Calendar Log.md",
+    "Spaces/LYT/Outputs/Packs/LYT Kit/Atlas/LYT Space 🔆 (kit).md",
+    "Spaces/LYT/Outputs/Packs/LYT Kit/Atlas/Inbox.md",
+    "Atlas/Views/More/Essays 🖌.md",
+    "Spaces/LYT/Outputs/Articles/Kate Bush, Stranger Things, & Idea Emergence.md",
+    "Atlas/Maps/More/Ideas ✨ (kit).md",
+    "+ Encounters/Mapping the flexible flow of ideas.md"
+  ]
+}

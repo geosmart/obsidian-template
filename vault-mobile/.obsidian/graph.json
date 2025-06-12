@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "技术",
+      "color": {
+        "a": 1,
+        "rgb": 14297899
+      }
+    },
+    {
+      "query": "ElasticSearch",
+      "color": {
+        "a": 1,
+        "rgb": 9360386
+      }
+    },
+    {
+      "query": "工具",
+      "color": {
+        "a": 1,
+        "rgb": 7813610
+      }
+    },
+    {
+      "query": "知识库",
+      "color": {
+        "a": 1,
+        "rgb": 2847670
+      }
+    },
+    {
+      "query": "智能问答",
+      "color": {
+        "a": 1,
+        "rgb": 10978858
+      }
+    },
+    {
+      "query": "obsidian",
+      "color": {
+        "a": 1,
+        "rgb": 9451380
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.14635416666667,
+  "lineSizeMultiplier": 1.37604166666667,
+  "collapse-forces": false,
+  "centerStrength": 0.614583333333333,
+  "repelStrength": 20,
+  "linkStrength": 0.578125,
+  "linkDistance": 167,
+  "scale": 0.07643695230614381,
+  "close": true
+}

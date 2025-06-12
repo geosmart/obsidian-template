@@ -1,0 +1,158 @@
+{
+  "edges": [
+  ],
+  "metadata": {
+    "frontmatter": {
+    },
+    "version": "1.0-1.0"
+  },
+  "nodes": [
+    {
+      "color": "6",
+      "height": 840,
+      "id": "8c77592ef196920c",
+      "label": "GTD",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1360,
+      "x": -1880,
+      "y": -1720
+    },
+    {
+      "color": "5",
+      "height": 360,
+      "id": "0b5c6c9016d645e2",
+      "label": "OKR",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1360,
+      "x": -1880,
+      "y": -2140
+    },
+    {
+      "file": "01Project/00法律智能体.md",
+      "height": 540,
+      "id": "5af78ce9ca5fa1cd",
+      "styleAttributes": {
+        "border": null
+      },
+      "subpath": "#项目安排",
+      "type": "file",
+      "width": 360,
+      "x": -480,
+      "y": -2140
+    },
+    {
+      "color": "1",
+      "file": "Home/待办.md",
+      "height": 360,
+      "id": "7ad6dd3fef753620",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "subpath": "#本周待办",
+      "type": "file",
+      "width": 660,
+      "x": -1210,
+      "y": -1675
+    },
+    {
+      "color": "4",
+      "file": "Home/待办.md",
+      "height": 360,
+      "id": "6162f311d3f8f83c",
+      "styleAttributes": {
+        "border": "dashed"
+      },
+      "subpath": "#今日待办",
+      "type": "file",
+      "width": 620,
+      "x": -1850,
+      "y": -1675
+    },
+    {
+      "color": "2",
+      "file": "Diary/2025/Weekly/2025-W22.md",
+      "height": 280,
+      "id": "d736b9f45f7a0fe8",
+      "styleAttributes": {
+        "border": "dashed"
+      },
+      "subpath": "#周计划",
+      "type": "file",
+      "width": 310,
+      "x": -1850,
+      "y": -2100
+    },
+    {
+      "color": "1",
+      "file": "Diary/2025/Monthly/2025-06.md",
+      "height": 280,
+      "id": "afdd9177d547b96e",
+      "styleAttributes": {
+        "border": "dotted"
+      },
+      "subpath": "#企业知识库",
+      "type": "file",
+      "width": 310,
+      "x": -1520,
+      "y": -2100
+    },
+    {
+      "color": "6",
+      "file": "Diary/2025/Monthly/2025-06.md",
+      "height": 280,
+      "id": "c1f20bbb4ba2e32e",
+      "styleAttributes": {
+        "border": "dotted"
+      },
+      "subpath": "#个人知识库",
+      "type": "file",
+      "width": 310,
+      "x": -1190,
+      "y": -2100
+    },
+    {
+      "color": "4",
+      "file": "Diary/2025/Monthly/2025-06.md",
+      "height": 280,
+      "id": "7587b77aeb1aaba0",
+      "styleAttributes": {
+        "border": "dotted"
+      },
+      "subpath": "#户外社交",
+      "type": "file",
+      "width": 310,
+      "x": -860,
+      "y": -2100
+    },
+    {
+      "color": "2",
+      "file": "Home/待办.md",
+      "height": 360,
+      "id": "e31354be8dea9ae9",
+      "styleAttributes": {
+        "border": "invisible"
+      },
+      "subpath": "#本月待办",
+      "type": "file",
+      "width": 1300,
+      "x": -1850,
+      "y": -1280
+    },
+    {
+      "file": "Diary/Inbox.md",
+      "height": 680,
+      "id": "2305f58c2230ebe2",
+      "styleAttributes": {
+      },
+      "subpath": "#Inbox",
+      "type": "file",
+      "width": 360,
+      "x": -480,
+      "y": -1560
+    }
+  ]
+}

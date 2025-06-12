@@ -1,0 +1,16 @@
+**/.obsidian/**/*.log
+**/obsidian/.stfolder/
+**/obsidian/.obsidian/cache
+**/obsidian/.obsidian/workspace.json
+**/obsidian/.trash/
+**/obsidian/.recycle
+**/.obsidian/plugins/recent-files-obsidian/data.json
+**/.obsidian/plugins/remember-cursor-position/cursor-positions.json
+**/.obsidian/plugins/obsidian-mindmap-nextgen/data.json
+**/.obsidian/plugins/text-extractor/cache
+**/.history
+**/*.edtz
+**/.DS_Store
+**/_gsdata_
+.idea
+*.iml

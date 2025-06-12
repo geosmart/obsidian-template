@@ -1,0 +1,120 @@
+{
+  "viewPosition": "right",
+  "defaultFolderName": "NetClip",
+  "parentFolderPath": "",
+  "defaultWebUrl": "https://cn.bing.com/?ensearch=1&FORM=China",
+  "searchEngine": "bing",
+  "categories": [
+    "Articles",
+    "Research",
+    "Tech"
+  ],
+  "categoryIcons": {},
+  "enableCorsProxy": false,
+  "adBlock": {
+    "enabled": true
+  },
+  "privateMode": false,
+  "geminiApiKey": "",
+  "enableAI": false,
+  "prompts": [
+    {
+      "name": "Translate Content",
+      "prompt": "Translate the following ${article} to ${target_lang}",
+      "enabled": false,
+      "variables": {
+        "target_lang": [
+          "Japanese",
+          "English",
+          "Spanish",
+          "French",
+          "German",
+          "Chinese"
+        ]
+      }
+    },
+    {
+      "name": "Summarize Content",
+      "prompt": "Summarize ${article} in ${style} style. Keep the summary ${length}.",
+      "enabled": false,
+      "variables": {
+        "style": [
+          "concise",
+          "detailed",
+          "bullet points",
+          "academic"
+        ],
+        "length": [
+          "short (2-3 sentences)",
+          "medium (1 paragraph)",
+          "long (2-3 paragraphs)"
+        ]
+      }
+    },
+    {
+      "name": "Format as Note",
+      "prompt": "Convert ${article} into a structured note with headings, bullet points, and key takeaways. Use ${format} formatting style.",
+      "enabled": false,
+      "variables": {
+        "format": [
+          "Academic",
+          "Meeting Notes",
+          "Study Notes"
+        ]
+      }
+    }
+  ],
+  "defaultSaveLocations": {
+    "defaultLocation": "",
+    "domainMappings": {}
+  },
+  "cardDisplay": {
+    "showDescription": true,
+    "showAuthor": true,
+    "showDate": true,
+    "showDomain": true,
+    "showThumbnail": true
+  },
+  "replaceTabHome": false,
+  "shortcuts": [
+    {
+      "id": "1749689781112",
+      "name": "",
+      "url": "https://github.com/Elhary/Obsidian-NetClip",
+      "favicon": "https://www.google.com/s2/favicons?domain=github.com&sz=128"
+    },
+    {
+      "id": "1749689781112",
+      "name": "",
+      "url": "https://youtube.com",
+      "favicon": "https://www.google.com/s2/favicons?domain=youtube.com&sz=128"
+    },
+    {
+      "id": "1749689781112",
+      "name": "",
+      "url": "https://www.reddit.com/r/ObsidianMD/",
+      "favicon": "https://www.google.com/s2/favicons?domain=reddit.com&sz=128"
+    },
+    {
+      "id": "1749689781112",
+      "name": "",
+      "url": "https://forum.obsidian.md/",
+      "favicon": "https://www.google.com/s2/favicons?domain=obsidian.md&sz=128"
+    },
+    {
+      "id": "1749689826359",
+      "name": "tools",
+      "url": "https://it-tools.tech/"
+    }
+  ],
+  "showClock": true,
+  "homeTab": {
+    "showRecentFiles": true,
+    "showSavedArticles": true,
+    "backgroundImage": "",
+    "backgroundBlur": 0,
+    "textColor": "#ffffff",
+    "textBrightness": 100
+  },
+  "keepOriginalContent": false
+}

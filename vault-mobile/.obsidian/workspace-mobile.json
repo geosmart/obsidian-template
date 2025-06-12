@@ -1,0 +1,407 @@
+{
+  "main": {
+    "id": "30ddb6352a73c46e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0264455cbcbc7aa9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98a7fa912af9a916",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "empty",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "e7ca6169c61fde67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01Project/Blog/content/rsync+git同步数据.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "rsync+git同步数据"
+            }
+          },
+          {
+            "id": "670c938bc96ba628",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Inbox"
+            }
+          },
+          {
+            "id": "1d3dca594d667977",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          },
+          {
+            "id": "b8b50593379c65e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Inbox"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9cea9a22410fdbfe",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "48f05f121365c155",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {},
+          "icon": "clock",
+          "title": "Recent Files"
+        }
+      },
+      {
+        "id": "70035b58194317b3",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "文件列表"
+        }
+      },
+      {
+        "id": "73a36e115d6043c4",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "byModifiedTime"
+          },
+          "icon": "lucide-search",
+          "title": "搜索"
+        }
+      },
+      {
+        "id": "6021e3c89632305e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "8aec838271ea795d",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "插件不再活动"
+        }
+      },
+      {
+        "id": "922b5697d647738f",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-file",
+          "title": "插件不再活动"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "2f37fbf71dfe1a7f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1f879a83e5b7c3bd",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {},
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "6ae79a66c8c70e55",
+        "type": "leaf",
+        "state": {
+          "type": "chronology-calendar-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "插件不再活动"
+        }
+      },
+      {
+        "id": "cf693b952ed25304",
+        "type": "leaf",
+        "state": {
+          "type": "reminder-list",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "插件不再活动"
+        }
+      },
+      {
+        "id": "f8ebf52f26b278ae",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "插件不再活动"
+        }
+      },
+      {
+        "id": "c6c1831c91c75312",
+        "type": "leaf",
+        "state": {
+          "type": "RSS_FEED",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "插件不再活动"
+        }
+      },
+      {
+        "id": "f28af58245033801",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "新标签页"
+        }
+      },
+      {
+        "id": "1d4f48e03cf6f61e",
+        "type": "leaf",
+        "state": {
+          "type": "tasks_timeline_view",
+          "state": {},
+          "icon": "calendar-clock",
+          "title": "Tasks Timeline"
+        }
+      },
+      {
+        "id": "176436a7c2503a36",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "反向链接"
+        }
+      },
+      {
+        "id": "71fa238438e2541c",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "插件不再活动"
+        }
+      },
+      {
+        "id": "2193a5d5c4fa741b",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Diary/2025/2025-03-05.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "出链"
+        }
+      },
+      {
+        "id": "71120336329902ca",
+        "type": "leaf",
+        "state": {
+          "type": "tasks_timeline_view",
+          "state": {},
+          "icon": "calendar-clock",
+          "title": "Tasks Timeline"
+        }
+      }
+    ],
+    "currentTab": 6
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "random-note:开始漫游笔记": false,
+      "workspaces:管理工作区布局": false,
+      "templater-obsidian:Templater": false,
+      "quickadd:QuickAdd": false,
+      "outliner-md:New outliner file": false,
+      "obsidian-weread-plugin:同步微信读书笔记": false,
+      "homepage:Open homepage": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "48f05f121365c155",
+  "lastOpenFiles": [
+    "Home.md",
+    "Inbox.md",
+    "Readme.md",
+    "Diary/2025/极客工具-输出计划.md",
+    "Diary/2025/Obsidian多端同步-git+termux.md",
+    "01Project/Blog/content/draft/files/手机和服务器在git同步时如何解决冲突，gitignore忽略哪些？-image-20250305.png",
+    "01Project/Blog/content/draft/files/obsidian-sync-git-tunning-image-20250305.png",
+    "01Project/Blog/content/draft/极客工具-输出计划.md",
+    "01Project/Blog/content/draft/手机和服务器如何通过公网通信.md",
+    "01Project/Blog/content/draft/发布工具.md",
+    "01Project/Blog/content/draft/博客提示词.md",
+    "01Project/Blog/content/draft/obsidian-sync-git-tunning.md",
+    "01Project/Blog/content/draft/files",
+    "01Project/Blog/content/draft",
+    "01Project/Blog/content/template/手机和服务器在git同步时如何解决冲突，gitignore忽略哪些？.md",
+    "01Project/Blog/content/template/极客工具-输出计划.md",
+    "Diary/2025/2025-03-05.md",
+    "nohup.out",
+    "02Area/工具/游戏/上古卷轴5-天际 1.md",
+    "01Project/税友/技术团队/开发规范.md",
+    "01Project/Blog/content/template/手机和服务器如何通过公网通信.md",
+    "01Project/Blog/content/rsync+git同步数据.md",
+    "01Project/Blog/content/files/Screenshot_20250304_220007_com.termux.jpg",
+    "Diary/2025/2025-01-20.md",
+    "Diary/2025/2025-01-21.md",
+    "Diary/2025/2025-01-19.md",
+    "Diary/2025/2025-01-17.md",
+    "Diary/2025/SKA生意研修班.md",
+    "02Area/技术/数据采集/ReadLM.md",
+    "02Area/工具/obsidian/scripts/quickadd_open.js.ts",
+    "Diary/2025/开放API接口新增-目录树保存.md",
+    "Context/Home.md",
+    "02Area/技术/AI人工智能/prompts/通用助手.md",
+    "02Area/工具/思维模型",
+    "02Area/技术/AI人工智能/prompts",
+    "03Resource/账号/证件附件/files/吴为-身份证-反面.jpg",
+    "attachments/身份证-反面-王刚.jpg",
+    "attachments/身份证-正面-王刚.jpg",
+    "03Resource/账号/证件附件/files/户口簿-王松和.jpg",
+    "03Resource/账号/证件附件/files/吴为-身份证-正面.jpg",
+    "attachments/身份证-正面-王松和.jpg",
+    "attachments/吴海鋆.jpg",
+    "01Project/税友/知识库/G端知识库",
+    "01Project/税友/知识库/AI搜税/系统设计/知识库-搜索词纠错流程.canvas",
+    "01Project/税友/知识库/AI搜税/问题排查",
+    "01Project/税友/知识库/G端智能问答-浙江省局",
+    "01Project/税友/知识库/AI搜税/系统设计",
+    "03Resource/吴俊-40天暑期计划.canvas",
+    "03Resource/内容中台.canvas",
+    "01Project/税友/知识库/3 系统设计/AI搜税/知识库-搜索词纠错流程.canvas",
+    "01Project/税友/机器学习平台/产品规划/算法平台.canvas",
+    "01Project/税友/智能问答/智能问答-业务流程/咨询会话数据实时同步流程.canvas",
+    "01Project/税友/智能问答/智能问答-业务流程/咨询会话数据实时同步流程-hudi.canvas",
+    "01Project/税友/技术团队/职评/2024/未命名.canvas"
+  ]
+}

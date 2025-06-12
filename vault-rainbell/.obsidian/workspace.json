@@ -1,0 +1,310 @@
+{
+  "main": {
+    "id": "3bb12d470fcd0291",
+    "type": "split",
+    "children": [
+      {
+        "id": "a94ec6e6a9fe4998",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53c2b5d46760f3a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40 - Obsidian/主页/00. 主页.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "00. 主页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64e5df844da43397",
+    "type": "split",
+    "children": [
+      {
+        "id": "404b714244a12346",
+        "type": "tabs",
+        "dimension": 59.28143712574851,
+        "children": [
+          {
+            "id": "7408259d9b92b5f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "42aa1a006d235dd3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          }
+        ]
+      },
+      {
+        "id": "98f0d4a0722ccaa3",
+        "type": "tabs",
+        "dimension": 40.7185628742515,
+        "children": [
+          {
+            "id": "a2ea7e19451c5b4f",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "324c0b9d83c44a19",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "40 - Obsidian/主页/00. 主页.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "00. 主页 的大纲"
+            }
+          },
+          {
+            "id": "98695456d98030ce",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40 - Obsidian/主页/00. 导航.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "00. 导航"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 207
+  },
+  "right": {
+    "id": "61191f8ea8fb7606",
+    "type": "split",
+    "children": [
+      {
+        "id": "4294f9e389e0008a",
+        "type": "tabs",
+        "dimension": 36.87089715536105,
+        "children": [
+          {
+            "id": "6ad73b7dcf2a71b6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "40 - Obsidian/主页/00. 主页.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "00. 主页 的反向链接列表"
+            }
+          },
+          {
+            "id": "46b54befe5ed140b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "4fce416981e6cec9",
+        "type": "tabs",
+        "dimension": 63.12910284463894,
+        "children": [
+          {
+            "id": "3191225bb556d597",
+            "type": "leaf",
+            "state": {
+              "type": "tasks_timeline_view",
+              "state": {},
+              "icon": "calendar-clock",
+              "title": "Tasks Timeline"
+            }
+          },
+          {
+            "id": "ff606f034166944b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40 - Obsidian/侧边栏/侧边栏当日日程.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "侧边栏当日日程"
+            }
+          },
+          {
+            "id": "2eb6db1a0dabc006",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40 - Obsidian/侧边栏/收件箱.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "收件箱"
+            }
+          },
+          {
+            "id": "40d7cbe7945b1b5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40 - Obsidian/侧边栏/侧边栏音乐播放器.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "侧边栏音乐播放器"
+            }
+          },
+          {
+            "id": "4354bd31fa04df0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40 - Obsidian/侧边栏/侧边栏天气预报.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "侧边栏天气预报"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 302.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-memos:Memos": false,
+      "periodic-notes:Open today": false,
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "53c2b5d46760f3a1",
+  "lastOpenFiles": [
+    "10 - 人员管理/家人/00. 人员.md",
+    "10 - 人员管理/家人/爸爸.md",
+    "10 - 人员管理/家人/女儿.md",
+    "50 - 卡片知识/00. 卡片盒.md",
+    "30 - 阅读笔记/00. 图书馆.md",
+    "40 - Obsidian/主页/00. 主页.md",
+    "10 - 人员管理/家人/秦某.md",
+    "40 - Obsidian/主页/00. 导航.md",
+    "40 - Obsidian/主页/00. 文件管理.md",
+    "20 - 工作学习/代码库/00. 代码库.md",
+    "00 - 每日日记/DailyNote/2025年06月05日.md",
+    "30 - 阅读笔记/破译金庸密码.md",
+    "00 - 每日日记/DailyNote/2022年05月13日.md",
+    "00 - 每日日记/DailyNote/2022年05月10日.md",
+    "00 - 每日日记/DailyNote/2022年05月09日.md",
+    "00 - 每日日记/DailyNote/2022年05月11日.md",
+    "00 - 每日日记/DailyNote/2022年05月12日.md",
+    "00 - 每日日记/DailyNote/2023年08月11日.md",
+    "20 - 工作学习/工作/项目二.md",
+    "20 - 工作学习/工作/素菜馆推进/【实例】O0. 素菜馆.md",
+    "20 - 工作学习/学习/论文一.md",
+    "20 - 工作学习/工作/项目一.md",
+    "20 - 工作学习/学习/00. 学习.md",
+    "20 - 工作学习/工作/00. 工作.md",
+    "50 - 卡片知识/address operator.md",
+    "50 - 卡片知识/Anarch.md",
+    "40 - Obsidian/附件/264541693454399_.pic_hd.jpg",
+    "40 - Obsidian/附件/264681693454999_.pic_hd.jpg",
+    "40 - Obsidian/附件/1658115786245751.mp4",
+    "40 - Obsidian/附件/Screen Shot 2022-06-02 at 15.08.45.png",
+    "40 - Obsidian/附件/Screen Shot 2022-06-02 at 15.10.29.png",
+    "40 - Obsidian/附件/百里守约绝影神枪.png",
+    "40 - Obsidian/附件/头像1.png",
+    "40 - Obsidian/附件/7231691755294_.pic.jpg",
+    "40 - Obsidian/附件/7251691755299_.pic.jpg",
+    "40 - Obsidian/附件/7261691755377_.pic.jpg",
+    "40 - Obsidian/侧边栏",
+    "40 - Obsidian/音乐/Lemon.mp3",
+    "40 - Obsidian/音乐/Loser.mp3",
+    "40 - Obsidian/react组件/使用实例",
+    "40 - Obsidian/音乐/珠儿.mp3",
+    "40 - Obsidian/音乐/花妖.mp3",
+    "40 - Obsidian/音乐",
+    "40 - Obsidian/脚本/QuickAdd/DateUpdate.js",
+    "40 - Obsidian/脚本/QuickAdd/AgendaDateUpdate.js",
+    "40 - Obsidian/附件/banners/rainy-day-bird-2.gif"
+  ]
+}

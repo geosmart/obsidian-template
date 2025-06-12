@@ -1,0 +1,372 @@
+{
+  "main": {
+    "id": "17c8b79e9cd45d18",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f94557378f8f67a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03c5ae9b90a857e8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Home/Home.canvas",
+                "viewState": {
+                  "x": -1000,
+                  "y": -1510,
+                  "zoom": -0.20891785704209764
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-layout-dashboard",
+              "title": "Home"
+            }
+          },
+          {
+            "id": "f88902e2b655f875",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diary/2025/2025-06-12.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-06-12"
+            }
+          },
+          {
+            "id": "d0fae1f688a5b9ce",
+            "type": "leaf",
+            "state": {
+              "type": "netclip-home-tab-view",
+              "state": {},
+              "icon": "home",
+              "title": "Home"
+            }
+          },
+          {
+            "id": "2fbd20232e98df5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Readme"
+            }
+          },
+          {
+            "id": "8064ac489d69ac77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "77ed88cd9d4edf18",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebf6e326f9986220",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c38ba062a467429c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "4f38bdd78f389e08",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "93932c8cddfed2d4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 367.5
+  },
+  "right": {
+    "id": "a3b4cf71d68fadcd",
+    "type": "split",
+    "children": [
+      {
+        "id": "0dcb57c09f00a844",
+        "type": "tabs",
+        "dimension": 31.82711198428291,
+        "children": [
+          {
+            "id": "6b3652b59febae87",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
+          {
+            "id": "56bedda394d016fb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "5a3966467ed80190",
+            "type": "leaf",
+            "state": {
+              "type": "tasks_timeline_view",
+              "state": {},
+              "icon": "calendar-clock",
+              "title": "Tasks Timeline"
+            }
+          },
+          {
+            "id": "ee1aa5b0d28f1353",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "d9eb354692e3fb4f",
+        "type": "tabs",
+        "dimension": 68.17288801571709,
+        "children": [
+          {
+            "id": "93cd81f982d06831",
+            "type": "leaf",
+            "state": {
+              "type": "tasks_timeline_view",
+              "state": {},
+              "icon": "calendar-clock",
+              "title": "Tasks Timeline"
+            }
+          },
+          {
+            "id": "4ac5bf1a825df673",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home/Home.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Home 的大纲"
+            }
+          },
+          {
+            "id": "c9b56a4a295aa010",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home/Home.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Home 的反向链接列表"
+            }
+          },
+          {
+            "id": "c9578ed628808135",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "c1bbf3e1e4b83551",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home/Home.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Home 的出链列表"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 423.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "random-note:开始漫游笔记": false,
+      "workspaces:管理工作区布局": false,
+      "canvas:新建白板": false,
+      "homepage:Open homepage": false,
+      "outliner-md:New outliner file": false,
+      "periodic-notes:Open today": false,
+      "quickadd:QuickAdd": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false,
+      "smart-composer:Open smart composer": false,
+      "net-clip:NetClip": false
+    }
+  },
+  "active": "f88902e2b655f875",
+  "lastOpenFiles": [
+    "Home/Home.canvas",
+    "Home/待办.md",
+    "Home.md",
+    "Diary/2025/2025-06-09.md",
+    "Diary/2025/2025-06-11.md",
+    "Diary/2025/2025-06-12.md",
+    "Readme.md",
+    "asdasd.md",
+    "obsidian-livesync.md",
+    "撒大时代.md",
+    "smart-composer.md",
+    "02 Company/ZC/项目/Hodgen",
+    "02 Company/Siger",
+    "01- 学习资料",
+    "assets/Readme/xtool-logo.png",
+    "Diary/2025/Weekly/2025-W24.md",
+    "Diary/2025/Weekly/2025-W20.md",
+    "03Resource/工具/obsidian/template/微信公众号封面设计-1.html",
+    "03Resource/工具/obsidian/template/tasks.md",
+    "03Resource/工具/obsidian/template/habitat.md",
+    "03Resource/工具/obsidian/template/SearchEngineBook.md",
+    "02Area/奕宸管理/奕宸管理.md",
+    "02 Company/ZC/项目/众华/会议/Untitled.md",
+    "02 Company/ZC/项目/众华/会议",
+    "02 Company/ZC/项目/众华",
+    "02 Company/ZC/项目",
+    "02 Company/ZC",
+    "02 Company",
+    "01Project/Untitled.md",
+    "01Project/24格尔木线路1900.md",
+    "00 Templater/待办事项模板.md",
+    "00 Templater/会议模板1.md",
+    "00 Templater/会议模板.md",
+    "00 Templater/会议.md",
+    "00 Templater",
+    "02Area/02Area.md",
+    "03Resource/工具/obsidian/template/meeting.md",
+    "files/xtool-logo.png",
+    "files/home.png",
+    "Home/demo.canvas"
+  ]
+}

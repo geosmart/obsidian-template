@@ -1,0 +1,10 @@
+{
+	"id": "completed-tasks",
+	"name": "Completed Tasks",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Automatically sort completed tasks to the bottom of the list.",
+	"author": "Mgussekloo",
+	"authorUrl": "https://gus.cool",
+	"isDesktopOnly": false
+}

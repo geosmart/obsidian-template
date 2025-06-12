@@ -1,0 +1,245 @@
+{
+  "workspaces": {
+    "default": {
+      "main": {
+        "id": "17c8b79e9cd45d18",
+        "type": "split",
+        "children": [
+          {
+            "id": "6f94557378f8f67a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "03c5ae9b90a857e8",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Home/Home.canvas",
+                    "viewState": {
+                      "x": -1000,
+                      "y": -1510,
+                      "zoom": -0.20891785704209764
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Home"
+                }
+              },
+              {
+                "id": "d0fae1f688a5b9ce",
+                "type": "leaf",
+                "state": {
+                  "type": "netclip-home-tab-view",
+                  "state": {},
+                  "icon": "home",
+                  "title": "Home"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "77ed88cd9d4edf18",
+        "type": "split",
+        "children": [
+          {
+            "id": "ebf6e326f9986220",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c38ba062a467429c",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "文件列表"
+                }
+              },
+              {
+                "id": "4f38bdd78f389e08",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "搜索"
+                }
+              },
+              {
+                "id": "93932c8cddfed2d4",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "书签"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 367.5
+      },
+      "right": {
+        "id": "a3b4cf71d68fadcd",
+        "type": "split",
+        "children": [
+          {
+            "id": "0dcb57c09f00a844",
+            "type": "tabs",
+            "dimension": 31.82711198428291,
+            "children": [
+              {
+                "id": "6b3652b59febae87",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "关系图谱"
+                }
+              },
+              {
+                "id": "56bedda394d016fb",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "新标签页"
+                }
+              }
+            ]
+          },
+          {
+            "id": "d9eb354692e3fb4f",
+            "type": "tabs",
+            "dimension": 68.17288801571709,
+            "children": [
+              {
+                "id": "93cd81f982d06831",
+                "type": "leaf",
+                "state": {
+                  "type": "tasks_timeline_view",
+                  "state": {},
+                  "icon": "calendar-clock",
+                  "title": "Tasks Timeline"
+                }
+              },
+              {
+                "id": "4ac5bf1a825df673",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Home/Home.canvas",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Home 的大纲"
+                }
+              },
+              {
+                "id": "c9b56a4a295aa010",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Home/Home.canvas",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Home 的反向链接列表"
+                }
+              },
+              {
+                "id": "c9578ed628808135",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "标签"
+                }
+              },
+              {
+                "id": "c1bbf3e1e4b83551",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Home/Home.canvas",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Home 的出链列表"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 423.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "markdown-importer:打开 Markdown 格式转换器": false,
+          "random-note:开始漫游笔记": false,
+          "workspaces:管理工作区布局": false,
+          "templater-obsidian:Templater": false,
+          "outliner-md:New outliner file": false,
+          "obsidian-weread-plugin:同步微信读书笔记": false,
+          "homepage:Open homepage": false,
+          "omnisearch:Omnisearch": false,
+          "obsidian-git:Open Git source control": false,
+          "quickadd:QuickAdd": false,
+          "nutstore-sync:开始同步": false,
+          "nutstore-sync:停止同步": false,
+          "canvas:新建白板": false,
+          "periodic-notes:Open today": false,
+          "net-clip:NetClip": false
+        }
+      },
+      "active": "d0fae1f688a5b9ce",
+      "mtime": "2025-06-12T11:32:55+08:00"
+    }
+  },
+  "active": "default"
+}

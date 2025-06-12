@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>微信公众号封面设计</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;700;900&display=swap" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js"></script>
+    <style>
+        body {
+            font-family: 'Noto Sans SC', sans-serif;
+            background-color: #f5f5f5;
+        }
+
+        .container-wrapper {
+            width: 100%;
+            max-width: 1200px;
+            padding: 20px;
+            margin: 0 auto;
+        }
+
+        .cover-container {
+            width: 100%;
+            position: relative;
+            background-color: white;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+
+        .aspect-container {
+            position: relative;
+            width: 100%;
+            padding-top: calc(100% / 3.35); /* 3.35:1 比例 */
+        }
+
+        .cover-content {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            display: flex;
+            overflow: hidden;
+        }
+
+        .main-cover {
+            flex: 2.35;
+            position: relative;
+            overflow: hidden;
+            background: #1e3a8a;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            color: white;
+            padding: 2%;
+        }
+
+        .circle-cover {
+            flex: 1;
+            position: relative;
+            overflow: hidden;
+            background: #1e3a8a;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            color: white;
+        }
+
+        .title-large {
+            font-weight: 900;
+            text-align: center;
+            line-height: 1.2;
+            font-size: 5vw;
+            width: 90%;
+            word-break: break-word;
+        }
+
+        .subtitle {
+            font-weight: 700;
+            text-align: center;
+            line-height: 1.4;
+            font-size: 1.8vw;
+            margin-top: 2%;
+            opacity: 0.9;
+            width: 85%;
+        }
+
+        .circle-text {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            grid-template-rows: 1fr 1fr;
+            width: 80%;
+            height: 80%;
+            font-weight: 900;
+            font-size: 4vw;
+        }
+
+        .circle-char {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .decoration {
+            position: absolute;
+            width: 10%;
+            height: 10%;
+            opacity: 0.2;
+        }
+
+        .dec-1 {
+            top: 5%;
+            left: 5%;
+            border-top: 5px solid white;
+            border-left: 5px solid white;
+        }
+
+        .dec-2 {
+            bottom: 5%;
+            right: 5%;
+            border-bottom: 5px solid white;
+            border-right: 5px solid white;
+        }
+
+        .dec-3 {
+            top: 5%;
+            right: 5%;
+            border-top: 5px solid white;
+            border-right: 5px solid white;
+        }
+
+        .dec-4 {
+            bottom: 5%;
+            left: 5%;
+            border-bottom: 5px solid white;
+            border-left: 5px solid white;
+        }
+
+        .accent-element {
+            position: absolute;
+            background-color: rgba(255, 255, 255, 0.15);
+        }
+
+        .accent-1 {
+            width: 20%;
+            height: 5px;
+            top: 15%;
+            left: 10%;
+        }
+
+        .accent-2 {
+            width: 5px;
+            height: 20%;
+            bottom: 10%;
+            right: 20%;
+        }
+
+        .accent-3 {
+            width: 15%;
+            height: 5px;
+            bottom: 25%;
+            left: 15%;
+        }
+
+        .circle-accent-1 {
+            width: 15%;
+            height: 5px;
+            top: 20%;
+            left: 20%;
+        }
+
+        .circle-accent-2 {
+            width: 5px;
+            height: 15%;
+            bottom: 20%;
+            right: 20%;
+        }
+
+        .download-btn {
+            margin-top: 20px;
+            padding: 10px 20px;
+            background-color: #1e3a8a;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: all 0.3s ease;
+        }
+
+        .download-btn:hover {
+            background-color: #2563eb;
+            transform: translateY(-2px);
+        }
+
+        .tech-element {
+            position: absolute;
+            background-color: rgba(255, 255, 255, 0.05);
+            border-radius: 50%;
+        }
+
+        .tech-1 {
+            width: 30%;
+            height: 30%;
+            top: -5%;
+            left: -5%;
+        }
+
+        .tech-2 {
+            width: 20%;
+            height: 20%;
+            bottom: -5%;
+            right: -5%;
+        }
+
+        .ai-icon {
+            position: absolute;
+            color: rgba(255, 255, 255, 0.2);
+            font-size: 2vw;
+        }
+
+        .icon-1 {
+            top: 10%;
+            right: 10%;
+        }
+
+        .icon-2 {
+            bottom: 10%;
+            left: 10%;
+        }
+
+        .circle-icon {
+            position: absolute;
+            color: rgba(255, 255, 255, 0.2);
+            font-size: 1.5vw;
+        }
+
+        .circle-icon-1 {
+            top: 15%;
+            right: 15%;
+        }
+
+        .circle-icon-2 {
+            bottom: 15%;
+            left: 15%;
+        }
+    </style>
+</head>
+<body class="bg-gray-100 py-8">
+    <div class="container-wrapper">
+        <div id="capture" class="cover-container">
+            <div class="aspect-container">
+                <div class="cover-content">
+                    <!-- 主封面图区域 (2.35:1) -->
+                    <div class="main-cover">
+                        <div class="decoration dec-1"></div>
+                        <div class="decoration dec-2"></div>
+
+                        <div class="accent-element accent-1"></div>
+                        <div class="accent-element accent-2"></div>
+                        <div class="accent-element accent-3"></div>
+
+                        <div class="tech-element tech-1"></div>
+                        <div class="tech-element tech-2"></div>
+
+                        <div class="ai-icon icon-1">
+                            <i class="fas fa-robot"></i>
+                        </div>
+                        <div class="ai-icon icon-2">
+                            <i class="fas fa-brain"></i>
+                        </div>
+
+                        <div class="title-large">AI笔记集成实践</div>
+                        <div class="subtitle">Obsidian笔记AI实践：免费无缝集成OpenRouter，Ollama，ChatGPT</div>
+                    </div>
+
+                    <!-- 朋友圈分享封面区域 (1:1) -->
+                    <div class="circle-cover">
+                        <div class="decoration dec-3"></div>
+                        <div class="decoration dec-4"></div>
+
+                        <div class="accent-element circle-accent-1"></div>
+                        <div class="accent-element circle-accent-2"></div>
+
+                        <div class="circle-icon circle-icon-1">
+                            <i class="fas fa-microchip"></i>
+                        </div>
+                        <div class="circle-icon circle-icon-2">
+                            <i class="fas fa-code"></i>
+                        </div>
+
+                        <div class="circle-text">
+                            <div class="circle-char">A</div>
+                            <div class="circle-char">I</div>
+                            <div class="circle-char">笔</div>
+                            <div class="circle-char">记</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="flex justify-center">
+            <button id="downloadBtn" class="download-btn">
+                <i class="fas fa-download mr-2"></i>下载封面图
+            </button>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById('downloadBtn').addEventListener('click', function() {
+            html2canvas(document.getElementById('capture')).then(function(canvas) {
+                var link = document.createElement('a');
+                link.download = '微信公众号封面.png';
+                link.href = canvas.toDataURL('image/png');
+                link.click();
+            });
+        });
+    </script>
+</body>
+</html>

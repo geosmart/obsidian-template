@@ -1,0 +1,19 @@
+{
+  "pinned": [
+    "quickadd:choice:4c2e0082-c24b-487e-aa38-ab7515a12a68",
+    "templater-obsidian:02Area/工具/obsidian/template/yesterday-tasks-undo.md",
+    "quickadd:choice:d38e3815-fc40-4031-8678-615011b062bb",
+    "quickadd:choice:9c8e821c-09fa-465f-8f1e-64edff5e6d96",
+    "quickadd:choice:be7b7a5d-b2b3-40f4-a32f-835484fd3493",
+    "obsidian-show-file-path:copy-file-path",
+    "app:open-settings",
+    "workspaces:save",
+    "note-composer:split-file",
+    "local-gpt:quick-access-1",
+    "local-gpt:quick-access-2",
+    "local-gpt:quick-access-3",
+    "local-gpt:quick-access-4",
+    "local-gpt:quick-access-5",
+    "local-gpt:quick-access-6"
+  ]
+}

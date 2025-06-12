@@ -1,0 +1,5 @@
+{
+  "askBeforeMerging": false,
+  "replacementText": "link",
+  "template": "Atlas/Utilities/Templates/My/Template, Note Refactor"
+}

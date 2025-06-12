@@ -1,0 +1,47 @@
+{
+  "account": "",
+  "credential": "",
+  "remoteDir": "/vault-mobile/",
+  "remoteCacheDir": "/vault-mobile-sync-cache/",
+  "useGitStyle": true,
+  "conflictStrategy": "diff-match-patch",
+  "oauthResponseText": "",
+  "loginMode": "manual",
+  "confirmBeforeSync": false,
+  "syncMode": "strict",
+  "filterRules": {
+    "exclusionRules": [
+      {
+        "expr": ".git",
+        "options": {
+          "caseSensitive": false
+        }
+      },
+      {
+        "expr": ".DS_Store",
+        "options": {
+          "caseSensitive": false
+        }
+      },
+      {
+        "expr": ".trash",
+        "options": {
+          "caseSensitive": false
+        }
+      }
+    ],
+    "inclusionRules": [
+      {
+        "expr": ".obsidian/bookmarks.json",
+        "options": {
+          "caseSensitive": false
+        }
+      }
+    ]
+  },
+  "skipLargeFiles": {
+    "maxSize": "100 MB"
+  },
+  "realtimeSync": true,
+  "startupSyncDelaySeconds": 3
+}
