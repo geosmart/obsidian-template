@@ -23,4 +23,4 @@
 │   ├── Home.canvas
 ```
 
-![极客工具](vault-mobile/files/xtool-logo.png)
+![极客工具](vault-mobile/assets/Readme/xtool-logo.png)
