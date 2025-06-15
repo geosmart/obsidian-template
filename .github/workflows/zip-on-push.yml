@@ -16,7 +16,7 @@ jobs:
         run: |
           zip -r obsidian-template.zip . \
             -x ".git*" \
-            -x ".github/workflows/*"
+            -x ".github/workflows/*" \
             -x "installer/*"
 
       - name: Upload zip artifact

@@ -35,33 +35,9 @@
               "icon": "home",
               "title": "Home"
             }
-          },
-          {
-            "id": "38bf14ce5565070c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diary/2025/2025-06-12.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-06-12"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,27 +126,16 @@
             }
           },
           {
-            "id": "5a3966467ed80190",
+            "id": "e56d8d9b7c3944df",
             "type": "leaf",
             "state": {
-              "type": "tasks_timeline_view",
+              "type": "netClip_workspace_webview",
               "state": {},
-              "icon": "calendar-clock",
-              "title": "Tasks Timeline"
-            }
-          },
-          {
-            "id": "ee1aa5b0d28f1353",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "icon": "globe",
+              "title": "Search - Microsoft Bing"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "d9eb354692e3fb4f",
@@ -258,6 +223,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "smart-composer:Open smart composer": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "daily-notes:打开/创建今天的日记": false,
@@ -266,26 +232,23 @@
       "markdown-importer:打开 Markdown 格式转换器": false,
       "random-note:开始漫游笔记": false,
       "workspaces:管理工作区布局": false,
-      "canvas:新建白板": false,
-      "homepage:Open homepage": false,
-      "outliner-md:New outliner file": false,
-      "periodic-notes:Open today": false,
-      "quickadd:QuickAdd": false,
       "templater-obsidian:Templater": false,
+      "outliner-md:New outliner file": false,
+      "homepage:Open homepage": false,
       "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
-      "smart-composer:Open smart composer": false,
+      "quickadd:QuickAdd": false,
+      "canvas:新建白板": false,
       "net-clip:NetClip": false,
-      "nutstore-sync:开始同步": false,
-      "nutstore-sync:停止同步": false
+      "periodic-notes:Open today": false
     }
   },
-  "active": "38bf14ce5565070c",
+  "active": "d0fae1f688a5b9ce",
   "lastOpenFiles": [
+    "Diary/2025/2025-06-12.md",
     "Home.md",
     "Home/Home.canvas",
     "Readme.md",
-    "Diary/2025/2025-06-12.md",
     "Home/待办.md",
     "Diary/2025/2025-06-09.md",
     "Diary/2025/2025-06-11.md",
