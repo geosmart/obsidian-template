@@ -3,7 +3,7 @@ name: Zip and Release Obsidian Template
 on:
   push:
     tags:
-      - 'v*'  # 只在类似 v1.0.0 的 tag push 时触发
+      - 'v*'
 
 jobs:
   release:
@@ -13,13 +13,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Create ZIP file (excluding .git, workflow, installer)
-        run: |
-          zip -r obsidian-template.zip . \
-            -x ".git*" \
-            -x ".github/workflows/*" \
-            -x "installer/*"
-
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v2
         with:
@@ -27,11 +20,11 @@ jobs:
           tag_name: ${{ github.ref_name }}
           generate_release_notes: true
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.CI_KEY }}
 
       - name: Upload ZIP to Release
         uses: softprops/action-gh-release@v2
         with:
           files: obsidian-template.zip
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.CI_KEY }}
