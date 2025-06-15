@@ -1,0 +1,26 @@
+name: Zip Obsidian Template on Push
+
+on:
+  push:
+    branches:
+      - master
+jobs:
+  package:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Zip project files
+        run: |
+          zip -r obsidian-template.zip . \
+            -x ".git*" \
+            -x ".github/workflows/*"
+            -x "installer/*"
+
+      - name: Upload zip artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: obsidian-template-zip
+          path: obsidian-template.zip
