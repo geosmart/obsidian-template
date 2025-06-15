@@ -1,26 +1,37 @@
-name: Zip Obsidian Template on Push
+name: Zip and Release Obsidian Template
 
 on:
   push:
-    branches:
-      - master
+    tags:
+      - 'v*'  # 只在类似 v1.0.0 的 tag push 时触发
+
 jobs:
-  package:
+  release:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Zip project files
+      - name: Create ZIP file (excluding .git, workflow, installer)
         run: |
           zip -r obsidian-template.zip . \
             -x ".git*" \
             -x ".github/workflows/*" \
             -x "installer/*"
 
-      - name: Upload zip artifact
-        uses: actions/upload-artifact@v4
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
         with:
-          name: obsidian-template-zip
-          path: obsidian-template.zip
+          name: Release ${{ github.ref_name }}
+          tag_name: ${{ github.ref_name }}
+          generate_release_notes: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload ZIP to Release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: obsidian-template.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
