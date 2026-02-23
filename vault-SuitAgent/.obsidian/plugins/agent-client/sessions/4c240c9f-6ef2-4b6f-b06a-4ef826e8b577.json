@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sessionId": "4c240c9f-6ef2-4b6f-b06a-4ef826e8b577",
+  "agentId": "claude-code-acp",
+  "messages": [
+    {
+      "id": "99085cf7-7331-4318-98c7-6c2c40359088",
+      "role": "user",
+      "content": [
+        {
+          "type": "text_with_context",
+          "text": "按[/mnt/gogs/kbase/01Project/Blog/content/AI/基于 ACP 的 obsidian 的 AI 最佳实践：Obsidian Agent Client.md]这篇文章的描述进行写作",
+          "autoMentionContext": {
+            "noteName": "基于 ACP 的 obsidian 的 AI 最佳实践：Obsidian Agent Client",
+            "notePath": "01Project/Blog/content/AI/基于 ACP 的 obsidian 的 AI 最佳实践：Obsidian Agent Client.md"
+          }
+        }
+      ],
+      "timestamp": "2026-01-28T13:43:21.908Z"
+    }
+  ],
+  "savedAt": "2026-01-28T13:43:23.953Z"
+}

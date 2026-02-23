@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "sessionId": "6e8508bb-8d24-4310-9be8-751c8c5788be",
+  "agentId": "claude-code-acp",
+  "messages": [
+    {
+      "id": "c8d57f46-262e-4bc2-9092-23e15f0e6415",
+      "role": "user",
+      "content": [
+        {
+          "type": "text_with_context",
+          "text": "总结这周的工作内容",
+          "autoMentionContext": {
+            "noteName": "2026-01-27",
+            "notePath": "Diary/2026/2026-01-27.md"
+          }
+        }
+      ],
+      "timestamp": "2026-01-27T08:27:35.894Z"
+    },
+    {
+      "id": "493af893-d950-44f2-97ed-bd5ff7053e50",
+      "role": "user",
+      "content": [
+        {
+          "type": "text_with_context",
+          "text": "总结今天的工作内容",
+          "autoMentionContext": {
+            "noteName": "2026-01-27",
+            "notePath": "Diary/2026/2026-01-27.md"
+          }
+        }
+      ],
+      "timestamp": "2026-01-27T08:28:26.851Z"
+    }
+  ],
+  "savedAt": "2026-01-27T08:28:26.914Z"
+}

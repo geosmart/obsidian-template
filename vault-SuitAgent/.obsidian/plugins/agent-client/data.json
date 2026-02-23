@@ -1,0 +1,362 @@
+{
+  "claude": {
+    "id": "claude-code-acp",
+    "displayName": "Claude Code",
+    "apiKey": "",
+    "command": "/home/geosmart/.nvm/versions/node/v22.21.1/bin/claude-code-acp",
+    "args": [
+      "--settings",
+      "/mnt/gogs/obsidian-template/vault-SuitAgent/.claude/settings.local.json",
+      "--verbose",
+      "--dangerously-skip-permissions"
+    ],
+    "env": []
+  },
+  "codex": {
+    "id": "codex-acp",
+    "displayName": "Codex",
+    "apiKey": "",
+    "command": "",
+    "args": [],
+    "env": []
+  },
+  "gemini": {
+    "id": "gemini-cli",
+    "displayName": "Gemini CLI",
+    "apiKey": "",
+    "command": "",
+    "args": [
+      "--experimental-acp"
+    ],
+    "env": []
+  },
+  "customAgents": [],
+  "defaultAgentId": "claude-code-acp",
+  "autoAllowPermissions": true,
+  "autoMentionActiveNote": true,
+  "debugMode": true,
+  "nodePath": "/usr/local/bin/node",
+  "exportSettings": {
+    "defaultFolder": "AgentClient",
+    "filenameTemplate": "agent_client_{date}_{time}",
+    "autoExportOnNewChat": true,
+    "autoExportOnCloseChat": true,
+    "openFileAfterExport": true,
+    "includeImages": true,
+    "imageLocation": "obsidian",
+    "imageCustomFolder": "Agent Client",
+    "frontmatterTag": "agent-client"
+  },
+  "windowsWslMode": false,
+  "sendMessageShortcut": "enter",
+  "chatViewLocation": "editor-tab",
+  "displaySettings": {
+    "autoCollapseDiffs": true,
+    "diffCollapseThreshold": 10,
+    "maxNoteLength": 10000,
+    "maxSelectionLength": 10000,
+    "showEmojis": true,
+    "fontSize": null
+  },
+  "savedSessions": [
+    {
+      "sessionId": "f5c9bb81-4453-4f17-ad96-650c889af78a",
+      "agentId": "claude-code-acp",
+      "cwd": "/mnt/gogs/SuitAgent",
+      "title": "hello",
+      "createdAt": "2026-02-23T09:01:09.117Z",
+      "updatedAt": "2026-02-23T09:01:09.117Z"
+    },
+    {
+      "sessionId": "0f288bd1-6f29-46b4-8eb7-a349c75fc6eb",
+      "agentId": "claude-code-acp",
+      "cwd": "/mnt/gogs/SuitAgent",
+      "title": "你是谁",
+      "createdAt": "2026-02-23T08:46:21.953Z",
+      "updatedAt": "2026-02-23T08:46:21.953Z"
+    },
+    {
+      "sessionId": "b3b78d45-41ff-4ba0-bf42-a94d43d77d54",
+      "agentId": "claude-code-acp",
+      "cwd": "/mnt/gogs/SuitAgent",
+      "title": "input/民事起诉状.pdf",
+      "createdAt": "2026-02-23T08:43:58.453Z",
+      "updatedAt": "2026-02-23T08:43:58.453Z"
+    },
+    {
+      "sessionId": "f1e656a7-bc85-4a21-92e0-c86949041b86",
+      "agentId": "claude-code-acp",
+      "cwd": "/mnt/gogs/kbase",
+      "title": "分析阶段，提示需要创建todo文件，将分析出来的任务持久化到todo列表，然后逐个执行。每个执行1个...",
+      "createdAt": "2026-02-16T02:41:55.173Z",
+      "updatedAt": "2026-02-16T02:41:55.173Z"
+    },
+    {
+      "sessionId": "2a20dc6f-87fb-4007-a07d-19264f37b250",
+      "agentId": "claude-code-acp",
+      "cwd": "/mnt/gogs/kbase",
+      "title": "优化这个提示词",
+      "createdAt": "2026-02-16T02:34:24.221Z",
+      "updatedAt": "2026-02-16T02:34:24.221Z"
+    },
+    {
+      "sessionId": "b9ec1b59-a49b-4cd5-80d1-96fc9fb537c4",
+      "agentId": "claude-code-acp",
+      "cwd": "/mnt/gogs/kbase",
+      "title": "纠错",
+      "createdAt": "2026-02-09T05:38:11.221Z",
+      "updatedAt": "2026-02-09T05:38:11.221Z"
+    },
+    {
+      "sessionId": "cc87fc39-566b-4024-bf0e-4a3a722f2eea",
+      "agentId": "claude-code-acp",
+      "cwd": "/mnt/gogs/kbase",
+      "title": "计算出哪个知识库导致es的少了数据",
+      "createdAt": "2026-02-04T14:45:09.957Z",
+      "updatedAt": "2026-02-04T14:45:09.957Z"
+    },
+    {
+      "sessionId": "5af49846-f8f2-43aa-a0c9-cf028bd600fe",
+      "agentId": "claude-code-acp",
+      "cwd": "/mnt/gogs/kbase",
+      "title": "优化这段",
+      "createdAt": "2026-02-04T07:17:27.510Z",
+      "updatedAt": "2026-02-04T07:17:27.510Z"
+    },
+    {
+      "sessionId": "42908b19-7919-4164-99df-7ca5287a4fb5",
+      "agentId": "claude-code-acp",
+      "cwd": "/mnt/gogs/kbase",
+      "title": "按需求开始写作",
+      "createdAt": "2026-02-04T02:35:02.693Z",
+      "updatedAt": "2026-02-04T02:35:02.693Z"
+    },
+    {
+      "sessionId": "10e3a896-ba46-46cb-973b-cd9528668636",
+      "agentId": "claude-code-acp",
+      "cwd": "/mnt/gogs/kbase",
+      "title": "这个SKILL只包含github的处理逻辑。\n\n我要新增\n2. 我本周 star 的 5 个项目： ...",
+      "createdAt": "2026-02-04T01:45:11.788Z",
+      "updatedAt": "2026-02-04T01:45:11.788Z"
+    },
+    {
+      "sessionId": "1dd19b13-6de2-4d77-83f0-7aa9ab2bb4f1",
+      "agentId": "claude-code-acp",
+      "cwd": "/mnt/gogs/kbase",
+      "title": "Agent Plan可以展开写写\n  * [Agent Plan](https://agentcli...",
+      "createdAt": "2026-02-03T11:59:44.825Z",
+      "updatedAt": "2026-02-03T11:59:44.825Z"
+    },
+    {
+      "sessionId": "9c7cb42f-16b4-459a-ba7c-61f4c647c0cd",
+      "agentId": "claude-code-acp",
+      "cwd": "/mnt/gogs/kbase",
+      "title": "给出优化后的描述",
+      "createdAt": "2026-02-03T10:10:45.636Z",
+      "updatedAt": "2026-02-03T10:10:45.636Z"
+    },
+    {
+      "sessionId": "658f43b2-3895-4f7c-9196-1da96d13d3ac",
+      "agentId": "claude-code-acp",
+      "cwd": "/mnt/gogs/kbase",
+      "title": "修复markdown表格格式问题",
+      "createdAt": "2026-02-03T10:03:55.179Z",
+      "updatedAt": "2026-02-03T10:03:55.179Z"
+    },
+    {
+      "sessionId": "18ee1868-522d-475f-bc40-7e505a720bcf",
+      "agentId": "claude-code-acp",
+      "cwd": "/mnt/gogs/kbase",
+      "title": "优化这个描述",
+      "createdAt": "2026-02-03T09:50:02.890Z",
+      "updatedAt": "2026-02-03T09:50:02.890Z"
+    },
+    {
+      "sessionId": "be108a91-bdeb-428b-8e62-d21579991df8",
+      "agentId": "claude-code-acp",
+      "cwd": "/mnt/gogs/kbase",
+      "title": "修改参考里面的引用的样式",
+      "createdAt": "2026-02-03T01:07:31.473Z",
+      "updatedAt": "2026-02-03T01:07:31.473Z"
+    },
+    {
+      "sessionId": "27396352-7130-495b-b07b-86307f560e64",
+      "agentId": "claude-code-acp",
+      "cwd": "/mnt/gogs/kbase",
+      "title": "按文章描述写作",
+      "createdAt": "2026-01-28T14:30:53.141Z",
+      "updatedAt": "2026-01-28T14:30:53.141Z"
+    },
+    {
+      "sessionId": "58dfffdf-a2d4-4bcb-8dbe-534619f43a5a",
+      "agentId": "claude-code-acp",
+      "cwd": "/mnt/gogs/kbase",
+      "title": "/status",
+      "createdAt": "2026-01-28T14:21:22.695Z",
+      "updatedAt": "2026-01-28T14:21:22.695Z"
+    },
+    {
+      "sessionId": "4c240c9f-6ef2-4b6f-b06a-4ef826e8b577",
+      "agentId": "claude-code-acp",
+      "cwd": "/mnt/gogs/kbase",
+      "title": "按[/mnt/gogs/kbase/01Project/Blog/content/AI/基于 ACP...",
+      "createdAt": "2026-01-28T13:43:23.945Z",
+      "updatedAt": "2026-01-28T13:43:23.945Z"
+    },
+    {
+      "sessionId": "9486d22f-3922-4d41-a797-76a63a9f8e11",
+      "agentId": "claude-code-acp",
+      "cwd": "/mnt/gogs/kbase",
+      "title": "按这篇文章的描述进行写作",
+      "createdAt": "2026-01-28T13:29:36.835Z",
+      "updatedAt": "2026-01-28T13:29:36.835Z"
+    },
+    {
+      "sessionId": "007f2b17-5346-4129-842b-516f4266231a",
+      "agentId": "claude-code-acp",
+      "cwd": "/mnt/gogs/kbase",
+      "title": "按这篇markdown中的描述进行调研和写作",
+      "createdAt": "2026-01-28T13:26:50.186Z",
+      "updatedAt": "2026-01-28T13:26:50.186Z"
+    },
+    {
+      "sessionId": "0311762e-2bef-4955-be3a-13652fd53810",
+      "agentId": "claude-code-acp",
+      "cwd": "/mnt/gogs/kbase",
+      "title": "Fork: 按这篇markdown中的描述进行调研和写作",
+      "createdAt": "2026-01-28T13:26:31.096Z",
+      "updatedAt": "2026-01-28T13:26:31.096Z"
+    },
+    {
+      "sessionId": "fce2c97a-645d-465d-a9ee-a6620d8b771d",
+      "agentId": "claude-code-acp",
+      "cwd": "/mnt/gogs/kbase",
+      "title": "按这篇markdown中的描述进行调研和写作",
+      "createdAt": "2026-01-28T13:20:55.063Z",
+      "updatedAt": "2026-01-28T13:20:55.063Z"
+    },
+    {
+      "sessionId": "782ca511-69e6-4e56-81e9-145687fb8e0b",
+      "agentId": "claude-code-acp",
+      "cwd": "/mnt/gogs/kbase",
+      "title": "按这篇markdown中的描述进行调研和写作",
+      "createdAt": "2026-01-28T13:18:43.793Z",
+      "updatedAt": "2026-01-28T13:18:43.793Z"
+    },
+    {
+      "sessionId": "fd1e44f2-9490-4c4a-bb88-f3daee01e435",
+      "agentId": "claude-code-acp",
+      "cwd": "/mnt/gogs/kbase",
+      "title": "按这篇markdown中的描述进行调研和写作",
+      "createdAt": "2026-01-28T13:10:07.115Z",
+      "updatedAt": "2026-01-28T13:10:07.115Z"
+    },
+    {
+      "sessionId": "7a927141-0be1-4423-936b-bf95fbe10f8f",
+      "agentId": "claude-code-acp",
+      "cwd": "/mnt/gogs/kbase",
+      "title": "按这篇markdown中的描述进行调研和写作",
+      "createdAt": "2026-01-28T13:04:41.954Z",
+      "updatedAt": "2026-01-28T13:04:41.954Z"
+    },
+    {
+      "sessionId": "0850747b-74d4-431e-bfe9-0f41a48c6c69",
+      "agentId": "claude-code-acp",
+      "cwd": "/mnt/gogs/kbase",
+      "title": "按这篇markdown中的描述进行调研和写作",
+      "createdAt": "2026-01-28T13:03:38.234Z",
+      "updatedAt": "2026-01-28T13:03:38.234Z"
+    },
+    {
+      "sessionId": "085d32c2-6ae6-48b4-8908-14fe3e7ab0cc",
+      "agentId": "qodercli",
+      "cwd": "/mnt/gogs/kbase",
+      "title": "@[[基于 ACP 的 obsidian 的 AI 最佳实践]] 使用skill去掉ai味道",
+      "createdAt": "2026-01-28T10:16:58.157Z",
+      "updatedAt": "2026-01-28T10:16:58.157Z"
+    },
+    {
+      "sessionId": "4ec6d037-f12a-43dd-a47e-48a1a2b93ad1",
+      "agentId": "qodercli",
+      "cwd": "/mnt/gogs/kbase",
+      "title": "按文档内容，写一篇obsidian agent client实现obsidian中使用AI的最佳实践...",
+      "createdAt": "2026-01-28T08:01:22.434Z",
+      "updatedAt": "2026-01-28T08:01:22.434Z"
+    },
+    {
+      "sessionId": "36eb7f19-34e9-4bcb-af77-dcca57bb995e",
+      "agentId": "qodercli",
+      "cwd": "/mnt/gogs/kbase",
+      "title": "你是什么大模型？",
+      "createdAt": "2026-01-28T07:50:39.738Z",
+      "updatedAt": "2026-01-28T07:50:39.738Z"
+    },
+    {
+      "sessionId": "20260128_11",
+      "agentId": "goose",
+      "cwd": "/mnt/gogs/kbase",
+      "title": "goose acp如何使用默认配置",
+      "createdAt": "2026-01-28T07:38:03.750Z",
+      "updatedAt": "2026-01-28T07:38:03.750Z"
+    },
+    {
+      "sessionId": "20260128_9",
+      "agentId": "goose",
+      "cwd": "/mnt/gogs/kbase",
+      "title": "goose在obsidian agent client中如何使用默认的配置，目前看没有任何插件是wo...",
+      "createdAt": "2026-01-28T07:28:00.320Z",
+      "updatedAt": "2026-01-28T07:28:00.320Z"
+    },
+    {
+      "sessionId": "20260128_8",
+      "agentId": "goose",
+      "cwd": "/mnt/gogs/kbase",
+      "title": "你有哪些skills",
+      "createdAt": "2026-01-28T07:24:34.957Z",
+      "updatedAt": "2026-01-28T07:24:34.957Z"
+    },
+    {
+      "sessionId": "20260128_5",
+      "agentId": "goose",
+      "cwd": "/mnt/gogs/kbase",
+      "title": "我觉得仅仅是名字的混淆，zed的acp是cli工具的协议，ibm的acp是agent开发协议",
+      "createdAt": "2026-01-28T07:18:50.432Z",
+      "updatedAt": "2026-01-28T07:18:50.432Z"
+    },
+    {
+      "sessionId": "aee6f462-ca9c-4abb-bee8-d071d6bbecad",
+      "agentId": "claude-code-acp",
+      "cwd": "/mnt/gogs/kbase",
+      "title": "今天的工作内容是什么？",
+      "createdAt": "2026-01-27T09:38:19.753Z",
+      "updatedAt": "2026-01-27T09:38:19.753Z"
+    },
+    {
+      "sessionId": "3625b109-612e-4c98-8fa8-45aab4425f5f",
+      "agentId": "claude-code-acp",
+      "cwd": "/mnt/gogs/kbase",
+      "title": "今天的工作内容是什么？",
+      "createdAt": "2026-01-27T08:29:07.190Z",
+      "updatedAt": "2026-01-27T08:29:07.190Z"
+    },
+    {
+      "sessionId": "6e8508bb-8d24-4310-9be8-751c8c5788be",
+      "agentId": "claude-code-acp",
+      "cwd": "/mnt/gogs/kbase",
+      "title": "总结这周的工作内容",
+      "createdAt": "2026-01-27T08:27:35.987Z",
+      "updatedAt": "2026-01-27T08:27:35.987Z"
+    }
+  ],
+  "lastUsedModels": {
+    "claude-code-acp": "MiniMax-M2.5"
+  },
+  "showFloatingButton": false,
+  "floatingButtonImage": "",
+  "floatingWindowSize": {
+    "width": 400,
+    "height": 500
+  },
+  "floatingWindowPosition": null,
+  "floatingButtonPosition": null
+}

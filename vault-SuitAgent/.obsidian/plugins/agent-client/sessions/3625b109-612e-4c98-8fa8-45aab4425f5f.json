@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "sessionId": "3625b109-612e-4c98-8fa8-45aab4425f5f",
+  "agentId": "claude-code-acp",
+  "messages": [
+    {
+      "id": "c0be17ad-eada-4ea7-9d99-a4e03a0472eb",
+      "role": "user",
+      "content": [
+        {
+          "type": "text_with_context",
+          "text": "今天的工作内容是什么？",
+          "autoMentionContext": {
+            "noteName": "2026-01-27",
+            "notePath": "Diary/2026/2026-01-27.md"
+          }
+        }
+      ],
+      "timestamp": "2026-01-27T08:29:07.090Z"
+    }
+  ],
+  "savedAt": "2026-01-27T08:29:07.204Z"
+}
