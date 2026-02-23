@@ -10,7 +10,7 @@
           {
             "id": "93f35edf851743e0",
             "type": "tabs",
-            "dimension": 61.13989637305699,
+            "dimension": 56.15530303030303,
             "children": [
               {
                 "id": "c5cb75d852567bc4",
@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Diary/2025/2025-07-17.md",
+                    "file": "03Resource/工具/obsidian/template/diary.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -33,44 +33,20 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "2025-07-17"
-                }
-              },
-              {
-                "id": "5a5a1f7fb25ea109",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Diary/2025/2025-10-01.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "2025-10-01"
+                  "title": "diary"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "78857c6ae5117adf",
             "type": "split",
-            "dimension": 38.860103626943,
+            "dimension": 43.84469696969697,
             "children": [
               {
                 "id": "8f375c63def0d216",
                 "type": "tabs",
+                "dimension": 42.08984375,
                 "children": [
                   {
                     "id": "baddf653e30fb9a0",
@@ -87,6 +63,7 @@
               {
                 "id": "8ffd1a79fcba4736",
                 "type": "tabs",
+                "dimension": 57.91015625,
                 "children": [
                   {
                     "id": "1b149334eee15bdd",
@@ -154,7 +131,7 @@
       {
         "id": "ebf6e326f9986220",
         "type": "tabs",
-        "dimension": 58.931185944363094,
+        "dimension": 63.383084577114424,
         "children": [
           {
             "id": "c38ba062a467429c",
@@ -201,7 +178,7 @@
       {
         "id": "d48c3074f5b9c956",
         "type": "tabs",
-        "dimension": 41.068814055636906,
+        "dimension": 36.61691542288557,
         "children": [
           {
             "id": "8a2e43e8218455e7",
@@ -226,8 +203,18 @@
       {
         "id": "0dcb57c09f00a844",
         "type": "tabs",
-        "dimension": 30.438931297709924,
+        "dimension": 40.0763358778626,
         "children": [
+          {
+            "id": "6b3652b59febae87",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
           {
             "id": "bb9eb5040db2dec1",
             "type": "leaf",
@@ -239,13 +226,34 @@
             }
           },
           {
-            "id": "6b3652b59febae87",
+            "id": "42b93b483501c341",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "a2455fdf1f609949",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
             }
           }
         ]
@@ -253,8 +261,32 @@
       {
         "id": "d9eb354692e3fb4f",
         "type": "tabs",
-        "dimension": 69.56106870229007,
+        "dimension": 59.92366412213741,
         "children": [
+          {
+            "id": "5a5a1f7fb25ea109",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03Resource/工具/obsidian/template/diary.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "diary"
+            }
+          },
           {
             "id": "93cd81f982d06831",
             "type": "leaf",
@@ -281,13 +313,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/2025/2025-07-16.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Home 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -315,7 +346,8 @@
               "title": "插件不再活动"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -342,16 +374,15 @@
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "net-clip:NetClip": false,
-      "infio-copilot:打开 Infio Copilot": false,
-      "periodic-notes:Open today": false,
-      "workspaces-plus:Manage workspaces": false
+      "infio-copilot:打开 Infio Copilot": false
     }
   },
-  "active": "5a5a1f7fb25ea109",
+  "active": "c5cb75d852567bc4",
   "lastOpenFiles": [
-    "Diary/2025/2025-07-17.md",
     "Diary/2025/2025-10-01.md",
+    "_infio_prompts",
     "03Resource/GIS/杭州爬山路线.md",
+    "Diary/2025/2025-07-17.md",
     "Home/Home.canvas",
     "Readme.md",
     "03Resource/GIS/使用 Obsidian 打造个人 GIS 系统.md",
@@ -370,7 +401,6 @@
     "03Resource/GIS/assets/杭州爬山路线/file-20250930101517991.gpx",
     "03Resource/GIS/assets/杭州爬山路线/file-20250929134340566.gpx",
     "03Resource/GIS/assets/杭州爬山路线/file-20250929134340560.gpx",
-    "03Resource/GIS/assets/杭州爬山路线/file-20250929134340549.gpx",
     "Diary/2025/2025-07-18.md",
     "Diary/2025/2025-07-19.md",
     "Diary/2025/2025-07-27.md",
@@ -386,7 +416,6 @@
     "Diary/2025/Monthly/2025-07.md",
     "assets/Readme/home.png",
     "Diary/Diary.md",
-    "课程设计/课程设计.md",
     "assets/Readme/xtool-logo.png",
     "files/xtool-logo.png",
     "files/home.png",
